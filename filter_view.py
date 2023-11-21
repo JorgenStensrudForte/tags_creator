@@ -117,7 +117,7 @@ categories, tags = get_filter_data(df2_gpt4, [])
 # st.write(tags.keys())
 
 
-columns1, columns2 = st.columns([1, 3])
+columns1, columns2 = st.columns([1, 5])
 with columns1:
     selected_category = st.selectbox("Select a category", categories)
 

@@ -12,7 +12,7 @@ st.set_page_config(
     page_title="Filter View",
     page_icon="🧊",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
 )
 
 # if st.button("redo"):
@@ -28,6 +28,18 @@ new_columns, new_columns2 = st.columns([1, 3])
 # df2_test = pd.read_csv("data/good_data/df_tags_use_app_15_11_test.csv")
 df2_gpt4 = pd.read_csv("data/tags_gpt4.csv")
 # df2_gpt4 = pd.read_csv("data/good_data/tags_gpt4.csv")
+
+st.markdown(
+    """
+    <style>
+    .reportview-container {
+        width: 90%;
+        margin: auto;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 
 # Display the DataFrame

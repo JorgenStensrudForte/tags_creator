@@ -153,7 +153,7 @@ with columns2:
         # Display the image
         # col.image(row.image_url, use_column_width=True)
         col.markdown(
-            f'<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; border: 1px solid #ddd; padding: 10px; margin: 10px; width: 175px; height: 175px; overflow: hidden;">'
+            f'<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; border: 1px solid #ddd; padding: 10px; margin: 10px; width: 250px; height: 175px; overflow: hidden;">'
             f'<img src="{row.image_url}" style="max-width: 100%; max-height: 50%; object-fit: cover;"/>'
             f'<h5 style="margin-top: 10px; text-align: center; word-wrap: break-word;">{row.Product_Name}</h5>'
             f'<a href="{row.url}" target="_blank" style="text-align: center;">Go to site</a>'

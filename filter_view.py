@@ -17,9 +17,8 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-    .reportview-container {
-        width: 40%;
-        margin: auto;
+    .main {
+        width: 50% !important;
     }
     </style>
     """,

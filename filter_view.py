@@ -25,27 +25,9 @@ st.title("Filter View")
 new_columns, new_columns2 = st.columns([1, 3])
 
 
-# df = pd.read_csv("data/good_data/df_tech_new_tags_test.csv")
-# df = pd.read_csv("data/df_tags_technology_15_11.csv")
-
 # df2_test = pd.read_csv("data/good_data/df_tags_use_app_15_11_test.csv")
 df2_gpt4 = pd.read_csv("data/tags_gpt4.csv")
 # df2_gpt4 = pd.read_csv("data/good_data/tags_gpt4.csv")
-# df2 = pd.read_csv("data/df_tags_use_app_15_11.csv")
-# remove any rows with NaN values
-
-# st.dataframe(df2.head(10))
-# df2_tags = df2[["Product_Name", "product_tags"]]
-
-
-# # Merge the two DataFrames on "Product_Name"
-# merged_df = pd.merge(df, df2_tags, on="Product_Name", suffixes=("_df", "_df2"))
-
-# # Combine 'tags_df' and 'tags_df2' into one column
-# merged_df["tags_combined"] = (
-#     merged_df["tags_df"].astype(str) + ", " + merged_df["tags_df2"].astype(str)
-# )
-# st.write(df2.head(10))
 
 
 # Display the DataFrame
@@ -124,32 +106,8 @@ def get_filter_data(df, tags_list=[]):
 categories, tags = get_filter_data(df2_gpt4, [])
 # st.write(tags.keys())
 
-# df = pd.read_csv("data/df_tech_new_tags_test.csv")
-
-
-# st.write(tags)
-# make a filter view in col1 and product view in col2
-# Create a selectbox for the categories
-import streamlit as st
-import imgkit
 
 columns1, columns2 = st.columns([1, 3])
-# with columns1:
-#     selected_category = st.selectbox("Select a category", categories)
-
-#     selected_tags = []
-#     # Check if the selected_category exists in the tags dictionary
-#     if selected_category in tags:
-#         for high_level_tag in tags[selected_category]:
-#             if st.checkbox(high_level_tag, key=selected_category + high_level_tag):
-#                 for low_level_tag in tags[selected_category][high_level_tag]:
-#                     col1, col2 = st.columns([1, 11])
-#                     with col2:
-#                         if st.checkbox(
-#                             low_level_tag,
-#                             key=selected_category + high_level_tag + low_level_tag,
-#                         ):
-#                             selected_tags.append(low_level_tag)
 with columns1:
     selected_category = st.selectbox("Select a category", categories)
 

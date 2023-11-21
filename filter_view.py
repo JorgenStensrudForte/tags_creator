@@ -117,7 +117,7 @@ categories, tags = get_filter_data(df2_gpt4, [])
 # st.write(tags.keys())
 
 
-columns1, columns2 = st.columns([1, 5])
+columns1, columns2 = st.columns([1, 4])
 with columns1:
     selected_category = st.selectbox("Select a category", categories)
 
@@ -161,6 +161,7 @@ with columns2:
             unsafe_allow_html=True,
         )
 
+st.data_editor(filtered_df)
 
 # if "delete_list" not in st.session_state:
 #     st.session_state.delete_list = []

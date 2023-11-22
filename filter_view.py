@@ -36,7 +36,7 @@ new_columns, new_columns2 = st.columns([1, 3])
 
 
 # df2_test = pd.read_csv("data/good_data/df_tags_use_app_15_11_test.csv")
-df2_gpt4 = pd.read_csv("data/tags_gpt4.csv")
+df2_gpt4 = pd.read_csv("data/tags_gpt4_issoftware.csv")
 # df2_gpt4 = pd.read_csv("data/good_data/tags_gpt4.csv")
 
 
@@ -120,7 +120,6 @@ categories, tags = get_filter_data(df2_gpt4, [])
 columns1, columns2 = st.columns([1, 4])
 with columns1:
     selected_category = st.selectbox("Select a category", categories)
-
     selected_tags = []
     # Check if the selected_category exists in the tags dictionary
     if selected_category in tags:
@@ -132,6 +131,9 @@ with columns1:
                         key=selected_category + high_level_tag + low_level_tag,
                     ):
                         selected_tags.append(low_level_tag)
+    select_software = st.selectbox(
+        "Software/Hardware Selector", ["All", "Software", "Hardware"]
+    )
 
 with columns2:
     # Filter the DataFrame based on the selected tags
@@ -143,6 +145,13 @@ with columns2:
         )
         & (df2_gpt4["Product category"] == selected_category)
     ]
+    # If the 'select software' checkbox is checked, filter the DataFrame based on the 'is_software' column
+    if select_software == "Software":
+        filtered_df = filtered_df[filtered_df["is_software"] == True]
+    elif select_software == "Hardware":
+        filtered_df = filtered_df[filtered_df["is_software"] == False]
+    else:
+        filtered_df = filtered_df
     # Display the filtered DataFrame
     cols = st.columns(3)
     # Iterate over the filtered DataFrame

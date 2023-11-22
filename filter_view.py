@@ -34,10 +34,18 @@ st.title("Filter View")
 # update tags list
 new_columns, new_columns2 = st.columns([1, 3])
 
-
-# df2_test = pd.read_csv("data/good_data/df_tags_use_app_15_11_test.csv")
-df2_gpt4 = pd.read_csv("data/tags_gpt4_issoftware.csv")
-# df2_gpt4 = pd.read_csv("data/good_data/tags_gpt4.csv")
+df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware.csv")
+# file_select = st.selectbox(
+#     "Select file", ["df_tags_use_app_22_11_issoftware", "tags_gpt4_issoftware"]
+# )
+# # df2_test = pd.read_csv("data/good_data/df_tags_use_app_15_11_test.csv")
+# # df2_gpt4 = pd.read_csv("data/tags_gpt4_issoftware.csv")
+# # df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware.csv")
+# # df2_gpt4 = pd.read_csv("data/good_data/tags_gpt4.csv")
+# if file_select == "df_tags_use_app_22_11_issoftware":
+#     df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware.csv")
+# if file_select == "tags_gpt4_issoftware":
+#     df2_gpt4 = pd.read_csv("data/tags_gpt4_issoftware.csv")
 
 
 # Display the DataFrame
@@ -147,9 +155,9 @@ with columns2:
     ]
     # If the 'select software' checkbox is checked, filter the DataFrame based on the 'is_software' column
     if select_software == "Software":
-        filtered_df = filtered_df[filtered_df["is_software"] == True]
+        filtered_df = filtered_df[filtered_df["is_software"] == "True"]
     elif select_software == "Hardware":
-        filtered_df = filtered_df[filtered_df["is_software"] == False]
+        filtered_df = filtered_df[filtered_df["is_software"] == "False"]
     else:
         filtered_df = filtered_df
     # Display the filtered DataFrame
@@ -170,7 +178,15 @@ with columns2:
             unsafe_allow_html=True,
         )
 
-st.data_editor(filtered_df)
+# drop Unamed column
+# filtered_df.drop(columns=["Unnamed: 0"], inplace=True)
+st.data_editor(
+    filtered_df,
+    column_config={
+        "url": st.column_config.LinkColumn("website url"),
+    },
+    height=1000,
+)
 
 # if "delete_list" not in st.session_state:
 #     st.session_state.delete_list = []

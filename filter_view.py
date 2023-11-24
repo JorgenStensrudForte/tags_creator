@@ -186,15 +186,18 @@ with columns2:
             unsafe_allow_html=True,
         )
 
-# drop Unamed column
-# filtered_df.drop(columns=["Unnamed: 0"], inplace=True)
-st.data_editor(
-    filtered_df,
-    column_config={
-        "url": st.column_config.LinkColumn("website url"),
-    },
-    height=1000,
-)
+# Get the unique products in filtered_df
+unique_products = filtered_df["Product_Name"].unique()
+
+# Filter df2_gpt4 to only include rows where 'Product' is in unique_products
+st.data_editor(df2_gpt4[df2_gpt4["Product_Name"].isin(unique_products)])
+# st.data_editor(
+#     filtered_df,
+#     column_config={
+#         "url": st.column_config.LinkColumn("website url"),
+#     },
+#     height=1000,
+# )
 
 # if "delete_list" not in st.session_state:
 #     st.session_state.delete_list = []

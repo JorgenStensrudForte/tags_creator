@@ -34,7 +34,7 @@ st.title("Filter View")
 # update tags list
 new_columns, new_columns2 = st.columns([1, 3])
 
-df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware.csv")
+df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware2.csv")
 # file_select = st.selectbox(
 #     "Select file", ["df_tags_use_app_22_11_issoftware", "tags_gpt4_issoftware"]
 # )

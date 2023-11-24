@@ -123,7 +123,8 @@ def get_filter_data(df, tags_list=[]):
 
 categories, tags = get_filter_data(df2_gpt4, [])
 # st.write(tags.keys())
-
+if "filered_df" not in st.session_state:
+    st.session_state.filered_df = df2_gpt4
 
 columns1, columns2 = st.columns([1, 4])
 with columns1:
@@ -147,7 +148,7 @@ with columns1:
 
 with columns2:
     # Filter the DataFrame based on the selected tags
-    filtered_df = df2_gpt4[
+    st.session_state.filered_df = df2_gpt4[
         df2_gpt4["product_tags"].apply(
             lambda x: all(tag in x for tag in selected_tags)
             if isinstance(x, (list, str))
@@ -159,19 +160,23 @@ with columns2:
     ]
     # If the 'select software' checkbox is checked, filter the DataFrame based on the 'is_software' column
     if select_software == "Software":
-        filtered_df = filtered_df[filtered_df["is_software"] == "True"]
+        st.session_state.filered_df = st.session_state.filered_df[
+            st.session_state.filered_df["is_software"] == "True"
+        ]
     elif select_software == "Hardware":
-        filtered_df = filtered_df[filtered_df["is_software"] == "False"]
+        st.session_state.filered_df = st.session_state.filered_df[
+            st.session_state.filered_df["is_software"] == "False"
+        ]
     else:
-        filtered_df = filtered_df
+        st.session_state.filered_df = st.session_state.filered_df
 
     if show_all:
-        filtered_df = df2_gpt4
+        st.session_state.filered_df = df2_gpt4
 
     # Display the filtered DataFrame
     cols = st.columns(3)
     # Iterate over the filtered DataFrame
-    for i, row in enumerate(filtered_df.itertuples()):
+    for i, row in enumerate(st.session_state.filered_df.itertuples()):
         # Get the column to display the image in
         col = cols[i % 3]
 
@@ -187,17 +192,15 @@ with columns2:
         )
 
 # Get the unique products in filtered_df
-unique_products = filtered_df["Product_Name"].unique()
 
 # Filter df2_gpt4 to only include rows where 'Product' is in unique_products
-st.data_editor(df2_gpt4[df2_gpt4["Product_Name"].isin(unique_products)])
-# st.data_editor(
-#     filtered_df,
-#     column_config={
-#         "url": st.column_config.LinkColumn("website url"),
-#     },
-#     height=1000,
-# )
+st.data_editor(
+    st.session_state.filered_df,
+    column_config={
+        "url": st.column_config.LinkColumn("website url"),
+    },
+    height=1000,
+)
 
 # if "delete_list" not in st.session_state:
 #     st.session_state.delete_list = []

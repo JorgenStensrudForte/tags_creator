@@ -780,6 +780,30 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }","{
     ""tags"": ""Software, Data Management, environmental monitoring""
 }","https://www.kongsberg.com/contentassets/d812d1957b0746a18e778d56aeb3aec4/imagez47lp.png?width=750&rxy=0.5,0.5",True,,
+32,"Uncrewed Surface Vehicle, Sounder",Autonomous and uncrewed solutions," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/marine-robotics/autonomous-surface-vehicles/sounder-uncrewed-surface-vehicle/,"{
+  ""tags"": [""autonomous"", ""marine drone"", ""oceanographic surveys"", ""remote sensing"", ""USV""]
+}","{
+    ""Product Type"": [
+        ""transponder"",
+        ""Autonomous Echo Sounders Programming"",
+        ""marine survey equipment"",
+        ""Software""
+    ],
+    ""Technology"": [
+        ""acoustic communication"",
+        ""3D sonar sensing"",
+        ""sensor fusion"",
+        ""machine learning""
+    ],
+    ""Application"": [
+        ""underwater_navigation"",
+        ""marine research"",
+        ""Data Management"",
+        ""environmental monitoring""
+    ]
+}","{
+    ""Tags"": ""marine survey equipment, 3D sonar sensing, underwater_navigation, environmental monitoring""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
 34,Kongsberg Proximity Assistance,Autonomous and uncrewed solutions," Multibeam Echo Sounders, Multibeam Sonar, Shallow Water Multibeam, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/situational-awareness/proximityview/,"{""tags"": [""marine navigation"", ""docking assistance"", ""vessel positioning"", ""augmented reality display"", ""motion prediction""]}","{
     ""Product Type"": [
         ""transponder"",
@@ -1488,6 +1512,30 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }","{
     ""tags"": ""echo sounder, multi-frequency echo sounder, fish stock assessment, catch monitoring""
 }",https://www.kongsberg.com/globalassets/discovery/simrad/transducers/70-and-es70/es70-7cd-image.png,False,,
+56,Simrad C-All,Fish finding," Multibeam Sonar, High-Resolution Sonar, Sonar Heads, Scanning Sonar, Sub-bottom Profilers",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/simrad-38khz-transducers/c-all/,"{
+  ""tags"": [""multifrequency transducer"", ""echo sounder"", ""fish detection"", ""Wide Band Transceiver compatible"", ""marine technology""]
+}","{
+    ""Product Type"": [
+        ""portable sonar"",
+        ""echo sounder"",
+        ""sonar system"",
+        ""navigation software""
+    ],
+    ""Technology"": [
+        ""chirp technology"",
+        ""split-beam technology"",
+        ""wideband chirp"",
+        ""multi-frequency echo sounder""
+    ],
+    ""Application"": [
+        ""fish finding"",
+        ""fish stock assessment"",
+        ""maritime navigation"",
+        ""catch monitoring""
+    ]
+}","{
+    ""tags"": ""portable sonar, chirp technology, fish finding, maritime navigation""
+}",https://www.kongsberg.comhttps://www.simrad.net/c-all/images/BM010427_001_001_c_all_600px_web.png,False,,
 66,Simrad 120-25,Fish finding," Portable Hydrographic System, Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/simrad-120khz-transducers/simrad-120-25/,"{""tags"": [""single-beam transducer"", ""deep sea fishing"", ""high-frequency sonar"", ""marine equipment"", ""underwater navigation""]}","{
     ""Product Type"": [
         ""portable sonar"",
@@ -1600,6 +1648,30 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }","{
     ""tags"": ""echo sounder, split-beam technology, fish stock assessment, catch monitoring""
 }",https://www.kongsberg.com/globalassets/discovery/simrad/transducers/120-and-es120/bm2714a_es120-7g_165x223.png,False,,
+56,Simrad C-All,Fish finding," Multibeam Sonar, High-Resolution Sonar, Sonar Heads, Scanning Sonar, Sub-bottom Profilers",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/simrad-38khz-transducers/c-all/,"{
+  ""tags"": [""multifrequency transducer"", ""echo sounder"", ""fish detection"", ""Wide Band Transceiver compatible"", ""marine technology""]
+}","{
+    ""Product Type"": [
+        ""portable sonar"",
+        ""echo sounder"",
+        ""sonar system"",
+        ""navigation software""
+    ],
+    ""Technology"": [
+        ""chirp technology"",
+        ""split-beam technology"",
+        ""wideband chirp"",
+        ""multi-frequency echo sounder""
+    ],
+    ""Application"": [
+        ""fish finding"",
+        ""fish stock assessment"",
+        ""maritime navigation"",
+        ""catch monitoring""
+    ]
+}","{
+    ""tags"": ""portable sonar, chirp technology, fish finding, maritime navigation""
+}",https://www.kongsberg.comhttps://www.simrad.net/c-all/images/BM010427_001_001_c_all_600px_web.png,False,,
 71,Simrad ES120-18CDK,Fish finding," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/simrad-120khz-transducers/es120-18cdk/,"{""tags"": [""wideband transducer"", ""subsea deployment"", ""autonomous marine equipment"", ""120 kHz frequency"", ""1500 m depth rating""]}","{
     ""Product Type"": [
         ""portable sonar"",
@@ -1780,6 +1852,30 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }","{
   ""tags"": ""portable sonar, wideband chirp, multi-frequency echo sounder, fish finding, catch monitoring""
 }",https://www.kongsberg.comhttps://www.simrad.net/td_038/38_200_combi_w/photo.gif,False,,
+56,Simrad C-All,Fish finding," Multibeam Sonar, High-Resolution Sonar, Sonar Heads, Scanning Sonar, Sub-bottom Profilers",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/simrad-38khz-transducers/c-all/,"{
+  ""tags"": [""multifrequency transducer"", ""echo sounder"", ""fish detection"", ""Wide Band Transceiver compatible"", ""marine technology""]
+}","{
+    ""Product Type"": [
+        ""portable sonar"",
+        ""echo sounder"",
+        ""sonar system"",
+        ""navigation software""
+    ],
+    ""Technology"": [
+        ""chirp technology"",
+        ""split-beam technology"",
+        ""wideband chirp"",
+        ""multi-frequency echo sounder""
+    ],
+    ""Application"": [
+        ""fish finding"",
+        ""fish stock assessment"",
+        ""maritime navigation"",
+        ""catch monitoring""
+    ]
+}","{
+    ""tags"": ""portable sonar, chirp technology, fish finding, maritime navigation""
+}",https://www.kongsberg.comhttps://www.simrad.net/c-all/images/BM010427_001_001_c_all_600px_web.png,False,,
 79,Simrad ES333-7C,Fish finding," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/333-khz/simrad-es333-7c/,"{""tags"": [""split-beam transducer"", ""marine research"", ""fishery applications"", ""sea temperature sensor"", ""333 kHz frequency""]}","{
     ""Product Type"": [
         ""portable sonar"",
@@ -2227,6 +2323,35 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }","{
   ""tags"": ""portable sonar, chirp technology, fish finding, catch monitoring""
 }","https://www.kongsberg.com/globalassets/discovery/simrad/gear-monitoring-systems/fx-system/fx-system-images/cd019902_xxx_fx_logo_250x250px.png?width=500&rxy=0.5,0.5",False,,
+89,Simrad PX Configurator,Fish finding," Portable Hydrographic System, Multibeam Sonar, Multibeam Echo Sounders, Sub-bottom Profilers, Acoustic Modems",https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pxc/,"{
+  ""tags"": [""catch monitoring sensor configuration"", ""trawl door calibration"", ""sensor programming"", ""marine electronics software"", ""fishing industry technology""]
+}","{
+    ""Product Type"": [
+        ""portable sonar"",
+        ""echo sounder"",
+        ""sonar system"",
+        ""navigation software""
+    ],
+    ""Technology"": [
+        ""chirp technology"",
+        ""split-beam technology"",
+        ""wideband chirp"",
+        ""multi-frequency echo sounder""
+    ],
+    ""Application"": [
+        ""fish finding"",
+        ""fish stock assessment"",
+        ""maritime navigation"",
+        ""catch monitoring""
+    ]
+}","{
+    ""Tags"": [
+        ""sonar system"",
+        ""navigation software"",
+        ""fish stock assessment"",
+        ""catch monitoring""
+    ]
+}","https://www.kongsberg.com/globalassets/discovery/simrad/gear-monitoring-sensors/px-configurator/px-configurator-media/bm010315_px_configurator_start_dbox.png?width=750&rxy=0.5,0.5",True,,
 99,Simrad BR90,Fish finding," Data Analytics Platforms, Cloud-Based Data Management, Remote Monitoring Solutions, Survey Equipment, Data Printing",https://www.kongsberg.com/maritime/products/bridge-systems-and-control-centres/broadband-radios/br90/,"{""tags"": [""marine communications"", ""integrated antennas"", ""data transfer"", ""maritime network"", ""unmanned vessels""]}","{
     ""Product Type"": [
         ""portable sonar"",
@@ -2563,7 +2688,11 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }","https://www.kongsberg.com/globalassets/discovery/simrad/sonars/mf90/mf90-media/cd019902_xxx_mf90_logo_250x250px.png?width=500&rxy=0.5,0.5",False,,
 114,transceivers for scientific echo sounders,"Fish finding, Fishery research"," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/es_scientific/sci_es_transceivers/,"{
   ""tags"": [""underwater communication"", ""acoustic signal transmission"", ""marine research equipment"", ""echo sounder accessory"", ""sonar technology""]
-}",,,"https://www.kongsberg.com/contentassets/d2260f44c23d48b3a2f44bfe554f320b/tonny.jpg?width=200&rxy=0.5,0.5",False,,
+}",,"{
+  ""tags"": ""echo sounder, split-beam technology, multi-frequency echo sounder, fish stock assessment, catch monitoring""
+}, {
+  ""tags"": [""Information transfer system"", ""Environmental sensing"", ""Sensor fusion"", ""Biomass measurement""]
+}","https://www.kongsberg.com/contentassets/d2260f44c23d48b3a2f44bfe554f320b/tonny.jpg?width=200&rxy=0.5,0.5",False,,
 115,Aquaculture monitoring system,Fishery research," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/commercial-fisheries/aquaculture-monitoring-systems/aquaculture-monitoring-system/,"{""tags"": [""echo sounder system"", ""sensor fusion"", ""fish farming efficiency"", ""remote surveillance"", ""biomass measurement""]}","{
     ""Product Type"": [
         ""Aquaculture monitoring system"",
@@ -3005,7 +3134,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""thermal imaging, high-resolution printing""
-}","https://www.kongsberg.com/contentassets/e73fe3871f5d49988c3dbe162864df2d/geoprinter-250x223.jpg?width=500&rxy=0.5,0.5",[],[],0.0
+}","https://www.kongsberg.com/contentassets/e73fe3871f5d49988c3dbe162864df2d/geoprinter-250x223.jpg?width=500&rxy=0.5,0.5",False,,0.0
 139,Sign up for EM news updates,Maritime communications," Portable Hydrographic System, Multibeam Sonar, Multibeam Echo Sounders, Sub-bottom Profilers, Acoustic Modems",https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/multibeam-echo-sounders/em-news-updates/,"{
   ""tags"": [""newsletter"", ""news updates"", ""email subscription"", ""current events"", ""information""]
 }","{
@@ -3027,7 +3156,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
         ""marine safety"",
         ""ship positioning""
     ]
-}","{""tags"": ""digital product,software update""}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,[],[],1.0
+}","{""tags"": ""digital product,software update""}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,True,,1.0
 140,"Sonar Processing Software, MS1000",Maritime communications," Portable Hydrographic System, Multibeam Sonar, Multibeam Echo Sounders, Sub-bottom Profilers, Acoustic Modems",https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/sonars/sonar-processing-software-ms1000/,"{""tags"": [""sonar software"", ""underwater imaging"", ""multi-head support"", ""data interpretation"", ""3D profiling""]}","{
     ""Product Type"": [
         ""digital product"",
@@ -3049,7 +3178,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""Tags"": ""digital product, licensed software, maritime communication, maritime surveillance, marine safety, ship positioning""
-}","https://www.kongsberg.com/contentassets/0f53a62b171e422fa71c1383a098fdff/ms-1000-processor-500x268.jpg?width=500&rxy=0.5,0.5",[],[],1.0
+}","https://www.kongsberg.com/contentassets/0f53a62b171e422fa71c1383a098fdff/ms-1000-processor-500x268.jpg?width=500&rxy=0.5,0.5",True,,1.0
 141,AIS service management system,Maritime communications," Portable Hydrographic System, Multibeam Sonar, Multibeam Echo Sounders, Sub-bottom Profilers, Acoustic Modems",https://www.kongsberg.com/maritime/products/onshore/onshore-systems/ais-network-infrastructure-shorebased/ais-service-management-system/,"{""tags"": [""AIS network monitoring"", ""marine navigation"", ""vessel tracking"", ""base station management"", ""electronic chart display""]}","{
     ""Product Type"": [
         ""digital product"",
@@ -3071,7 +3200,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""digital product, licensed software, maritime communication, maritime surveillance, marine safety, ship positioning""
-}","https://www.kongsberg.com/contentassets/f3f5d1afd51c47f4b4b77e2e5ca8caf2/ais_cm.jpg?width=750&rxy=0.5,0.5",['AIS physical shore stations'],['https://www.kongsberg.com/maritime/products/onshore/onshore-systems/ais-network-infrastructure-shorebased/ais-physical-shore-stations/'],1.0
+}","https://www.kongsberg.com/contentassets/f3f5d1afd51c47f4b4b77e2e5ca8caf2/ais_cm.jpg?width=750&rxy=0.5,0.5",True,,1.0
 142,AIS physical shore stations,Maritime communications," Portable Hydrographic System, Multibeam Sonar, Fishery Sonar Systems, Acoustic Telemetry for Fish Studies, Fisheries Research Software",https://www.kongsberg.com/maritime/products/onshore/onshore-systems/ais-network-infrastructure-shorebased/ais-physical-shore-stations/,"{""tags"": [""maritime surveillance"", ""coastal AIS network"", ""AIS base station"", ""IEC62320-1 standard"", ""BSH approved""]}","{
     ""Product Type"": [
         ""digital product"",
@@ -3093,7 +3222,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""transceiver, maritime communication, maritime surveillance, marine safety, ship positioning""
-}","https://www.kongsberg.com/contentassets/c8180d2a2fa84181ab714d9bd40d02dc/ais-physical-shore-station-1020x411.jpg?width=750&rxy=0.5,0.5",[],[],0.0
+}","https://www.kongsberg.com/contentassets/c8180d2a2fa84181ab714d9bd40d02dc/ais-physical-shore-station-1020x411.jpg?width=750&rxy=0.5,0.5",False,,0.0
 143,Latest software versions for all Simrad products,Maritime communications," Portable Hydrographic System, Multibeam Sonar, Fishery Sonar Systems, Acoustic Telemetry for Fish Studies, Fisheries Research Software",https://www.kongsberg.com/maritime/products/commercial-fisheries/fisheryadcp/cp60allsw/,"{
   ""tags"": [""software update"", ""dealer support"", ""license"", ""maritime electronics"", ""product support""]
 }","{
@@ -3117,7 +3246,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""digital product, licensed software, software update, maritime communication, maritime surveillance, marine safety, ship positioning""
-}",https://www.kongsberg.com/globalassets/discovery/simrad/_generic-images/simrad-dealer-club/bm019904_001_001_sdc_logo_on_waves_359x251px_300ppi.jpg?width=360,[],[],1.0
+}",https://www.kongsberg.com/globalassets/discovery/simrad/_generic-images/simrad-dealer-club/bm019904_001_001_sdc_logo_on_waves_359x251px_300ppi.jpg?width=360,True,,1.0
 146,Maritime Broadband Radio - MBR,Maritime communications," Acoustic Telemetry for Fish Studies, Fisheries Research Software, Fishery Sonar Systems, Multibeam Sonar, Sub-bottom Profilers",https://www.kongsberg.com/maritime/products/bridge-systems-and-control-centres/broadband-radios/maritime-broadband-radio/,"{""tags"": [""maritime communication"", ""high-speed data transfer"", ""live video streaming"", ""remote maritime operations"", ""line-of-sight solution""]}","{
     ""Product Type"": [
         ""digital product"",
@@ -3139,7 +3268,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""transceiver, maritime communication, maritime surveillance, marine safety, ship positioning""
-}","https://www.kongsberg.com/globalassets/maritime/km-products/pictures/mbr_1x9_mkii_transp.png?width=500&rxy=0.5,0.5",[],[],0.0
+}","https://www.kongsberg.com/globalassets/maritime/km-products/pictures/mbr_1x9_mkii_transp.png?width=500&rxy=0.5,0.5",False,,0.0
 147,AIS space receivers,Maritime communications," Multibeam Echo Sounders, Multibeam Sonar, Side Scan Sonars, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/onshore/space-based/ais-space-receiver/,"{""tags"": [""satellite communications"", ""space-based AIS"", ""nano-satellite payload"", ""maritime vessel tracking"", ""software-defined radio""]}","{
     ""Product Type"": [
         ""digital product"",
@@ -3161,7 +3290,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""transceiver, nano-satellite payload, maritime communication, maritime surveillance, marine safety, ship positioning""
-}","https://www.kongsberg.com/contentassets/b015aabb74e9417899ad8cdfabee5ab1/space_earth_1920x500.jpg?width=1500&rxy=0.5,0.5",[],[],0.0
+}","https://www.kongsberg.com/contentassets/b015aabb74e9417899ad8cdfabee5ab1/space_earth_1920x500.jpg?width=1500&rxy=0.5,0.5",False,,0.0
 148,VDES space transceivers,Maritime communications," Portable Hydrographic System, Multibeam Echo Sounders, Multibeam Sonar, Side Scan Sonars, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/onshore/space-based/vdes-space-transceivers/,"{
   ""tags"": [""space communications"", ""transceiver"", ""satellite communication"", ""space technology"", ""VDES""]
 }","{
@@ -3185,7 +3314,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""transceiver, nano-satellite payload, maritime communication, maritime surveillance, marine safety, ship positioning""
-}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,[],[],0.0
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,0.0
 149,"Automatic Identification System, AIS",Maritime communications," Side Scan Sonars, Multibeam Sonar, Sub-bottom Profilers, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/bridge-systems-and-control-centres/navigation-systems/ais-automatic-identification-sensor/,"{""tags"": [""maritime_navigation"", ""IMO_compliant"", ""integrated_bridge_system"", ""SOLAS_ship_equipment"", ""AIS_target_tracking""]}","{
     ""Product Type"": [
         ""digital product"",
@@ -3207,7 +3336,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
   ""tags"": ""transceiver, maritime communication, maritime surveillance, marine safety, ship positioning""
-}","https://www.kongsberg.com/contentassets/bf03b9a2bb594e808781c4a1c59eee4a/ais-300-700x403.jpg?width=500&rxy=0.5,0.5",[],[],0.0
+}","https://www.kongsberg.com/contentassets/bf03b9a2bb594e808781c4a1c59eee4a/ais-300-700x403.jpg?width=500&rxy=0.5,0.5",False,,0.0
 151,Automatic identification system - AIS 200,Maritime communications," Multibeam Echo Sounders, Multibeam Sonar, Side Scan Sonars, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/bridge-systems-and-control-centres/navigation-systems/ais-200-automatic-identification-system/,"{
   ""tags"": [""maritime navigation"", ""vessel tracking"", ""nautical safety"", ""marine communication"", ""ship positioning""]
 }","{
@@ -3231,7 +3360,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""transceiver, maritime communication, maritime surveillance, marine safety, ship positioning""
-}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,[],[],0.0
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,0.0
 152,AIS 200 P - portable Automatic Identification System,Maritime communications," Multibeam Sonar, High-Resolution Sonar, Sonar Heads, Scanning Sonar, Sub-bottom Profilers",https://www.kongsberg.com/maritime/products/bridge-systems-and-control-centres/navigation-systems/ais-200-p-portable-automatic-identification-system/,"{
   ""tags"": [""marine safety"", ""AIS transceiver"", ""portable"", ""navigational aid"", ""vessel tracking""]
 }","{
@@ -3255,7 +3384,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""transceiver, maritime communication, maritime surveillance, marine safety, ship positioning""
-}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,[],[],0.0
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,0.0
 153,Latest software versions,Maritime communications," Data Analytics Platforms, Cloud-Based Data Management, Remote Monitoring Solutions, Survey Equipment, Data Printing",https://www.kongsberg.com/maritime/support/simradsupport/simradsw/,"{
   ""tags"": [""software update"", ""technology"", ""latest release"", ""digital product"", ""version upgrade""]
 }","{
@@ -3279,7 +3408,31 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ]
 }","{
     ""tags"": ""digital product, licensed software, software update""
-}",https://www.kongsberg.com/globalassets/discovery/simrad/_generic-images/simrad-dealer-club/bm019904_001_001_sdc_logo_on_waves_359x251px_300ppi.jpg?width=360,[],[],1.0
+}",https://www.kongsberg.com/globalassets/discovery/simrad/_generic-images/simrad-dealer-club/bm019904_001_001_sdc_logo_on_waves_359x251px_300ppi.jpg?width=360,True,,1.0
+143,Latest software versions for all Simrad products,Maritime communications," Portable Hydrographic System, Multibeam Sonar, Fishery Sonar Systems, Acoustic Telemetry for Fish Studies, Fisheries Research Software",https://www.kongsberg.com/maritime/products/commercial-fisheries/fisheryadcp/cp60allsw/,"{
+  ""tags"": [""software update"", ""dealer support"", ""license"", ""maritime electronics"", ""product support""]
+}","{
+    ""Product Type"": [
+        ""digital product"",
+        ""licensed software"",
+        ""transceiver"",
+        ""thermal imaging""
+    ],
+    ""Technology"": [
+        ""software update"",
+        ""nano-satellite payload"",
+       
+        ""high-resolution printing""
+    ],
+    ""Application"": [
+        ""maritime communication"",
+        ""maritime surveillance"",
+        ""marine safety"",
+        ""ship positioning""
+    ]
+}","{
+    ""tags"": ""digital product, licensed software, software update, maritime communication, maritime surveillance, marine safety, ship positioning""
+}",https://www.kongsberg.com/globalassets/discovery/simrad/_generic-images/simrad-dealer-club/bm019904_001_001_sdc_logo_on_waves_359x251px_300ppi.jpg?width=360,True,,1.0
 146,Approved anti-fouling paints,Naval," Sub-bottom Profilers, Underwater Mapping Systems, Seabed Geoacoustic Monitoring, Multibeam Sonar, Scanning Sonar",https://www.kongsberg.com/maritime/support/anti-fouling-paints/,"{
   ""tags"": [""marine coating"", ""hull protection"", ""anti-fouling"", ""boat maintenance"", ""eco-friendly paint""]
 }","{
@@ -3298,6 +3451,42 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }","{
     ""tags"": ""acoustic control system, Inertial Navigation System, BOP operation""
 }","https://www.kongsberg.com/contentassets/908f79d5012e4bfba5345fa62e5ba41c/dp_web_2.png?width=1500&rxy=0.5,0.5",False,,
+146,Approved anti-fouling paints,Naval," Sub-bottom Profilers, Underwater Mapping Systems, Seabed Geoacoustic Monitoring, Multibeam Sonar, Scanning Sonar",https://www.kongsberg.com/maritime/support/anti-fouling-paints/,"{
+  ""tags"": [""marine coating"", ""hull protection"", ""anti-fouling"", ""boat maintenance"", ""eco-friendly paint""]
+}","{
+    ""Product Type"": [""marine coating"", ""acoustic control system"", ""leak detection""],
+    ""Technology"": [""anti-fouling"", ""Hydroacoustic Positioning"", ""acoustic control system"", ""Inertial Navigation System""],
+    ""Application"": [""hull protection"", ""BOP operation"", ""early warning""]
+}","{
+    ""tags"": ""marine coating, anti-fouling, hull protection""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+146,Approved anti-fouling paints,Naval," Sub-bottom Profilers, Underwater Mapping Systems, Seabed Geoacoustic Monitoring, Multibeam Sonar, Scanning Sonar",https://www.kongsberg.com/maritime/support/anti-fouling-paints/,"{
+  ""tags"": [""marine coating"", ""hull protection"", ""anti-fouling"", ""boat maintenance"", ""eco-friendly paint""]
+}","{
+    ""Product Type"": [""marine coating"", ""acoustic control system"", ""leak detection""],
+    ""Technology"": [""anti-fouling"", ""Hydroacoustic Positioning"", ""acoustic control system"", ""Inertial Navigation System""],
+    ""Application"": [""hull protection"", ""BOP operation"", ""early warning""]
+}","{
+    ""tags"": ""marine coating, anti-fouling, hull protection""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+146,Approved anti-fouling paints,Naval," Sub-bottom Profilers, Underwater Mapping Systems, Seabed Geoacoustic Monitoring, Multibeam Sonar, Scanning Sonar",https://www.kongsberg.com/maritime/support/anti-fouling-paints/,"{
+  ""tags"": [""marine coating"", ""hull protection"", ""anti-fouling"", ""boat maintenance"", ""eco-friendly paint""]
+}","{
+    ""Product Type"": [""marine coating"", ""acoustic control system"", ""leak detection""],
+    ""Technology"": [""anti-fouling"", ""Hydroacoustic Positioning"", ""acoustic control system"", ""Inertial Navigation System""],
+    ""Application"": [""hull protection"", ""BOP operation"", ""early warning""]
+}","{
+    ""tags"": ""marine coating, anti-fouling, hull protection""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+146,Approved anti-fouling paints,Naval," Sub-bottom Profilers, Underwater Mapping Systems, Seabed Geoacoustic Monitoring, Multibeam Sonar, Scanning Sonar",https://www.kongsberg.com/maritime/support/anti-fouling-paints/,"{
+  ""tags"": [""marine coating"", ""hull protection"", ""anti-fouling"", ""boat maintenance"", ""eco-friendly paint""]
+}","{
+    ""Product Type"": [""marine coating"", ""acoustic control system"", ""leak detection""],
+    ""Technology"": [""anti-fouling"", ""Hydroacoustic Positioning"", ""acoustic control system"", ""Inertial Navigation System""],
+    ""Application"": [""hull protection"", ""BOP operation"", ""early warning""]
+}","{
+    ""tags"": ""marine coating, anti-fouling, hull protection""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
 148,Acoustic control system for BOP operation,Naval," Scanning Sonar, Underwater Mapping Systems, Acoustic Modems, Multibeam Sonar, Side Scan Sonars",https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/acoustic-control-system/ACS500/,"{""tags"": [""acoustic telemetry"", ""offshore communication"", ""subsea technology"", ""emergency control system"", ""hydroacoustic integration""]}","{
     ""Product Type"": [""marine coating"", ""acoustic control system"", ""leak detection""],
     ""Technology"": [""anti-fouling"", ""Hydroacoustic Positioning"", ""acoustic control system"", ""Inertial Navigation System""],
@@ -4565,18 +4754,65 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
         ""marine survey"",
         ""bathymetric mapping""
     ]
+}","{""tags"": ""portable hydrographic system,multibeam echosounder,multibeam sonar,seafloor mapping,ocean floor mapping,marine survey,bathymetric mapping""}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+202,Simrad CP60,Seafloor mapping," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/commercial-fisheries/fisheryadcp/cp60/,"{
+  ""tags"": [""water current measurement"", ""marine navigation"", ""fish detection"", ""transducer"", ""NMEA compatible""]
 }","{
-    ""tags"": ""multibeam echosounder, multibeam sonar, marine survey, bathymetric mapping""
-}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+    ""Product Type"": [
+        ""portable hydrographic system"",
+        ""multibeam echosounder"",
+        ""side scan sonar"",
+        ""echo sounder""
+    ],
+    ""Technology"": [
+        ""multibeam sonar"",
+        ""sidescan sonar"",
+        ""sonar_signal_processing"",
+        ""multifrequency""
+    ],
+    ""Application"": [
+        ""seafloor mapping"",
+        ""ocean floor mapping"",
+        ""marine survey"",
+        ""bathymetric mapping""
+    ]
+}","{
+    ""tags"": ""echo sounder, sonar_signal_processing, seafloor mapping, bathymetric mapping""
+}","https://www.kongsberg.com/globalassets/discovery/simrad/echo-sounders-and-adcp/cp60/cp60-images/cd019902_xxx_cp60_logo_250x250px.png?width=500&rxy=0.5,0.5",False,,
 204,650M Mini Sonar Head,"Seafloor mapping,  Fishery research"," Data Analytics Platforms, Cloud-Based Data Management, Remote Monitoring Solutions, Data Synchronization, Data Management",https://www.kongsberg.com/maritime/products/marine-robotics/underwater-vehicle-instruments/single-beam-scanning-sonars/650m-mini-sonar-head/,"{
   ""tags"": [""sonar head"", ""mini sonar"", ""marine electronics"", ""underwater detection"", ""fish finder""]
-}",,,https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
-205,EA applications,"Seafloor mapping,  Geophysical survey"," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/es_bottommapping/ea-applications/,"{""tags"": [""sub-bottom profiling"", ""sidescan sonar"", ""vertical depth measurement"", ""hydrophone integration"", ""survey equipment""]}",,,https://www.kongsberg.com/contentassets/72e7eab297cf40d78f07feb80234e606/ea-hydrophone-setup.png?width=1140,True,,
-206,SIS 5 - Multibeam echosounder software,"Seafloor mapping, Geophysical survey"," Multibeam Echo Sounders, Multibeam Sonar, Shallow Water Multibeam, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/multibeam-echo-sounders/seafloor-information-system-5/,"{""tags"": [""hydrographic survey"", ""multibeam echosounder"", ""seafloor mapping"", ""data post-processing"", ""maritime software""]}",,,"https://www.kongsberg.com/globalassets/discovery/mapping/sis/sis-media/sis-screenshot-1020x482.jpg?width=1500&rxy=0.5,0.5",True,,
-207,Simrad CP200-5C,"Seafloor mapping, Geophysical survey"," Multibeam Echo Sounders, Multibeam Sonar, Shallow Water Multibeam, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/200-khz/cp200-5c/,"{""tags"": [""marine transducer"", ""water velocity measurement"", ""echo sounder compatible"", ""high frequency 200 kHz"", ""motion sensor integration""]}",,,https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+}",,"{
+  ""tags"": ""multibeam echosounder, multibeam sonar, seafloor mapping, ocean floor mapping, marine survey, bathymetric mapping""
+}, {
+  ""tags"": ""Sensor, Environmental sensing, Biomass measurement, Fish farming efficiency, Seawater analysis, Environmental monitoring""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+205,EA applications,"Seafloor mapping,  Geophysical survey"," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/es_bottommapping/ea-applications/,"{""tags"": [""sub-bottom profiling"", ""sidescan sonar"", ""vertical depth measurement"", ""hydrophone integration"", ""survey equipment""]}",,"{
+  ""tags"": ""echo sounder, sonar_signal_processing, seafloor mapping, ocean floor mapping, marine survey, bathymetric mapping""
+}, {
+  ""tags"": ""marine survey equipment, oceanography equipment, multibeam echo sounder integration, seafloor mapping""
+}",https://www.kongsberg.com/contentassets/72e7eab297cf40d78f07feb80234e606/ea-hydrophone-setup.png?width=1140,True,,
+206,SIS 5 - Multibeam echosounder software,"Seafloor mapping, Geophysical survey"," Multibeam Echo Sounders, Multibeam Sonar, Shallow Water Multibeam, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/multibeam-echo-sounders/seafloor-information-system-5/,"{""tags"": [""hydrographic survey"", ""multibeam echosounder"", ""seafloor mapping"", ""data post-processing"", ""maritime software""]}",,"{
+  ""tags"": ""multibeam echosounder, multibeam sonar, sonar_signal_processing, seafloor mapping, ocean floor mapping, marine survey, bathymetric mapping""
+}, {
+  ""tags"": ""marine survey equipment, oceanography equipment, multibeam echo sounder integration, seafloor mapping""
+}","https://www.kongsberg.com/globalassets/discovery/mapping/sis/sis-media/sis-screenshot-1020x482.jpg?width=1500&rxy=0.5,0.5",True,,
+207,Simrad CP200-5C,"Seafloor mapping, Geophysical survey"," Multibeam Echo Sounders, Multibeam Sonar, Shallow Water Multibeam, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/200-khz/cp200-5c/,"{""tags"": [""marine transducer"", ""water velocity measurement"", ""echo sounder compatible"", ""high frequency 200 kHz"", ""motion sensor integration""]}",,"{
+  ""tags"": ""portable hydrographic system, echo sounder, sonar_signal_processing, seafloor mapping, bathymetric mapping""
+}, {
+  ""tags"": ""sub-bottom profiler, marine survey equipment, parametric sub-bottom profiler, seafloor mapping, sub-bottom imaging, sediment layer mapping""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+207,Simrad CP200-5C,"Seafloor mapping, Geophysical survey"," Multibeam Echo Sounders, Multibeam Sonar, Shallow Water Multibeam, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/commercial-fisheries/td/200-khz/cp200-5c/,"{""tags"": [""marine transducer"", ""water velocity measurement"", ""echo sounder compatible"", ""high frequency 200 kHz"", ""motion sensor integration""]}",,"{
+  ""tags"": ""portable hydrographic system, sidescan sonar, sonar_signal_processing, seafloor mapping, marine survey""
+}, {
+  ""tags"": ""marine survey equipment, oceanography equipment, multibeam echo sounder integration, seafloor mapping, sub-bottom imaging""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
 208,"Side-Scan Sonar, PulSAR","Seafloor mapping, Surveillance & monitoring"," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/sonars/PulSAR/,"{
   ""tags"": [""marine technology"", ""underwater imaging"", ""sonar system"", ""bathymetry"", ""seabed mapping""]
-}",,,https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+}",,"{
+  ""tags"": ""side scan sonar, sidescan sonar, sonar_signal_processing, seafloor mapping, ocean floor mapping, marine survey""
+}, {
+  ""tags"": ""sonar system, subsea technology, security, naval defense""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
 209,WBAT,Surface navigation & positioning," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/es_scientific/sci_es_transceivers/wbat/,"{""tags"": [""echo sounder"", ""marine technology"", ""fisheries research"", ""underwater acoustics"", ""long-term deployment""]}","{
     ""Product Type"": [
         ""scientific transceiver"",
@@ -5603,7 +5839,7 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
     ""tags"": ""Transponder, Hydroacoustic, Position tracking""
 }",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
 257,MST Transponders,Underwater navigation & positioning," Multibeam Echo Sounders, Multibeam Sonar, Scanning Sonar, Underwater Mapping Systems, Survey Equipment",https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/mst-transponders/,"{
-  ""tags"": []
+  ""tags"": [""transponder"", ""marine communication"", ""position tracking"", ""navigation aid"", ""MST-compatible""]
 }","{
     ""Product Type"": [
         ""Underwater Altimeters"",
@@ -5992,7 +6228,41 @@ Unnamed: 0,Product_Name,Product category,Application / use ,url,new_tags,filter_
 }",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
 274,Gyro Compass systems,"Underwater navigation & positioning, Autonomous and uncrewed solutions"," Multibeam Echo Sounders, Multibeam Sonar, Side Scan Sonars, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/vessel-reference-systems/motion-and-heading-sensors/mgc/,"{
   ""tags"": [""navigation"", ""maritime"", ""directional guidance"", ""gyroscopic technology"", ""ship equipment""]
-}",,,https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+}",,"{""tags"": ""Deep water operation, Subsea navigation, Position tracking""}, {
+  ""tags"": ""marine survey equipment, underwater_navigation""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+274,Gyro Compass systems,"Underwater navigation & positioning, Autonomous and uncrewed solutions"," Multibeam Echo Sounders, Multibeam Sonar, Side Scan Sonars, Scanning Sonar, Underwater Mapping Systems",https://www.kongsberg.com/maritime/products/vessel-reference-systems/motion-and-heading-sensors/mgc/,"{
+  ""tags"": [""navigation"", ""maritime"", ""directional guidance"", ""gyroscopic technology"", ""ship equipment""]
+}",,"{""tags"": ""Subsea navigation, Position tracking""}, {
+  ""tags"": ""transponder, marine survey equipment, underwater_navigation, marine research""
+}",https://www.feed-image-editor.com/sites/default/files/perm/wysiwyg/image_not_available.png,False,,
+143,Latest software versions for all Simrad products,Maritime communications," Portable Hydrographic System, Multibeam Sonar, Fishery Sonar Systems, Acoustic Telemetry for Fish Studies, Fisheries Research Software",https://www.kongsberg.com/maritime/products/commercial-fisheries/fisheryadcp/cp60allsw/,"{
+  ""tags"": [""software update"", ""dealer support"", ""license"", ""maritime electronics"", ""product support""]
+}","{
+    ""Product Type"": [
+        ""digital product"",
+        ""licensed software"",
+        ""transceiver"",
+        ""thermal imaging""
+    ],
+    ""Technology"": [
+        ""software update"",
+        ""nano-satellite payload"",
+       
+        ""high-resolution printing""
+    ],
+    ""Application"": [
+        ""maritime communication"",
+        ""maritime surveillance"",
+        ""marine safety"",
+        ""ship positioning""
+    ]
+}","{
+    ""tags"": ""digital product, licensed software, software update, maritime communication, maritime surveillance, marine safety, ship positioning""
+}",https://www.kongsberg.com/globalassets/discovery/simrad/_generic-images/simrad-dealer-club/bm019904_001_001_sdc_logo_on_waves_359x251px_300ppi.jpg?width=360,[],[],1.0
+275,Test page with Hero video,," Sub-bottom Profilers, Underwater Mapping Systems, Seabed Geoacoustic Monitoring, Multibeam Sonar, Scanning Sonar",https://www.kongsberg.com/maritime/products/vessel-reference-systems/position-systems/test-page-with-hero-video/,"{
+  ""tags"": [""hero video"", ""landing page"", ""multimedia content"", ""video banner"", ""web design""]
+}",,,"https://www.kongsberg.com/contentassets/42cd0f6d951d49a89b0a54070cf3bb67/dps_1920x1080.jpg?width=1500&rxy=0.5,0.5",True,,
 275,Test page with Hero video,," Sub-bottom Profilers, Underwater Mapping Systems, Seabed Geoacoustic Monitoring, Multibeam Sonar, Scanning Sonar",https://www.kongsberg.com/maritime/products/vessel-reference-systems/position-systems/test-page-with-hero-video/,"{
   ""tags"": [""hero video"", ""landing page"", ""multimedia content"", ""video banner"", ""web design""]
 }",,,"https://www.kongsberg.com/contentassets/42cd0f6d951d49a89b0a54070cf3bb67/dps_1920x1080.jpg?width=1500&rxy=0.5,0.5",True,,

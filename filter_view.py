@@ -142,6 +142,8 @@ with columns1:
     select_software = st.selectbox(
         "Software/Hardware Selector", ["All", "Software", "Hardware"]
     )
+    show_all = st.checkbox("Show all")
+
 
 with columns2:
     # Filter the DataFrame based on the selected tags
@@ -151,7 +153,9 @@ with columns2:
             if isinstance(x, (list, str))
             else False
         )
-        & (df2_gpt4["Product category"] == selected_category)
+        & df2_gpt4["Product category"].apply(
+            lambda x: selected_category in x if isinstance(x, str) else False
+        )
     ]
     # If the 'select software' checkbox is checked, filter the DataFrame based on the 'is_software' column
     if select_software == "Software":
@@ -160,6 +164,10 @@ with columns2:
         filtered_df = filtered_df[filtered_df["is_software"] == "False"]
     else:
         filtered_df = filtered_df
+
+    if show_all:
+        filtered_df = df2_gpt4
+
     # Display the filtered DataFrame
     cols = st.columns(3)
     # Iterate over the filtered DataFrame

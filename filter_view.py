@@ -92,7 +92,7 @@ def get_filter_data(df, tags_df, tags_list=[]):
         if category in tags_df["category"].values:
             category_row = tags_df[tags_df["category"] == category]
             category_dict = {}
-            for high_level_tag in ["product_type", "technology", "application"]:
+            for high_level_tag in ["product type", "technology", "application"]:
                 low_level_tags = category_row[high_level_tag].values[0]
                 if isinstance(low_level_tags, str):
                     low_level_tags = low_level_tags.split(",")
@@ -140,6 +140,7 @@ with columns1:
     )
     show_all = st.checkbox("Show all")
 
+# st.write(st.session_state.filered_df.columns)
 
 with columns2:
     # Filter the DataFrame based on the selected tags
@@ -156,11 +157,11 @@ with columns2:
     # If the 'select software' checkbox is checked, filter the DataFrame based on the 'is_software' column
     if select_software == "Software":
         st.session_state.filered_df = st.session_state.filered_df[
-            st.session_state.filered_df["is_software"] == "True"
+            st.session_state.filered_df["is_software"] == True
         ]
     elif select_software == "Hardware":
         st.session_state.filered_df = st.session_state.filered_df[
-            st.session_state.filered_df["is_software"] == "False"
+            st.session_state.filered_df["is_software"] == False
         ]
     else:
         st.session_state.filered_df = st.session_state.filered_df
@@ -213,4 +214,4 @@ print(len(st.session_state.filered_df))
 print(len(df_other_filtered))
 
 if st.button("show_category_tags:"):
-    st.json(json.dumps(tags_dict, indent=4))
+    st.write(tags_df)

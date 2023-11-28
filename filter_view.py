@@ -186,7 +186,7 @@ with columns2:
             unsafe_allow_html=True,
         )
 
-st.write(st.session_state.filered_df)
+# st.write(st.session_state.filered_df)
 
 df_other = pd.read_csv("data/df_with_many_tags_27_11.csv")
 # Get the unique product names from the filtered DataFrame

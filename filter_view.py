@@ -3,8 +3,13 @@ import pandas as pd
 import numpy as np
 import time
 import os
+import json
 
+
+# import ipynb.fs
 from python_functions import tags_list_test, tags_list, tags_list_gpt4
+
+# from .defs.usage_app_tags import tags_dict
 
 print("")
 # streamlit config
@@ -20,7 +25,7 @@ st.set_page_config(
 #     .main {
 #         width: 50% !important;
 #     }
-#     </style>
+#     </style>r
 #     """,
 #     unsafe_allow_html=True,
 # )
@@ -34,7 +39,12 @@ st.title("Filter View")
 # update tags list
 new_columns, new_columns2 = st.columns([1, 3])
 
-df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware2.csv")
+df2_gpt4 = pd.read_csv("data/tags_27_11.csv")
+with open("tags_dict.json", "r") as f:
+    tags_dict = json.load(f)
+# st.write(tags_dict)
+
+# df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware2.csv")
 # file_select = st.selectbox(
 #     "Select file", ["df_tags_use_app_22_11_issoftware", "tags_gpt4_issoftware"]
 # )
@@ -59,9 +69,11 @@ def flatten(lst):
     return result
 
 
-# get filter_data
-@st.cache_data
-def get_filter_data(df, tags_list=[]):
+def get_filter_data(df, tags_df, tags_list=[]):
+    # Convert tags_df to a DataFrame if it's not already one
+    if not isinstance(tags_df, pd.DataFrame):
+        tags_df = pd.DataFrame(tags_df)
+
     # Get unique categories, split on comma, flatten list, remove whitespace, and remove duplicates
     categories = list(
         set(
@@ -73,35 +85,17 @@ def get_filter_data(df, tags_list=[]):
         )
     )
 
-    # change the and with &
-    import ast
+    # Initialize new_tags_dict
+    new_tags_dict = {}
 
-    tags_dict = {}
     for category in categories:
-        tags = df[df["Product category"] == category]["filter_tags"].dropna().tolist()
-
-        category_dict = {}
-        for tag_str in tags:
-            if pd.notna(tag_str):
-                # Add { and } if they're not present
-                if not tag_str.startswith("{"):
-                    tag_str = "{" + tag_str
-                if not tag_str.endswith("}"):
-                    tag_str = tag_str + "}"
-
-                try:
-                    tag_dict = ast.literal_eval(tag_str)
-                except SyntaxError:
-                    print(f"SyntaxError for string: {tag_str}")
-                    continue
-            for high_level_tag, low_level_tags_str in tag_dict.items():
-                if isinstance(low_level_tags_str, list):
-                    low_level_tags = low_level_tags_str
-                else:
-                    if isinstance(low_level_tags_str, str):
-                        low_level_tags = low_level_tags_str.split(",")
-                    else:
-                        low_level_tags = ast.literal_eval(low_level_tags_str)
+        if category in tags_df["category"].values:
+            category_row = tags_df[tags_df["category"] == category]
+            category_dict = {}
+            for high_level_tag in ["product_type", "technology", "application"]:
+                low_level_tags = category_row[high_level_tag].values[0]
+                if isinstance(low_level_tags, str):
+                    low_level_tags = low_level_tags.split(",")
 
                 # Flatten the list regardless of how deeply nested it is
                 flat_low_level_tags = flatten(low_level_tags)
@@ -115,14 +109,15 @@ def get_filter_data(df, tags_list=[]):
                 ]
 
                 category_dict[high_level_tag] = unique_low_level_tags
-            tags_dict[category] = category_dict
+            new_tags_dict[category] = category_dict
 
     # Return statement is outside the for loop
-    return categories, tags_dict
+    return categories, new_tags_dict
 
 
-categories, tags = get_filter_data(df2_gpt4, [])
-# st.write(tags.keys())
+tags_df = pd.read_csv("filter_tags.csv")
+categories, tags = get_filter_data(df2_gpt4, tags_df, [])
+# st.write(tags)
 if "filered_df" not in st.session_state:
     st.session_state.filered_df = df2_gpt4
 
@@ -191,46 +186,31 @@ with columns2:
             unsafe_allow_html=True,
         )
 
-# Get the unique products in filtered_df
+st.write(st.session_state.filered_df)
+
+df_other = pd.read_csv("data/df_with_many_tags_27_11.csv")
+# Get the unique product names from the filtered DataFrame
+filtered_product_names = st.session_state.filered_df["Product_Name"].unique()
+
+# Filter the other DataFrame to only include rows where 'Product_Name' is in filtered_product_names
+df_other_filtered = df_other[df_other["Product_Name"].isin(filtered_product_names)]
+
+# Display the filtered DataFrame
+st.dataframe(df_other_filtered)
 
 # Filter df2_gpt4 to only include rows where 'Product' is in unique_products
-st.data_editor(
-    st.session_state.filered_df,
-    column_config={
-        "url": st.column_config.LinkColumn("website url"),
-    },
-    height=1000,
-)
-
-# if "delete_list" not in st.session_state:
-#     st.session_state.delete_list = []
-
-# delete_button = new_columns2.button("Delete selcted tags")
-# new_columns2.write(selected_tags)
-# if delete_button:
-#     for tag in selected_tags:
-#         st.session_state.delete_list.append(tag)
-
-
-# new_columns2.write(st.session_state.delete_list)
-# filtered_df = filtered_df[["Product_Name", "Product category", "product_tags"]]
-# st.dataframe(
-#     filtered_df,
-#     column_config={"image_url": st.column_config.ImageColumn("Preview", width="large")},
+# st.data_editor(
+#     st.session_state.filered_df[
+#         ["Product_Name", "Product category", "product_tags", "url", "is_software"]
+#     ],
+#     column_config={
+#         "url": st.column_config.LinkColumn("website url"),
+#     },
+#     height=1000,
 # )
-# if st.button("delete from csv"):
-#     # Check if delete_list exists in the session state
-#     if "delete_list" in st.session_state:
-#         # Iterate over the tags in delete_list
-#         for tag in st.session_state.delete_list:
-#             # Update the DataFrame to exclude rows where the "filter_tags" column contains the tag
-#             df2_gpt4 = df2_gpt4[
-#                 ~df2_gpt4["filter_tags"].apply(
-#                     lambda x: tag in x.values() if isinstance(x, dict) else False
-#                 )
-#             ]
 
-#     # Write the updated DataFrame back to the CSV file
-#     df2_gpt4.to_csv("data/good_data/tags_gpt4.csv", index=False, encoding="utf-8")
+print(len(st.session_state.filered_df))
+print(len(df_other_filtered))
 
-# # Redo:
+if st.button("show_category_tags:"):
+    st.json(json.dumps(tags_dict, indent=4))

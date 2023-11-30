@@ -39,7 +39,7 @@ st.title("Filter View")
 # update tags list
 new_columns, new_columns2 = st.columns([1, 3])
 
-df2_gpt4 = pd.read_csv("data/tags_27_11.csv")
+df2_gpt4 = pd.read_csv("data/df_tags_splitted_30_11.csv")
 with open("tags_dict.json", "r") as f:
     tags_dict = json.load(f)
 # st.write(tags_dict)
@@ -76,13 +76,11 @@ def get_filter_data(df, tags_df, tags_list=[]):
 
     # Get unique categories, split on comma, flatten list, remove whitespace, and remove duplicates
     categories = list(
-        set(
-            [
-                category.strip()
-                for sublist in df["Product category"].dropna().unique().tolist()
-                for category in sublist.split(",")
-            ]
-        )
+        [
+            category.strip()
+            for sublist in df["Product category"].dropna().unique().tolist()
+            for category in sublist.split(",")
+        ]
     )
 
     # Initialize new_tags_dict
@@ -100,8 +98,8 @@ def get_filter_data(df, tags_df, tags_list=[]):
                 # Flatten the list regardless of how deeply nested it is
                 flat_low_level_tags = flatten(low_level_tags)
 
-                # Convert the flattened list to a set to remove duplicates
-                unique_low_level_tags = list(set(flat_low_level_tags))
+                # Remove duplicates while preserving order
+                unique_low_level_tags = list(dict.fromkeys(flat_low_level_tags))
 
                 # Remove tags that are in tags_list
                 unique_low_level_tags = [
@@ -110,17 +108,17 @@ def get_filter_data(df, tags_df, tags_list=[]):
 
                 category_dict[high_level_tag] = unique_low_level_tags
             new_tags_dict[category] = category_dict
-
     # Return statement is outside the for loop
     return categories, new_tags_dict
 
 
 tags_df = pd.read_csv("filter_tags.csv")
 categories, tags = get_filter_data(df2_gpt4, tags_df, [])
+
 # st.write(tags)
 if "filered_df" not in st.session_state:
     st.session_state.filered_df = df2_gpt4
-
+categories = sorted(set(categories))
 columns1, columns2 = st.columns([1, 4])
 with columns1:
     selected_category = st.selectbox("Select a category", categories)
@@ -171,8 +169,15 @@ with columns2:
 
     # Display the filtered DataFrame
     cols = st.columns(3)
+
+    df_other = pd.read_csv("data/df_with_many_tags_27_11.csv")
+    # Get the unique product names from the filtered DataFrame
+    filtered_product_names = st.session_state.filered_df["Product_Name"].unique()
+
+    # Filter the other DataFrame to only include rows where 'Product_Name' is in filtered_product_names
+    df_other_filtered = df_other[df_other["Product_Name"].isin(filtered_product_names)]
     # Iterate over the filtered DataFrame
-    for i, row in enumerate(st.session_state.filered_df.itertuples()):
+    for i, row in enumerate(df_other_filtered.itertuples()):
         # Get the column to display the image in
         col = cols[i % 3]
 
@@ -189,7 +194,7 @@ with columns2:
 
 # st.write(st.session_state.filered_df)
 
-df_other = pd.read_csv("data/df_with_many_tags_27_11.csv")
+df_other = pd.read_csv("data/tags_30_11.csv")
 # Get the unique product names from the filtered DataFrame
 filtered_product_names = st.session_state.filered_df["Product_Name"].unique()
 

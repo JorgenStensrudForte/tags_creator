@@ -139,17 +139,18 @@ with columns1:
     show_all = st.checkbox("Show all")
 
 # st.write(st.session_state.filered_df.columns)
-
 with columns2:
     # Filter the DataFrame based on the selected tags
     st.session_state.filered_df = df2_gpt4[
         df2_gpt4["product_tags"].apply(
-            lambda x: all(tag in x for tag in selected_tags)
-            if isinstance(x, (list, str))
+            lambda x: all(tag.lower() in x.lower() for tag in selected_tags)
+            if isinstance(x, str)
             else False
         )
         & df2_gpt4["Product category"].apply(
-            lambda x: selected_category in x if isinstance(x, str) else False
+            lambda x: selected_category.lower() in x.lower()
+            if isinstance(x, str)
+            else False
         )
     ]
     # If the 'select software' checkbox is checked, filter the DataFrame based on the 'is_software' column

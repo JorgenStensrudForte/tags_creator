@@ -37,25 +37,64 @@ st.set_page_config(
 #     df_new.to_csv("data/tags_gpt4.csv", index=False, encoding="utf-8")
 st.title("Filter View")
 # update tags list
-new_columns, new_columns2 = st.columns([1, 3])
+
 
 df2_gpt4 = pd.read_csv("data/df_tags_splitted_30_11.csv")
-with open("tags_dict.json", "r") as f:
-    tags_dict = json.load(f)
-# st.write(tags_dict)
+runar_tags = pd.read_csv("data/tags_runar_01_12_splitted.csv")
 
-# df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware2.csv")
-# file_select = st.selectbox(
-#     "Select file", ["df_tags_use_app_22_11_issoftware", "tags_gpt4_issoftware"]
-# )
-# # df2_test = pd.read_csv("data/good_data/df_tags_use_app_15_11_test.csv")
-# # df2_gpt4 = pd.read_csv("data/tags_gpt4_issoftware.csv")
-# # df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware.csv")
-# # df2_gpt4 = pd.read_csv("data/good_data/tags_gpt4.csv")
-# if file_select == "df_tags_use_app_22_11_issoftware":
-#     df2_gpt4 = pd.read_csv("data/df_tags_use_app_22_11_issoftware.csv")
-# if file_select == "tags_gpt4_issoftware":
-#     df2_gpt4 = pd.read_csv("data/tags_gpt4_issoftware.csv")
+filter_30_11 = pd.read_csv("filter_tags.csv")
+filter_runar = pd.read_csv("data/filter_tags - RAO.csv")
+
+grouped_df = pd.read_csv("data/tags_30_11.csv")
+grouped_df_runar = pd.read_csv("data/tags_runar_01_12_grouped.csv")
+# splitted_tags_runar = pd.read_csv("data/df_tags_splitted_runar.csv")
+
+multiselect_tags = st.selectbox(
+    "Select csv file",
+    ["Tags list 30.11", "runar tags"],
+)
+# st.write(tags)
+if "splitted" not in st.session_state:
+    st.session_state.splitted_tags = df2_gpt4
+
+if "filter_tags" not in st.session_state:
+    st.session_state.filter_tags = filter_30_11
+
+if "grouped_tags" not in st.session_state:
+    st.session_state.grouped_tags = grouped_df
+
+
+if multiselect_tags == "Tags list 30.11":
+    st.session_state.splitted_tags = df2_gpt4
+    st.session_state.filter_tags = filter_30_11
+    st.session_state.grouped_tags = grouped_df
+
+elif multiselect_tags == "runar tags":
+    st.session_state.splitted_tags = runar_tags
+    st.session_state.filter_tags = filter_runar
+    st.session_state.grouped_tags = grouped_df_runar
+
+
+def get_filter_to_list(df):
+    product_type_list = [
+        item.strip()
+        for sublist in st.session_state.filter_tags["product type"].tolist()
+        for item in sublist.split(",")
+    ]
+    technology_list = [
+        item.strip()
+        for sublist in st.session_state.filter_tags["technology"].tolist()
+        for item in sublist.split(",")
+    ]
+    applications_list = [
+        item.strip()
+        for sublist in st.session_state.filter_tags["application"].tolist()
+        for item in sublist.split(",")
+    ]
+
+    # Concatenate the lists
+    filter_tags_list = product_type_list + technology_list + applications_list
+    return filter_tags_list
 
 
 # Display the DataFrame
@@ -112,13 +151,13 @@ def get_filter_data(df, tags_df, tags_list=[]):
     return categories, new_tags_dict
 
 
-tags_df = pd.read_csv("filter_tags.csv")
-categories, tags = get_filter_data(df2_gpt4, tags_df, [])
+categories, tags = get_filter_data(
+    st.session_state.splitted_tags, st.session_state.filter_tags, []
+)
+filter_tags_list = get_filter_to_list(st.session_state.filter_tags)
 
-# st.write(tags)
-if "filered_df" not in st.session_state:
-    st.session_state.filered_df = df2_gpt4
 categories = sorted(set(categories))
+
 columns1, columns2 = st.columns([1, 4])
 with columns1:
     selected_category = st.selectbox("Select a category", categories)
@@ -141,13 +180,13 @@ with columns1:
 # st.write(st.session_state.filered_df.columns)
 with columns2:
     # Filter the DataFrame based on the selected tags
-    st.session_state.filered_df = df2_gpt4[
-        df2_gpt4["product_tags"].apply(
+    st.session_state.splitted_tags = st.session_state.splitted_tags[
+        st.session_state.splitted_tags["product_tags"].apply(
             lambda x: all(tag.lower() in x.lower() for tag in selected_tags)
             if isinstance(x, str)
             else False
         )
-        & df2_gpt4["Product category"].apply(
+        & st.session_state.splitted_tags["Product category"].apply(
             lambda x: selected_category.lower() in x.lower()
             if isinstance(x, str)
             else False
@@ -155,30 +194,24 @@ with columns2:
     ]
     # If the 'select software' checkbox is checked, filter the DataFrame based on the 'is_software' column
     if select_software == "Software":
-        st.session_state.filered_df = st.session_state.filered_df[
-            st.session_state.filered_df["is_software"] == True
+        st.session_state.splitted_tags = st.session_state.splitted_tags[
+            st.session_state.splitted_tags["is_software"] == True
         ]
     elif select_software == "Hardware":
-        st.session_state.filered_df = st.session_state.filered_df[
-            st.session_state.filered_df["is_software"] == False
+        st.session_state.filered_df = st.session_state.splitted_tags[
+            st.session_state.splitted_tags["is_software"] == False
         ]
     else:
-        st.session_state.filered_df = st.session_state.filered_df
+        st.session_state.splitted_tags = st.session_state.splitted_tags
 
     if show_all:
-        st.session_state.filered_df = df2_gpt4
+        st.session_state.splitted_tags = df2_gpt4
 
     # Display the filtered DataFrame
     cols = st.columns(3)
 
-    df_other = pd.read_csv("data/df_with_many_tags_27_11.csv")
-    # Get the unique product names from the filtered DataFrame
-    filtered_product_names = st.session_state.filered_df["Product_Name"].unique()
-
-    # Filter the other DataFrame to only include rows where 'Product_Name' is in filtered_product_names
-    df_other_filtered = df_other[df_other["Product_Name"].isin(filtered_product_names)]
     # Iterate over the filtered DataFrame
-    for i, row in enumerate(df_other_filtered.itertuples()):
+    for i, row in enumerate(st.session_state.splitted_tags.itertuples()):
         # Get the column to display the image in
         col = cols[i % 3]
 
@@ -192,15 +225,39 @@ with columns2:
             f"</div>",
             unsafe_allow_html=True,
         )
+        # Display the product tags as a multiselect component
 
-# st.write(st.session_state.filered_df)
+        if isinstance(row.product_tags, str):
+            product_tags = row.product_tags.split(",")
+            product_tags = [
+                tag.strip() for tag in product_tags if tag.strip() in filter_tags_list
+            ]
 
-df_other = pd.read_csv("data/tags_30_11.csv")
+            # multi_select_tags = col.multiselect(
+            #     "Product Tags",
+            #     options=filter_tags_list,
+            #     default=product_tags,
+            #     key=row.Product_Name,
+            # )
+
+            # # If a tag is removed from the multiselect, update the DataFrame
+            # if set(multi_select_tags) != set(product_tags):
+            #     # Update the 'product_tags' column in the DataFrame
+            #     st.session_state.splitted_tags.loc[
+            #         st.session_state.splitted_tags["Product_Name"] == row.Product_Name,
+            #         "product_tags",
+            #     ] = ",".join(multi_select_tags)
+
+# Convert the 'filter_tags' DataFrame columns to lists and split each string on comma
+
+
 # Get the unique product names from the filtered DataFrame
-filtered_product_names = st.session_state.filered_df["Product_Name"].unique()
+filtered_product_names = st.session_state.splitted_tags["Product_Name"].unique()
 
 # Filter the other DataFrame to only include rows where 'Product_Name' is in filtered_product_names
-df_other_filtered = df_other[df_other["Product_Name"].isin(filtered_product_names)]
+df_other_filtered = st.session_state.grouped_tags[
+    st.session_state.grouped_tags["Product_Name"].isin(filtered_product_names)
+]
 
 # Display the filtered DataFrame
 st.dataframe(df_other_filtered)
@@ -216,8 +273,17 @@ st.dataframe(df_other_filtered)
 #     height=1000,
 # )
 
-print(len(st.session_state.filered_df))
+print(len(st.session_state.splitted_tags))
 print(len(df_other_filtered))
 
+# Initialize the session state variable if it doesn't exist
+if "button_pressed" not in st.session_state:
+    st.session_state.button_pressed = False
+
 if st.button("show_category_tags:"):
-    st.write(tags_df)
+    # Toggle the session state variable
+    st.session_state.button_pressed = not st.session_state.button_pressed
+
+# Display st.session_state.filter_tags if the button has been pressed an odd number of times
+if st.session_state.button_pressed:
+    st.write(st.session_state.filter_tags)

@@ -5,3 +5,7 @@ requests
 bs4
 openai
 ipynb
+ipykernel
+openpyxl
+PyPDF2
+pdfreader

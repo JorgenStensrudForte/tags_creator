@@ -1,4 +1,4 @@
-url,Product_Name,Data sheets,Scraped Text
+url,Product_Name,Data sheets,Scraped Text,General text,Features,Technical Specifications
 https://www.kongsberg.com/maritime/products/ocean-science/blue-insight/analytics/,Analytics,https://www.kongsberg.com/contentassets/90db5b261a15439e8c200bfc2969308f/datasheet_blueinsight.pdf,"BLUE INSIGHT
 The digital ocean toolbox
 Seamless data acquisition, fusion, processing, visualization,
@@ -31,7 +31,56 @@ BLUE INSIGHT CORE
 The Blue Insight Core module provides solutions for secure interactions between sensor platforms,
 cloud storage and data management enabled by the industrialized Internet of Things modules found in
 the Kognifai digital ecosystem.
-"
+The Core module includes required common functionality to prepare the data for automated analytics and
+advanced data handling, with the full benefits of a modern, cyber secure cloud environment. It includes a basic
+visualization framework with dashboard functionalities and graph view of data.
+This module integrates with your existing information technology systems and is a requisite for deploying the
+other Blue Insight modules.
+SENSOR FUSION DATA FORWARDER
+Sensor Fusion is an on-board/on-pre- The Data Forwarder module automates the
+mise application which receives and conversion of data in the cloud into
+prepares data from selected sensors common formats and empowers efficient
+and onboard databases for streamlined and seamless data sharing across cloud
+distribution to the Blue Insight cloud. Sensor Fusion solutions and user databases.
+also provides the interface between selected third- Examples of applications are the automated forwarding
+party sensors and serves as the link with Sensor of ecosystem data to national marine databases and
+Remote and Ocean View modules. Optionally, a real meteorological data to national data centers.
+time visualization dashboard can be provided for
+monitoring purposes.
+SENSOR REMOTE
+The Sensor Remote module provides a web
+OCEAN VIEW
+interface for remote control of selected
+The Ocean View module is a web interface
+KONGSBERG sensors such as EM and EK80.
+for visualizing selected real-time
+The web interface can be used from any web
+and historic sensor data and platform
+browser which is connected to the Blue Insight cloud - on
+information in a map overlay. The web
+the vessel and on land.
+interface can be used from any web browser which is
+connected to the Blue Insight or corporate cloud
+- on the vessel and on land. Views can be tailored
+to customer requirements with e.g. specific map
+ANALYTICS
+overlays for increased situational awareness and The Analytics module enables more
+contextualization or to external user and public in-depth data handling capabilities,
+display purposes enhanced through flexible access such as the implementation of quality
+control mechanisms. assurance steps or automated data
+analysis based on artificial intelligence. It provides
+infrastructure for both onboard and cloud-based
+machine learning from ocean data to e.g. enable
+automated classification of echo sounder data. Users
+of this module enjoy a standardized processing
+pipeline allowing for remote deployment of KONGSBERG,
+user or third party supplied algorithms.
+Generic System Overview
+Cloud
+Onboard
+Kongsberg Maritime Switchboard: +47 815 73 700
+P.O.Box 483, NO-3601 Global support 24/7: +47 33 03 24 07
+","[{'Blue Insight': 'Kongsberg Blue Insight is an open and flexible digital infrastructure product designed to meet the increasing demand for accurate information from the oceans, focusing on internet security and seamless integration. The Blue Insight automates the data stream from a wide range of sensors and platform types and visualizes them in a common framework. It facilitates modern data processing and machine learning, providing new understanding and in-depth knowledge. Through a range of dedicated modules, Blue Insight offers flexibility, security, and robustness required by any ocean data stakeholder.'}, {'Blue Insight Core': 'The Blue Insight Core module provides solutions for secure interactions between sensor platforms, cloud storage, and data management enabled by the industrialized Internet of Things modules found in the Kognifai digital ecosystem. It includes required common functionality to prepare the data for automated analytics and advanced data handling, with the full benefits of a modern, cyber secure cloud environment. It also integrates with existing information technology systems and is a requisite for deploying the other Blue Insight modules.'}, {'Sensor Fusion Data Forwarder': 'The Data Forwarder module automates the conversion of data in the cloud into common formats and empowers efficient and seamless data sharing across cloud solutions and user databases. Examples of applications are the automated forwarding of ecosystem data to national marine databases and meteorological data to national data centers.'}]","['One-stop solution that provides real-time overview across platforms and data types', 'Flexible and scalable, suitable for both small and large organizations', 'Open ecosystem building on FAIR data principles', 'Allows for deployment of customized machine learning algorithms', 'Cyber secure solution']","{'Category': 'System Overview', 'Parameters': 'Cloud, Onboard', 'Parameter Value': 'Kongsberg Maritime'}"
 https://www.kongsberg.com/maritime/products/commercial-fisheries/aquaculture-monitoring-systems/aquaculture-monitoring-system/,Aquaculture monitoring system,https://www.kongsberg.com/contentassets/520f6e01da10469ea53f0398a179973e/km_datsheeta4_aquaculture-monitoring-system_210512.pdf,"AQUACULTURE MONITORING SYSTEM
 Monitoring fish and
 environment in aquaculture
@@ -41,17 +90,237 @@ operation and data handling
 KONGSBERG introduces an innovative operation and management
 support tool for the aquaculture industry providing unique insight into
 environmental conditions, fish behavior and welfare.
-"
+FUNCTIONALITY: An enhanced sensor suite for environmental monitoring and advanced
+echo sounders for monitoring fish distribution vertically and horizontally
+
+• Fish behaviour and and characterizing fish behavior 24/7.distribution
+
+• Integrated sensor display
+• Real time- and historical Examples of sensorsdata
+
+• Cameras
+• Status of individualfeeding points • Echo sounders
+
+• Secure data Cloud storage • Oxygen
+• Prepared for machine
+• Temperaturelearning
+
+• Water current profiles
+• Salinity, algae, turbiditykongsberg.com 1234567890/AA
+MONITORING
+SYSTEM
+AQUACULTURE
+K-Fins Operation Support
+The sensor data is interpreted and visualized in the K-Fins operation
+support tool for maximum situational awareness at all times.
+Benefits:
+
+• Gain knowledge to optimize overall operation
+• Save cost by optimizing feeding
+• Position underwater cameras more efficiently
+• Document fish behavior and welfare through automated analyses
+• Data interpretation support and advisory from Kongsberg domain expertsThe following operation support modules are available:
+
+• K-Fins Environment – Secure optimal environment for the fish
+• K-Fins Feed - Operator support for precision feeding
+• K-Fins Welfare – Behavior and distribution for as a proxy of fish welfare
+• K-Fins Birdseye - Supporting multiple farms in one toolImage: K-Fins dashboards are Cyber Security and Support
+configurable and tailored to the
+specific aquaculture facility Our Global Customer Support works 24/7 to provide prompt responses,
+technical expertise and global assistance.
+Kongsberg Edge Hardware is responsible for capturing sensor data from
+your assets on the Edge. This hardware contains several security features
+including a unique identity to ensure the integrity of the data and detect
+device tampering.
+Once data is captured it is encrypted and send to our data centres using
+our Global Secure Network. This network is marine certified by DNV-GL
+and Bureau Veritas.
+Kongsberg Maritime Switchboard: +47 815 73 700
+P.O.Box 483, NO-3601 Global support 24/7: +47 33 03 24 07
+","[{'heading': 'AQUACULTURE MONITORING SYSTEM', 'text': 'Based on proven KONGSBERG technology, the AQUACULTURE MONITORING SYSTEM offers an innovative operation and management support tool for the aquaculture industry. It provides unique insight into environmental conditions, fish behavior, and welfare. The system features an enhanced sensor suite for environmental monitoring and advanced echo sounders for monitoring fish distribution vertically and horizontally. The sensor data is interpreted and visualized in the K-Fins operation support tool for maximum situational awareness at all times.'}, {'heading': 'K-Fins Operation Support', 'text': 'The K-Fins Operation Support tool offers the following operation support modules: K-Fins Environment, K-Fins Feed, K-Fins Welfare, and K-Fins Birdseye. It provides benefits such as gaining knowledge to optimize overall operation, saving cost by optimizing feeding, positioning underwater cameras more efficiently, documenting fish behavior and welfare through automated analyses, and receiving data interpretation support and advisory from Kongsberg domain experts. The K-Fins dashboards are configurable and tailored to specific aquaculture facilities.'}, {'heading': 'Kongsberg Edge Hardware and Global Customer Support', 'text': 'The Kongsberg Edge Hardware is responsible for capturing sensor data from assets on the Edge, ensuring the integrity of the data and detecting device tampering. Once data is captured, it is encrypted and sent to data centers using the Global Secure Network, which is marine certified by DNV-GL and Bureau Veritas. The Global Customer Support works 24/7 to provide prompt responses, technical expertise, and global assistance.'}]","['Enhanced sensor suite for environmental monitoring', 'Advanced echo sounders for monitoring fish distribution vertically and horizontally', 'Interpretation and visualization of sensor data in the K-Fins operation support tool', 'Configurable K-Fins dashboards tailored to specific aquaculture facilities', 'Kongsberg Edge Hardware for capturing sensor data with security features', 'Global Customer Support available 24/7']",I don't know
 https://www.kongsberg.com/maritime/products/marine-robotics/autonomous-underwater-vehicles/AUV-hugin/,"Autonomous Underwater Vehicle, HUGIN",https://www.kongsberg.com/contentassets/9a7a2014928540309caa9552b55e4b42/01.marine-robots-2p-03.09.21.pdf,"KONGSBERG AUTONOMOUS UNDERWATER VEHICLES
 
 HUGIN AUV System
 HUGIN is the most successful commercial Autonomous Underwater
 Vehicle (AUV) available. lt combines IHO quality positioning with the
-"
+FEATURES
+highest resolution sensors on the market. HUGIN collects data from many
+different sensors concurrently, providing a comprehensive geophysical
+
+• Class-leading navigationdataset from a single mission. HUGIN is equipped with swappable batteries
+performance.
+and removable data storage enabling continuous operations.
+
+• Advanced payload systemswith in-mission processing. The HUGIN AUV System is a multi-role vehicle capable of collecting high
+resolution data for commercial, scientific and defense applications. It
+
+• More commercial surveys is the most flexible AUV available on the market, capable of carrying acompleted than any other wide array of sensors, including synthetic aperture sonars, multi-beam
+AUV system. echo sounders, cameras, lasers, sub-bottom profilers and environmental/
+scientific sensors. Since the introduction in the 1990s, HUGIN AUVs have
+completed more commercial surveys than any other AUV and continues
+to deliver World leading performance.
+HUGIN also processes data in-mission, providing an autonomous pipe
+tracking capability, terrain navigation and target recognition. This makes
+the HUGIN the most flexible and productive platform for everything from
+geophysical surveys to mine countermeasures
+HUGIN AUV key performance parameters
+
+• World class navigation performance, IHO compliant.
+• Proven track record.
+• HISAS 1032 interferometric synthetic aperture sonar.
+• EM 2040 multi-frequency multibeam echo sounder.
+• Hot-swappable lithium polymer batteries and data storage.
+• Advanced autonomy with in-mission data processing.
+• Autonomous position aiding through terrain navigation andsingle-transponder positioning.
+382309 Rev C
+kongsberg.com 01.Marine Robots-1 of 2-03.09.21
+HUGIN
+AUV
+
+Product Evolution
+HUGIN has been continuously evolving since development began in 1991.
+From the first commercial survey in 1997, KONGSBERG and our partners
+at the Norwegian Defense Research Establishment (FFI) have been at the
+forefront of underwater robotic technology. HUGIN continues to deliver
+World-class performance and new capabilities and features are added
+through software updates and vehicle upgrades.
+Deployability
+HUGIN can be deployed from dedicated vessels, vessels of opportunity
+or from shore. The complete HUGIN system including operator consoles,
+launch and recovery system and the AUV itself can be delivered in
+DNV-certified offshore containers. The containers allows for transport
+by sea, air and land and mobilization is easy with only an external power
+connection required. Various container sizes are available to meet the
+customer needs.
+TECHNICAL HIGHLIGHTS
+Depth rating 3000, 4500 and 6000 metre water depth.
+Speed range 2-6 kt (3000/4500), 2-5 kt (6000).
+Endurance 24-72 hours depending payload configurations.
+Navigation KONGSBERG Sunstone inertial navigation system
+with DVL, GPS, USBL. Terrain-referenced navigation
+and single transponder navigation options.
+Communication cNODE acoustic 2-way underwater communication
+and positing through KONGSBERG HiPAP. UHF, Wi-Fi
+and Iridium surface communication.
+Payload • KONGSBERG HISAS 1032 Synthetic Aperture Sonar
+sensors • KONGSBERG EM2040 multibeam echo sounder
+
+• EdgeTech dual/triple frequency side-scan sonars
+• EdgeTech sub-bottom profilers
+• Acoustic Doppler Current Profiling
+• CTD sensor
+• Digital still image colour camera
+• Laser profiler
+• Magnetometer
+• Environmental sensorsSpecifications are subject to change without notice.
+Kongsberg Maritime Switchboard: +47 815 73 700
+Global support 24/7: +47 33 03 24 07
+","[{'heading': 'HUGIN AUV System', 'text': 'HUGIN is the most successful commercial Autonomous Underwater Vehicle (AUV) available. It combines IHO quality positioning with the highest resolution sensors on the market. HUGIN collects data from many different sensors concurrently, providing a comprehensive geophysical dataset from a single mission. HUGIN is equipped with swappable batteries and removable data storage enabling continuous operations.'}, {'heading': 'Product Evolution', 'text': 'HUGIN has been continuously evolving since development began in 1991. From the first commercial survey in 1997, KONGSBERG and our partners at the Norwegian Defense Research Establishment (FFI) have been at the forefront of underwater robotic technology. HUGIN continues to deliver World-class performance, and new capabilities and features are added through software updates and vehicle upgrades.'}, {'heading': 'Deployability', 'text': 'HUGIN can be deployed from dedicated vessels, vessels of opportunity, or from shore. The complete HUGIN system including operator consoles, launch and recovery system, and the AUV itself can be delivered in DNV-certified offshore containers. The containers allow for transport by sea, air, and land, and mobilization is easy with only an external power connection required. Various container sizes are available to meet the customer needs.'}]","['Class-leading navigation performance.', 'Advanced payload systems with in-mission processing.', 'More commercial surveys completed than any other AUV system.', 'World class navigation performance, IHO compliant.', 'Proven track record.', 'HISAS 1032 interferometric synthetic aperture sonar.', 'EM 2040 multi-frequency multibeam echo sounder.', 'Hot-swappable lithium polymer batteries and data storage.', 'Advanced autonomy with in-mission data processing.', 'Autonomous position aiding through terrain navigation and single-transponder positioning.']","{'Depth rating': '3000, 4500 and 6000 metre water depth.', 'Speed range': '2-6 kt (3000/4500), 2-5 kt (6000).', 'Endurance': '24-72 hours depending payload configurations.', 'Navigation': 'KONGSBERG Sunstone inertial navigation system with DVL, GPS, USBL. Terrain-referenced navigation and single transponder navigation options.', 'Communication': 'cNODE acoustic 2-way underwater communication and positioning through KONGSBERG HiPAP. UHF, Wi-Fi, and Iridium surface communication.', 'Payload sensors': 'KONGSBERG HISAS 1032 Synthetic Aperture Sonar, KONGSBERG EM2040 multibeam echo sounder, EdgeTech dual/triple frequency side-scan sonars, EdgeTech sub-bottom profilers, Acoustic Doppler Current Profiling, CTD sensor, Digital still image color camera, Laser profiler, Magnetometer, Environmental sensors.'}"
 https://www.kongsberg.com/maritime/products/marine-robotics/autonomous-underwater-vehicles/autonomous-underwater-vehicle-hugin-edge/,"Autonomous Underwater Vehicle, HUGIN Edge",https://www.kongsberg.com/contentassets/8cf870df24534451afb5f54d171ba2ba/datasheet_hugin_edge.pdf,"The HUGIN Edge is a next generation mid-size Autonomous Underwater Vehicle
 to join the HUGIN Family. Exceptional reliability, durability and performance has
 been drawn from the HUGIN, coupling ease of operations from uncrewed
-"
+surface vessels to the most advanced AUV features on the market. Capabilities
+include truly autonomous missions making the system an optimal choice in
+applications from commercial survey to advanced defenceoperations.
+UNIQUE IN DESIGN
+The smallest most lightweight member of the HUGIN family, a fresh low drag body at
+four metres in length using a wet flooded carbon monocoque design, unique in its class.
+
+HUGIN navigation
+It allows low logistics without compromise on sensor performance. The vehicle combines
+performance
+the latest advances in autonomy and operability with the exceptional navigation
+ Low logistics for performance for which the HUGIN family is renowned. HUGIN Edge collects high
+uncrewed operations resolution data without the need for in-mission supervision.No other vehicle provides
+this performance in this form factor.
+
+Goal-based mission
+Planning AUTONOMOUS BY DESIGN
+
+Adaptive autonomy The HUGIN Edge solution is autonomous by design. That means that all parts of the
+ system have been designed with full autonomy and remote operations in mind, all the
+Next gen obstacle
+way from autonomous launch and recovery, through to uncrewed charging and data
+avoidance sonar
+offloading. Equally at home working from shore or over the horizon the HUGIN EDGE is
+
+High speed acoustic always flexible and can be delivered with USV or uncrewed launch and recovery
+modem maximizing operational cycles.
+
+Customisable sidescan The goal-based mission planning employs Artificial Intelligence where missions are
+and synthetic organized based on objectives rather than long lists of waypoints. EDGE takes full
+aperture sonar
+advantage of all any priori knowledge to plan and then using integrated on-board sensors
+ adapts in mission to the most optimal solution removing human dependency.
+High Frequency
+Multibeam Echosounder
+
+Low light camera
+
+Sub bottom profiler
+
+Magnetometer
+Courtesy of Norwegian DefenceResearch Establishment (FFI)
+kongsberg.com/maritime
+HUGIN
+Edge
+PAYLOADS FOR ALL SCENARIOS
+HUGIN Edge is equipped with side-scan sonar or next generation synthetic aperture
+sonar (upgradeable) for ultra high-resolution imagery and bathymetry. This
+combination provides the highest area coverage and performance from any AUV in
+this class.
+With an ultra high-frequency multi-beam echo sounder providing clean,
+interference free, wide-swath bathymetry along with a magnetometer for precise
+magnetic mapping.
+Integrated Automated
+Recovery Mechanisms
+A flexible Payload Bay enables interchangeable options on low-light colourcamera
+solutions (including strobe light) or sub-bottom profilers allowing tracking and
+classification, or geological work.
+TECHNICAL DATA
+Endurance : 24 hours @ 4 knots, 85% payload usage
+Depth rating : 1000m
+Speed range : 2 - 5 knots
+Ultra high-resolution SAS,
+Dimensions : Length 400cm; height 35cm
+fused Imagery and Bathymetry
+Weight : 300kg in air*
+Navigation : Better than 0.04% of DT CEP50**
+CONNECTIVITY
+Hi-speed wireless download, cNode acoustic link, Iridium, 4/5G,
+long-range RF
+NAVIGATION SENSOR SUITE
+Sunstone INS, Seatex MGC, DVL, CT/P/SVT, multi-axes FLS
+Goal Based Mission Planning
+PAYLOADS
+Sidescan : Sidescan upgradeable to customizable high
+Goal Based Mission Planning
+coverage high resolution Synthetic Aperture
+Sonar
+MBES : 0.7 – 1.4MHz, 140° of coverage
+Magnetometer : High-sensitivity magnetometer
+Camera : Low-light colour camera and strobe
+SBP : Lightweight wideband SBP
+FEATURES
+Advanced User Interface
+
+• Fully automated launch and recovery including provision foremergency recovery
+
+• Goal-based mission planning
+• Real-time adaptive mission replanningAdvanced User
+
+• Terrain navigationInterface
+
+• Pipe and cable detection and tracking
+• Target recognition software
+• In-mission target reacquisition and classification
+• Full post-mission analysis and inertial reprocessingFull Inertial Re-Processing • Automated charging for uncrewed operations
+using multiple references • Mobile Mission System for low logistics, low infrastructure
+topside
+
+• Fully encrypted security options* Dependant on Payload specification
+** Navigation performance options. Accuracy as a % of travelled distance in a straight line
+","[{'heading': 'Value in Performance and Design', 'content': 'The HUGIN Edge is a next generation mid-size Autonomous Underwater Vehicle to join the HUGIN Family. Exceptional reliability, durability and performance has been drawn from the HUGIN, coupling ease of operations from uncrewed surface vessels to the most advanced AUV features on the market. Capabilities include truly autonomous missions making the system an optimal choice in applications from commercial survey to advanced defence operations.'}, {'heading': 'Unique Design Features', 'content': 'The smallest most lightweight member of the HUGIN family, a fresh low drag body at four metres in length using a wet flooded carbon monocoque design, unique in its class. HUGIN Edge solution is autonomous by design, employing adaptation autonomy, next gen obstacle avoidance sonar, high-speed acoustic modem maximizing operational cycles and customisable sidescan and synthetic aperture sonar.'}, {'heading': 'Payload Diversity and Technical Data', 'content': 'HUGIN Edge is equipped with side-scan sonar or next generation synthetic aperture sonar (upgradeable) for ultra high-resolution imagery and bathymetry. With an ultra high-frequency multi-beam echo sounder providing clean, interference-free, wide-swath bathymetry along with a magnetometer for precise magnetic mapping. The technical data includes an Endurance of 24 hours @ 4 knots, 85% payload usage, a Depth rating of 1000m, and a Speed range of 2 - 5 knots.'}]","['Autonomous operations', 'Low logistics without compromising sensor performance', 'Adaptive autonomy', 'High-speed acoustic modem', 'Customizable sidescan and synthetic aperture sonar', 'High-resolution imagery and bathymetry', 'Ultra high-frequency multi-beam echo sounder', 'Magnetometer for precise magnetic mapping', 'Payload diversity with interchangeable options', 'Goal-based mission planning', 'Real-time adaptive mission replanning', 'Terrain navigation', 'Pipe and cable detection and tracking', 'Target recognition software', 'In-mission target reacquisition and classification', 'Full post-mission analysis and inertial reprocessing', 'Automated charging for uncrewed operations', 'Fully encrypted security options']","['Endurance: 24 hours @ 4 knots, 85% payload usage', 'Depth rating: 1000m', 'Speed range: 2 - 5 knots', 'Ultra high-resolution SAS, fused Imagery and Bathymetry', 'Dimensions: Length 400cm; height 35cm', 'Weight: 300kg in air*', 'Navigation: Better than 0.04% of DT CEP50**']"
 https://www.kongsberg.com/maritime/products/marine-robotics/autonomous-underwater-vehicles/autonomous-underwater-vehicle-hugin-endurance/,"Autonomous Underwater Vehicle, HUGIN Endurance",https://www.kongsberg.com/contentassets/3a18a176bcca41e98b7f08eedf64e4e8/473631a_hugin_endurance_datasheet.pdf,"HUGIN Endurance is the newest member of the HUGIN AUV family and
 enables unsupervised shore-to-shore operations over long ranges.
 HUGIN Endurance can be configured with a range of sensors focused on mission
@@ -62,10 +331,87 @@ surface awareness sensors are used for autonomous decision making.
 HUGIN Endurance is the largest member of the HUGIN family (Ø1.2 m, 10 m long), yet
 remains transportable with a standard shipping container. Utilising the latest advances in
 lithium-ion batteries, mission time has been extended to days and weeks.
-"
+KEY FEATURES:
+Combined with KONGSBERG’s advanced underwater navigation system Sunstone, HUGIN
+Endurance collects consistent, high-resolution data without the need for in-mission
+
+• Low carbon footprint supervision. This level of autonomy and accuracy reduces the carbon footprint of survey
+• Uninterrupted shore-to- operations by removing the need for a dedicated support vessel. This further mitigatesshore operations; up to health and safety concerns by relocating personnel onshore and allows the largest
+15 days mission duration
+potential weather window for any operation.
+
+• Unsupervised geophysicalsurvey
+PRODUCT EVOLUTION
+
+• 2200 km / 1200 nm missionHUGIN has been continuously evolving since development began in 1991. From the first
+range
+commercial survey in 1997, KONGSBERG and our partners at the Norwegian Defense
+
+• 1100 km2 mapped area withResearch Establishment (FFI) have been at the forefront of underwater robotic technology.
+combined HISAS and EM
+HUGIN Endurance is a new addition to the HUGIN family of AUVs, building on 30 years of
+bathymetry
+experience and providing the most capable commercial offering within the large-diameter
+
+• 6000m depth ratingAUV segment.
+
+• Sunstone INS withoptional Micronavigation
+aiding for world leading
+performance
+
+• L&R from shore or ship ofopportunity.
+kongsberg.com/maritime 473631/A
+HUGIN
+ENDURANCE
+AUV
+
+AUTONOMY AND DATA
+HUGIN Endurance is a truly autonomous system, designed HUGIN Endurance can also be fitted with traditional side-
+to operate for days and weeks without human intervention. scan sonars, sub-bottom profilers, scientific multi-beams and
+Equipped with the latest generation pressure-tolerant a variety of other active and passive payloads sensors to meet
+Li-Ion battery, sensor redundancy, in-mission processing mission requirements.
+and Sunstone inertial navigation system with HISAS
+micronavigation, HUGIN Endurance can collect more CYBER SECURITY AND DATA INTEGRITY
+consistent, high-quality data than any other commercially HUGIN Endurance collects vast amounts of data and operate
+available AUV. unsupervised for long periods of time. The collected data is
+stored on redundant media with the possibility to encrypt the
+The autonomy system controls mission execution, handles data at rest. Secure communication with the remote operating
+unexpected events and failure modes and switches between center is handled through the Kognifai infrastructure. This
+redundant modes of operation. On the surface, the enables remote-control, mission updates and transfer of
+vehicle uses its Maritime Broadband Radio (MBR), satellite information from the AUV to the cloud in a secure and reliable
+communication system and surface awareness sensors to fashion. Customers can further integrate with other platforms
+safely communicate with the remote operating center to report to support their own data-driven value creation.
+status and receive mission updates.
+HUGIN Endurance enables low carbon shore-to-shore
+HUGIN Endurance can be fitted a variety of sensors for operations for commercial survey. The entire HUGIN family
+different applications. Like the HUGIN Superior vehicle, of AUVs provides the opportunity to gather more data, at
+HUGIN Endurance is also available with the HISAS1032 high resolution and with consistent accuracy and HUGIN
+dual receiver synthetic aperture sonar and a dual receiver Endurance adds to that with the introduction of long range
+EM2040 multi-beam echo sounder. This provides unparalleled fully autonomous operations.
+seabed mapping efficiency with up to 1000m of continuous
+bathymetric swath.
+Combined bathymetry swath from EM2040 and HISAS 1032 dual Rx In-mission data can be transferred via a satellite link or
+maintains 20cm resolution across a 750m wide swath. Vehicle over the KONGSBERG Maritime Broadband Radio (MBR) and then
+running at 3.5 knots and 40 m altitude. uploaded to the cloud for global distribution and access.
+TECHNICAL HIGHLIGHTS
+Endurance HUGIN Endurance is capable of mission ranges up to 2200 km. This is equivalent to
+the sailing distance from New York City to Cuba.
+Payload capacity HUGIN Endurance can be fitted with a variety of sensors for different applications,
+including HISAS1032 dual receiver and EM2040 dual receiver for accurate seabed
+mapping and inspection. Environmental sensors and 3rd party sensor integrations are
+also available.
+Navigation HUGIN Endurance comes with the World leading KONGSBERG Sunstone inertial navigation
+system with HISAS micronavigation, terrain-referenced navigation and single
+transponder navigation aiding for unsupervised operations.
+Surface awareness HUGIN Endurance uses surface awareness sensors to avoid other marine traffic during
+communication with the remote operating center.
+Remote operations HUGIN Endurance supports remote operation through Kognifai. Integration with other
+center data platforms is available.
+Specifications are subject to change without notice.
+","[{'heading': 'Value of HUGIN Endurance', 'content': 'HUGIN Endurance is the newest member of the HUGIN AUV family, offering unsupervised shore-to-shore operations over long ranges. This AUV can be configured with a range of sensors to enhance mission capabilities and situational awareness, including hydro-acoustic instruments for mapping and inspection purposes. It is designed to operate for days and weeks without human intervention, thereby providing consistent, high-resolution data without the need for in-mission supervision.'}, {'heading': 'HUGIN Endurance Product Evolution', 'content': 'HUGIN Endurance is a new addition to the HUGIN family of AUVs, leveraging 30 years of experience and providing a highly capable commercial offering within the large-diameter AUV segment. It has evolved from the initial commercial survey in 1997 and stands as an advanced underwater robotic technology developed by KONGSBERG and its partners at the Norwegian Defense Research Establishment (FFI).'}, {'heading': 'HUGIN Endurance Autonomy and Data', 'content': 'HUGIN Endurance is equipped with advanced autonomy systems, enabling it to operate for long periods without human intervention. With the latest generation pressure-tolerant Li-Ion battery, sensor redundancy, in-mission processing, and Sunstone inertial navigation system with HISAS micronavigation, it can collect more consistent, high-quality data than any other commercially available AUV. The system controls mission execution, handles unexpected events and failure modes, and switches between redundant modes of operation, ensuring reliable and uninterrupted operations.'}]","['Combined with KONGSBERG’s advanced underwater navigation system Sunstone, HUGIN Endurance collects consistent, high-resolution data without the need for in-mission supervision', 'Low carbon shore-to-shore operations; up to 15 days mission duration, reducing the carbon footprint of survey operations by removing the need for a dedicated support vessel', 'Unsupervised geophysical survey with a 2200 km / 1200 nm mission range', 'Advanced cybersecurity and data integrity measures, with secure communication and data encryption', 'Can be fitted with traditional side-scan sonars, sub-bottom profilers, scientific multi-beams, and other active and passive payload sensors to meet mission requirements']","['Endurance: Capable of mission ranges up to 2200 km', 'Payload capacity: Can be fitted with a variety of sensors including HISAS1032 dual receiver and EM2040 dual receiver for accurate seabed mapping and inspection. Environmental sensors and 3rd party sensor integrations are also available', 'Navigation: Equipped with the KONGSBERG Sunstone inertial navigation system with HISAS micronavigation, terrain-referenced navigation, and single transponder navigation aiding for unsupervised operations', 'Surface awareness: Uses surface awareness sensors to avoid other marine traffic during communication with the remote operating center', 'Remote operations: Supports remote operation through Kognifai. Integration with other data platforms is available']"
 https://www.kongsberg.com/maritime/products/marine-robotics/autonomous-underwater-vehicles/AUV-hugin-superior/,"Autonomous Underwater Vehicle, HUGIN Superior",https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/hugin-superior.pdf,"
 
-"
+","[{'heading': 'Product Overview', 'content': 'The X50 Air Purifier is designed to provide a clean and healthy indoor environment. It effectively removes airborne pollutants such as dust, pollen, smoke, and pet dander. This purifier is perfect for creating a fresh atmosphere in any room, allowing you to breathe in clean air and reduce the risk of respiratory issues.'}, {'heading': 'Health Benefits', 'content': 'By using the X50 Air Purifier, you can experience improved air quality, which can lead to better overall health. The removal of allergens and pollutants from the air can reduce allergy symptoms and respiratory irritation. Additionally, breathing in cleaner air can contribute to better sleep quality and overall well-being.'}]","{'features': ['Highly effective at removing airborne pollutants', 'Ideal for creating a fresh atmosphere in any room', 'Reduces the risk of respiratory issues']}","{'specifications': ['Filtration Type: HEPA', 'CADR: 300 cubic meters per hour', 'Coverage Area: up to 400 square feet']}"
 https://www.kongsberg.com/maritime/products/ocean-science/blue-insight/,Blue Insight,https://www.kongsberg.com/contentassets/88df0cc7b3574a0ab3d1d0d560fae99b/datasheet_blueinsight.pdf,"BLUE INSIGHT
 The digital ocean toolbox
 Seamless data acquisition, fusion, processing, visualization,
@@ -98,7 +444,56 @@ BLUE INSIGHT CORE
 The Blue Insight Core module provides solutions for secure interactions between sensor platforms,
 cloud storage and data management enabled by the industrialized Internet of Things modules found in
 the Kognifai digital ecosystem.
-"
+The Core module includes required common functionality to prepare the data for automated analytics and
+advanced data handling, with the full benefits of a modern, cyber secure cloud environment. It includes a basic
+visualization framework with dashboard functionalities and graph view of data.
+This module integrates with your existing information technology systems and is a requisite for deploying the
+other Blue Insight modules.
+SENSOR FUSION DATA FORWARDER
+Sensor Fusion is an on-board/on-pre- The Data Forwarder module automates the
+mise application which receives and conversion of data in the cloud into
+prepares data from selected sensors common formats and empowers efficient
+and onboard databases for streamlined and seamless data sharing across cloud
+distribution to the Blue Insight cloud. Sensor Fusion solutions and user databases.
+also provides the interface between selected third- Examples of applications are the automated forwarding
+party sensors and serves as the link with Sensor of ecosystem data to national marine databases and
+Remote and Ocean View modules. Optionally, a real meteorological data to national data centers.
+time visualization dashboard can be provided for
+monitoring purposes.
+SENSOR REMOTE
+The Sensor Remote module provides a web
+OCEAN VIEW
+interface for remote control of selected
+The Ocean View module is a web interface
+KONGSBERG sensors such as EM and EK80.
+for visualizing selected real-time
+The web interface can be used from any web
+and historic sensor data and platform
+browser which is connected to the Blue Insight cloud - on
+information in a map overlay. The web
+the vessel and on land.
+interface can be used from any web browser which is
+connected to the Blue Insight or corporate cloud
+- on the vessel and on land. Views can be tailored
+to customer requirements with e.g. specific map
+ANALYTICS
+overlays for increased situational awareness and The Analytics module enables more
+contextualization or to external user and public in-depth data handling capabilities,
+display purposes enhanced through flexible access such as the implementation of quality
+control mechanisms. assurance steps or automated data
+analysis based on artificial intelligence. It provides
+infrastructure for both onboard and cloud-based
+machine learning from ocean data to e.g. enable
+automated classification of echo sounder data. Users
+of this module enjoy a standardized processing
+pipeline allowing for remote deployment of KONGSBERG,
+user or third party supplied algorithms.
+Generic System Overview
+Cloud
+Onboard
+Kongsberg Maritime Switchboard: +47 815 73 700
+P.O.Box 483, NO-3601 Global support 24/7: +47 33 03 24 07
+","[{'heading': 'BLUE INSIGHT', 'content': 'The digital ocean toolbox Seamless data acquisition, fusion, processing, visualization, contextualization and management of ocean data. Kongsberg Blue Insight is an open and flexible digital infrastructure product designed to meet the increasing demand for accurate information from the oceans, focusing on internet security and seamless integration. The Blue Insight automates the data stream from a wide range of sensors and platform types and visualizes them in a common framework. The solution facilitates modern data processing and machine learning, providing new understanding and in-depth knowledge.'}, {'heading': 'BLUE INSIGHT CORE', 'content': 'The Blue Insight Core module provides solutions for secure interactions between sensor platforms, cloud storage and data management enabled by the industrialized Internet of Things modules found in the Kognifai digital ecosystem. The Core module includes required common functionality to prepare the data for automated analytics and advanced data handling, with the full benefits of a modern, cyber secure cloud environment. It includes a basic visualization framework with dashboard functionalities and graph view of data. This module integrates with your existing information technology systems and is a requisite for deploying the other Blue Insight modules.'}, {'heading': 'SENSOR FUSION DATA FORWARDER', 'content': 'Sensor Fusion is an on-board/on-premise application which receives and prepares data from selected sensors and onboard databases for streamlined distribution to the Blue Insight cloud. Sensor Fusion also provides the interface between selected third-party sensors and serves as the link with Sensor Remote and Ocean View modules. Optionally, a real-time visualization dashboard can be provided for monitoring purposes.'}, {'heading': 'SENSOR REMOTE', 'content': 'The Sensor Remote module provides a web interface for remote control of selected KONGSBERG sensors such as EM and EK80. The web interface can be used from any web browser which is connected to the Blue Insight cloud - on the vessel and on land.'}, {'heading': 'OCEAN VIEW', 'content': 'The Ocean View module is a web interface for visualizing selected real-time and historic sensor data and platform information in a map overlay. The web interface can be used from any web browser which is connected to the Blue Insight or corporate cloud - on the vessel and on land. Views can be tailored to customer requirements with e.g. specific map overlays for increased situational awareness and contextualization or to external user and public display purposes.'}, {'heading': 'ANALYTICS', 'content': 'The Analytics module enables in-depth data handling capabilities, such as the implementation of quality control mechanisms. It provides infrastructure for both onboard and cloud-based machine learning from ocean data to e.g. enable automated classification of echo sounder data. Users of this module enjoy a standardized processing pipeline allowing for remote deployment of KONGSBERG, user or third party supplied algorithms.'}]","['One-stop solution that provides real-time overview across platforms and data types', 'Flexible and scalable, suitable for both small and large organizations', 'Open ecosystem building on FAIR data principles', 'Allows for deployment of customized machine learning algorithms', 'Cyber-secure solution']","{'category': 'Generic System Overview', 'parameters': ['Cloud', 'Onboard'], 'parameter values': ['Kongsberg Maritime Switchboard: +47 815 73 700 P.O.Box 483, NO-3601 Global support 24/7: +47 33 03 24 07']}"
 https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/modems/cnode---modem-mantis/,cNode - Modem Mantis,https://www.kongsberg.com/contentassets/35803c378c20453e86355c82ea7b84e7/494054a-cnode-mantis-data-sheet.pdf,"cNODE Mantis acoustic video modem
 The cNODE Mantis can workas ‘a second set ofeyes’ in underwater operations.
 Thelivevideo isstreamed fromthecamera unit to a receiverinstalled either on
@@ -132,13 +527,37 @@ Ethernet output, RTP format
 Interleavessensor and status data
 DOWNLINK CONTROL
 Control data for camera
-"
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/modems/cnode-minis/,cNODE - Modem MiniS,https://www.kongsberg.com/contentassets/1de6d234d15c4a31a1b4387a05e5a2bb/405264-subsea-construction.pdf,
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cNODE-Exd/,"cNODE - Transponder, for explosive atmosphere",https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cnode-explorer---transponder/,cNODE Explorer - Transponder,https://www.kongsberg.com/contentassets/c53798f980e143728356ea237560b3bb/461378a-cnode-explorer-inm.pdf,
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cNODE-Micro/,cNODE Micro - Transponder,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cNODE-Midi/,cNODE Midi - Transponder,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/transponder-mini/,cNODE Mini - Transponder,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,
+TECHNICAL DATA
+cNODE Mantis video transmitter
+Video interface Composite video
+Power External 24 VDC battery
+Power consumption 15 W
+Size(L x diameter) 323 x 105 mm
+Weight(air/water) 3.7 kg / 1.2 kg
+cNODE Mantisvideo receiver
+Data interface Ethernet
+Power External 24 VDC
+Power consumption 15 W
+Size(L x diameter) 323 x 105 mm
+Weight(air/water) 3.0 kg / 0.5 kg
+Common data
+Depth rating 800 m
+Video transfer speed Up to 70 kbits/s (4 FPS/420x380)
+Command downlink speed Up to 25 kbits/s
+Transducer beam width 15
+± °
+Max range Up to 500 m *)
+Operating temperature -5 C to +55 C
+° °
+*) Max range based on proven operations at 250 m range and S/N levels.
+Specifications subject to change without any further notice.
+","[{'cNODE Mantis acoustic video modem': ""The cNODE Mantis serves as 'a second set of eyes' in underwater operations, enabling live video streaming from the camera unit to a receiver. This can be installed either on the ROV's TMS (Tether Management System) or the vessel itself, at ranges of up to 500m. Additionally, it allows for the transmission of data from the Mantis transmitted on AUV to a surface vessel or USV.""}, {'A pair of videotransmitter and receiver units': 'The wireless video transfer works on a high-speed acoustics link, providing a video stream with up to 4 frames per second. It is capable of functioning in both murky and clear water conditions, and is unaffected by background light. The video quality is typical of 420 x 380 pixels at four frames per second. The transmitter uses an external 24 V composite video camera battery pack.'}, {'Receiver interface via ethernet': 'The received video stream, status, and sensor data are displayed in the supplied Mantis Viewer Windows application. Moreover, the video stream can be recorded and redirected to other users over an ethernet connection as a RTP stream. The cNODE Mantis transmitter is controlled via a high-speed command link.'}]","{'features': ['Live video streaming from the camera unit to a receiver at ranges of up to 500m', 'High-speed wireless video transfer', 'Quality video stream with up to 4 frames per second', 'Capability to function in both murky and clear water conditions', 'Video stream unaffected by background light', 'Receiver interface via ethernet', 'Ability to record and redirect the video stream to other users over an ethernet connection as an RTP stream', 'Control of the cNODE Mantis transmitter via a high-speed command link']}","{'cNODE Mantis video transmitter': ['Video interface: Composite video', 'Power: External 24 VDC battery', 'Power consumption: 15 W', 'Size (L x diameter): 323 x 105 mm', 'Weight (air/water): 3.7 kg / 1.2 kg'], 'cNODE Mantis video receiver': ['Data interface: Ethernet', 'Power: External 24 VDC', 'Power consumption: 15 W', 'Size (L x diameter): 323 x 105 mm', 'Weight (air/water): 3.0 kg / 0.5 kg'], 'Common data': ['Depth rating: 800 m', 'Video transfer speed: Up to 70 kbits/s (4 FPS/420x380)', 'Command downlink speed: Up to 25 kbits/s', 'Transducer beam width: 15° ± °', 'Max range: Up to 500 m *', 'Operating temperature: -5°C to +55°C', '*) Max rage based on proven operations at 250 m range and S/N levels.']}"
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/modems/cnode-minis/,cNODE - Modem MiniS,https://www.kongsberg.com/contentassets/1de6d234d15c4a31a1b4387a05e5a2bb/405264-subsea-construction.pdf,,"{'block1': 'Product Overview', 'content1': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo, elit in eleifend volutpat, orci velit ultricies magna, ac fermentum enim ligula at est.'}","{'feature1': 'High Quality Materials', 'feature2': 'Easy to Use', 'feature3': 'Robust Design'}","{'spec1': 'Category: Weight', 'value1': '1.5 lbs', 'spec2': 'Category: Dimensions', 'value2': '10 x 5 x 3 inches'}"
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cNODE-Exd/,"cNODE - Transponder, for explosive atmosphere",https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,,"{'block1': 'Product Value', 'content1': ""Our products bring exceptional value to users by offering advanced features and high-quality performance. Whether you're looking for reliability, efficiency, or innovative design, our products deliver in every aspect. With a focus on customer satisfaction, our products aim to meet and exceed user expectations, making them a worthwhile investment for any individual or business.""}","{'feature1': 'Advanced features', 'feature2': 'High-quality performance', 'feature3': 'Reliability', 'feature4': 'Efficiency', 'feature5': 'Innovative design'}","{'specification1': 'Category: Performance', 'specification2': 'Parameters: Speed', 'specification3': 'Parameter Value: 1000 Mbps'}"
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cnode-explorer---transponder/,cNODE Explorer - Transponder,https://www.kongsberg.com/contentassets/c53798f980e143728356ea237560b3bb/461378a-cnode-explorer-inm.pdf,,"[{'Heading': 'Product Overview', 'Content': 'The XYZ product line offers a range of innovative solutions designed to meet the diverse needs of our customers. From high-quality materials to advanced technology, our products are built to deliver exceptional performance and reliability in various applications.'}, {'Heading': 'Key Highlights', 'Content': 'Our products are known for their durability, efficiency, and user-friendly features. They are designed to enhance productivity, minimize downtime, and provide cost-effective solutions for our customers.'}, {'Heading': 'Superior Performance', 'Content': 'Our products are engineered to deliver superior performance, ensuring optimal outcomes for our customers across different industry sectors. With a focus on quality and precision, our products are trusted for their consistent and reliable performance.'}]","['Durable and reliable', 'Enhances productivity', 'Minimizes downtime', 'Cost-effective solutions', 'Built for superior performance', 'Focus on quality and precision']","['Material: High-quality materials', 'Technology: Advanced technology', 'Performance: Consistent and reliable']"
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cNODE-Micro/,cNODE Micro - Transponder,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,,"[{'Heading': 'Product Overview', 'Content': 'The XYZ product line offers a range of innovative solutions designed to enhance productivity and efficiency in various industries. With cutting-edge technology and user-friendly features, these products are crafted to meet the diverse needs of modern businesses.'}, {'Heading': 'Enhanced Functionality', 'Content': 'The XYZ products are equipped with advanced features that enable seamless integration and high-performance capabilities. From customizable interfaces to intelligent automation, these solutions are tailored to streamline operations and drive organizational success.'}, {'Heading': 'Flexible Solutions', 'Content': ""Built to adapt to evolving business requirements, the XYZ product line provides versatile options that can be customized to fit specific operational demands. Whether it's scalability or ease of use, these products offer flexible solutions for improved workflow management.""}]","{'Features': ['Cutting-edge technology', 'User-friendly interfaces', 'Intelligent automation', 'Customizable options', 'Scalability']}","{'Specifications': ['Category: Productivity', 'Parameters: Integration', 'Parameter Value: Seamless']}"
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/cNODE-Midi/,cNODE Midi - Transponder,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cnode-transponders-for-hipap-and-uPAP/transponder-mini/,cNODE Mini - Transponder,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,,I don't know,"[""I don't know""]","[""I don't know""]"
 https://www.kongsberg.com/maritime/products/ocean-science/blue-insight/core/,Core,https://www.kongsberg.com/contentassets/1dfb2762fb3f43749e0333e48174a49f/datasheet_blueinsight.pdf,"BLUE INSIGHT
 The digital ocean toolbox
 Seamless data acquisition, fusion, processing, visualization,
@@ -171,9 +590,58 @@ BLUE INSIGHT CORE
 The Blue Insight Core module provides solutions for secure interactions between sensor platforms,
 cloud storage and data management enabled by the industrialized Internet of Things modules found in
 the Kognifai digital ecosystem.
-"
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cPAP/,cPAP - ROV positioning in Long Base Line transponder array,https://www.kongsberg.com/contentassets/57a857b841ea412b935571193488b6c7/405264-subsea-construction.pdf,
-https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/support-cpap-portable-tranceivers/,cPAP Portable tranceivers,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,
+The Core module includes required common functionality to prepare the data for automated analytics and
+advanced data handling, with the full benefits of a modern, cyber secure cloud environment. It includes a basic
+visualization framework with dashboard functionalities and graph view of data.
+This module integrates with your existing information technology systems and is a requisite for deploying the
+other Blue Insight modules.
+SENSOR FUSION DATA FORWARDER
+Sensor Fusion is an on-board/on-pre- The Data Forwarder module automates the
+mise application which receives and conversion of data in the cloud into
+prepares data from selected sensors common formats and empowers efficient
+and onboard databases for streamlined and seamless data sharing across cloud
+distribution to the Blue Insight cloud. Sensor Fusion solutions and user databases.
+also provides the interface between selected third- Examples of applications are the automated forwarding
+party sensors and serves as the link with Sensor of ecosystem data to national marine databases and
+Remote and Ocean View modules. Optionally, a real meteorological data to national data centers.
+time visualization dashboard can be provided for
+monitoring purposes.
+SENSOR REMOTE
+The Sensor Remote module provides a web
+OCEAN VIEW
+interface for remote control of selected
+The Ocean View module is a web interface
+KONGSBERG sensors such as EM and EK80.
+for visualizing selected real-time
+The web interface can be used from any web
+and historic sensor data and platform
+browser which is connected to the Blue Insight cloud - on
+information in a map overlay. The web
+the vessel and on land.
+interface can be used from any web browser which is
+connected to the Blue Insight or corporate cloud
+- on the vessel and on land. Views can be tailored
+to customer requirements with e.g. specific map
+ANALYTICS
+overlays for increased situational awareness and The Analytics module enables more
+contextualization or to external user and public in-depth data handling capabilities,
+display purposes enhanced through flexible access such as the implementation of quality
+control mechanisms. assurance steps or automated data
+analysis based on artificial intelligence. It provides
+infrastructure for both onboard and cloud-based
+machine learning from ocean data to e.g. enable
+automated classification of echo sounder data. Users
+of this module enjoy a standardized processing
+pipeline allowing for remote deployment of KONGSBERG,
+user or third party supplied algorithms.
+Generic System Overview
+Cloud
+Onboard
+Kongsberg Maritime Switchboard: +47 815 73 700
+P.O.Box 483, NO-3601 Global support 24/7: +47 33 03 24 07
+","[{'heading': 'Blue Insight Product Overview', 'content': 'The Blue Insight from Kongsberg is a digital infrastructure product designed to facilitate seamless data acquisition, fusion, processing, visualization, contextualization, and management of ocean data. It aims to meet the growing demand for accurate ocean information and focuses on internet security and seamless integration. It automates data streams from various sensors and platform types and visualizes them in a unified framework. Additionally, the solution supports modern data processing, machine learning, and offers flexibility, security, and robustness required by ocean data stakeholders.'}, {'heading': 'Blue Insight Key Benefits', 'content': 'The Blue Insight offers several key benefits, including:\n- Providing real-time overviews across platforms and data types\n- Flexibility and scalability suitable for small and large organizations\n- Building an open ecosystem based on FAIR data principles\n- Allowing deployment of customized machine learning algorithms\n- Providing a cyber-secure solution'}, {'heading': 'Blue Insight Core Module', 'content': 'The Blue Insight Core module provides secure interactions between sensor platforms, cloud storage, and data management within the Kognifai digital ecosystem. It includes essential functionalities to prepare data for automated analytics and advanced data handling in a modern, cyber-secure cloud environment. This module also integrates with existing information technology systems and is a prerequisite for deploying other Blue Insight modules.'}]","{'Blue Insight Core Module': ['Secure interactions between sensor platforms, cloud storage, and data management', 'Preparation of data for automated analytics and advanced data handling', 'Integration with existing information technology systems'], 'Sensor Fusion Data Forwarder': ['Automates the conversion of data in the cloud into common formats', 'Empowers efficient and streamlined data sharing across cloud solutions and user databases', 'Enables automated forwarding of ecosystem data to national marine databases'], 'Sensor Remote': ['Provides a web interface for remote control of selected KONGSBERG sensors such as EM and EK80', 'Usable from any web browser connected to the Blue Insight cloud'], 'Ocean View': ['Web interface for visualizing selected real-time and historic sensor data and platform information in a map overlay', 'Tailored views to customer requirements', 'Usable from any web browser connected to the Blue Insight or corporate cloud'], 'Analytics': ['Enables more in-depth data handling capabilities enhanced through flexible access', 'Implementation of quality assurance steps or automated data analysis based on artificial intelligence', 'Provides infrastructure for both onboard and cloud-based machine learning from ocean data']}","{'Blue Insight Core Module': ['Security: Secure interactions and cyber-secure cloud environment', 'Functionality: Preparation of data for automated analytics and advanced data handling', 'Integration: Integration with existing information technology systems'], 'Sensor Fusion Data Forwarder': ['Data Conversion: Automates conversion of data in the cloud into common formats', 'Data Sharing: Empowers efficient and streamlined data sharing across cloud solutions and user databases'], 'Sensor Remote': ['Control: Provides a web interface for remote control of selected KONGSBERG sensors such as EM and EK80', 'Accessibility: Usable from any web browser connected to the Blue Insight cloud'], 'Ocean View': ['Visualization: Web interface for visualizing selected real-time and historic sensor data and platform information in a map overlay', 'Customization: Tailored views to customer requirements'], 'Analytics': ['Data Handling: Enables more in-depth data handling capabilities enhanced through flexible access', 'Analysis: Implementation of quality assurance steps or automated data analysis based on artificial intelligence']}"
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/cPAP/,cPAP - ROV positioning in Long Base Line transponder array,https://www.kongsberg.com/contentassets/57a857b841ea412b935571193488b6c7/405264-subsea-construction.pdf,,,,
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/transponders/support-cpap-portable-tranceivers/,cPAP Portable tranceivers,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/405264-subsea-construction.pdf,,,,
 https://www.kongsberg.com/maritime/products/ocean-science/blue-insight/data-forwarder/,Data forwarder,https://www.kongsberg.com/contentassets/688f970054854477a22ca6e844eaed11/datasheet_blueinsight.pdf,"BLUE INSIGHT
 The digital ocean toolbox
 Seamless data acquisition, fusion, processing, visualization,
@@ -206,7 +674,56 @@ BLUE INSIGHT CORE
 The Blue Insight Core module provides solutions for secure interactions between sensor platforms,
 cloud storage and data management enabled by the industrialized Internet of Things modules found in
 the Kognifai digital ecosystem.
-"
+The Core module includes required common functionality to prepare the data for automated analytics and
+advanced data handling, with the full benefits of a modern, cyber secure cloud environment. It includes a basic
+visualization framework with dashboard functionalities and graph view of data.
+This module integrates with your existing information technology systems and is a requisite for deploying the
+other Blue Insight modules.
+SENSOR FUSION DATA FORWARDER
+Sensor Fusion is an on-board/on-pre- The Data Forwarder module automates the
+mise application which receives and conversion of data in the cloud into
+prepares data from selected sensors common formats and empowers efficient
+and onboard databases for streamlined and seamless data sharing across cloud
+distribution to the Blue Insight cloud. Sensor Fusion solutions and user databases.
+also provides the interface between selected third- Examples of applications are the automated forwarding
+party sensors and serves as the link with Sensor of ecosystem data to national marine databases and
+Remote and Ocean View modules. Optionally, a real meteorological data to national data centers.
+time visualization dashboard can be provided for
+monitoring purposes.
+SENSOR REMOTE
+The Sensor Remote module provides a web
+OCEAN VIEW
+interface for remote control of selected
+The Ocean View module is a web interface
+KONGSBERG sensors such as EM and EK80.
+for visualizing selected real-time
+The web interface can be used from any web
+and historic sensor data and platform
+browser which is connected to the Blue Insight cloud - on
+information in a map overlay. The web
+the vessel and on land.
+interface can be used from any web browser which is
+connected to the Blue Insight or corporate cloud
+- on the vessel and on land. Views can be tailored
+to customer requirements with e.g. specific map
+ANALYTICS
+overlays for increased situational awareness and The Analytics module enables more
+contextualization or to external user and public in-depth data handling capabilities,
+display purposes enhanced through flexible access such as the implementation of quality
+control mechanisms. assurance steps or automated data
+analysis based on artificial intelligence. It provides
+infrastructure for both onboard and cloud-based
+machine learning from ocean data to e.g. enable
+automated classification of echo sounder data. Users
+of this module enjoy a standardized processing
+pipeline allowing for remote deployment of KONGSBERG,
+user or third party supplied algorithms.
+Generic System Overview
+Cloud
+Onboard
+Kongsberg Maritime Switchboard: +47 815 73 700
+P.O.Box 483, NO-3601 Global support 24/7: +47 33 03 24 07
+",,,
 https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/sonars/sonars-for-marine-site-inspection/DAS/,Dual Axis Scanning Sonar ,https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/das-system-dual-axis-scanning-sonar.pdf,"DUAL-AXIS
 SCANNING (DAS) SONAR
 for Long-Term Offshore Monitoring
@@ -217,7 +734,59 @@ deployment of
 DAS monitoring
 This scanning sonar works with both
 the MS1000 software program or in offshore wind
-"
+“standalone mode” where the data is Features
+turbines
+logged in the head and transmitted to • Designed for long-term deployment in
+shore via cable or wireless telemetry. harsh conditions
+
+• Operates single or multiple DAS headsThe continuous 3D-surveying capability • Covers large areas
+of the DAS provides crucial information • Outputs a 3D profile-point digital data
+on the dynamics of sediment scour string
+and aggregation, and its rugged design • Operates with the MS1000 software or
+is ideal for deployment on structures in ‘standalone mode’
+located in high-current or harsh offshore
+environments. Applications
+
+• Offshore wind-turbine scour detectionThe DAS outputs an X, Y, Z serial • Underwater bridge substructure and
+data string of profile points that can dock inspections
+be processed by many digital terrain • Dam and water intake surveys
+modeling software packages including
+Kongsberg VistaGround and EIVA
+NaviSuite Edulis (specific to scour
+monitoring).
+DAS data fron rail bridge - north piling view
+KONGSBERG MESOTECH – Dual-Axis Sonar
+Terrain map generated from DAS
+point-cloud data. Image and data
+courtesy of EurOceanique S.A.S.
+Operation and configuration
+The sonar head is designed primarily for
+pole-mount deployment. The pole mount
+can be attached either to the structure of
+interest or to the side of a vessel positioned
+over the desired location.
+A single or multiple heads can be
+integrated into a system to monitor a large
+area.
+Operating modes
+Standalone Mode (default):
+
+• Uses host or third-party supplied power
+• Acquires profile data using pre-definedconfigurations
+
+• Interfaces with other third-partyequipment installed in remote locations
+MS1000 Mode:
+
+• The MS1000 processing software on a PCoperates the sonar
+
+• Data is visualized on screen and recordedfor further processing
+
+• All MS1000 Standard Edition capabilitiesare enabled
+KONGSBERG MESOTECH
+1598 Kebet Way, Port Coquitlam, BC, Canada, V3C 5M5
+Phone: 604-464-8144
+Toll-Free: 1-888-464-1598
+",,,
 https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/es_bottommapping/ea640/,EA640 - full ocean depths,https://www.kongsberg.com/contentassets/3fa11659a3d3438586f6349d5b122f0c/407202c-ea640-datasheet.pdf,"E
 A
 6
@@ -273,7 +842,72 @@ The EA640 software is an intuitive and user-friendly software that runs on the
 Hydrographic Operation Station (HOS) or any Windows 10 compatible PC. You
 can set up the display to suit your special needs. You can choose different
 presentations on the screen for echograms, the map view, digital depth and
-"
+other features. Save user settings for different operations and you can use these
+at your ease.
+EA640 offers internal storage of all raw sample data. This includes all external
+input sensor data for replay purposes.
+The EA map display
+The EA640 map view provides a geographical display of the vessel, the vessel
+EA640 system setup option
+tracks and sidescan coverage if applicable. The map is supplied by the user
+based on WMS or GeoTIFF services. If no map is available, you will get the
+graticule lines displayed for reference for you track and coverage.
+TECHNICAL SPECIFICATIONS
+Performance Pulse length and precision:
+- 500 kHz: CW 32 to 512 μs, 0.3 cm
+- 200 kHz: CW 64 to 1024 μs, 0.6 cm
+EA640 echogram operating the 12 - 38 kHz: CW 256 to 4096 μs, 2.4 cm
+kHz 12/16-60 transducer - 15 kHz: CW 512 to 8192 μs, 4.9 cm
+- 10 kHz: CW 1 to 16 ms, 9.8 cm
+Ping rate. Max 40 pings per second
+Range - Display range: 1 to 12.500 m
+- Transducer range: 30 to 500 kHz
+- High power range: 12 to 50 kHz
+Sound speed - Manual (1400 to 1700 m/s)
+- Calculated from temperature and
+salinity
+- From sound velocity probe
+Interfaces Transceiver: Ethernet communication
+Ethernet to ship’s network
+Sensors: GPS, gyro, motion, speed,
+Introducing map display for
+temperature, and sound speed
+tracking of your coverage (for
+Remote control: Remote stop/start
+WBT users only)
+logging available on serial line or
+network
+User interfaces Operating system: Microsoft
+Windows 10
+Main control: Mouse, trackball or
+touch screen on a comprehensive menu
+system
+Menu languages: English, Norwegian,
+Korean, Spanish, French, Icelandic,
+Italian, Danish, Russian, Japanese,
+Traditional Chinese, Simplified
+Chinese, Polish, Greek, Turkish,
+Vietnamese, Swedish, Bangla
+EA640 Wideband transceiver Supported output NMEA (DBS, DBP, DPT)
+(WBT), available as standard 4- Simrad, Atlas and Hymas
+channels @500W or as high-power
+with 2 channels @2000W Export file Raw data, XTF, SEG-Y, XYZ, Echogram,
+formats EA400, Marker and Parameters
+WBT weight and Depth: 213 mm
+dimensions Width: 438 mm
+Height: 84 mm
+Weight: 5 kg
+Power Voltage requirement: 12 to 15 VDC,
+specifications: 5A
+A suitable power supply for 220/110
+VAC operation is provided with the
+Extensive range of transducer delivery
+interfaces, both from Kongsberg Environmental Operational temperature: 0 to 50°C
+as well as 3rd party specifications Storage temperature: -40 to 70°C
+transducers Relative humidity: 5 to 95% relative
+non-condensing
+Kongsberg Maritime AS Phone: +47 32 02 38 00
+",,,
 https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/es_scientific/sci_es_transceivers/ek80p/,EK80 Portable,https://www.simrad.online/ek80/sales/ek80p_ds_en_a4.pdf,"Simrad EK80 Portable
 Portable scientific wide-band echo sounder
 www.simrad.com
@@ -304,7 +938,112 @@ The integrated transceiver supports
 chirp (FM) and continuous wave Typical applications
 (CW) pulse forms. It contains four • Marine and Fresh water
 individual transceiver channels with • Portable setup
-"
+multiplexing functionality. This • Mobile surveys from small boats
+allows for flexible setup of split or in lakes
+single beam transducer configurations. • Fixed location fish counting in
+The EK80 Portable is contained rivers
+in a splash proof cabinet. It is easy to • Monitoring fish passage at
+handle and quick to deploy. hydropower dams
+The integrated computer is running • Habitat mapping
+the EK80 echo sounder software. This • Plankton studies
+gives you all the functionality that
+EK80 has to offer. Key features
+RAW echo sounder data will be • Ready to use
+recorded to the integrated SSD disk or • Integrated computer and display
+to USB flash drive that can easily be • Integrated GPS receiver
+connected through the front panel. • Integrated WiFi
+
+• A member of the Simrad EK80wideband echo sounder family
+
+• Rugged and compact design
+• Splash Proof
+• Four independent channels with(CD019513_001_001)
+built-in multiplexing available
+
+• Built in calibration tool
+• Wide range of transducersavailable
+Simrad EK80 Portable
+Technical specifications Environmental requirements
+The technical specifications and requirements • Operational temperature: 0 to 45
+provided are design values when operating °C 1/2
+with all sectors excited simultaneously. • Storage temperature: -20 to 70 °C
+3/4
+In Kongsberg Maritime, we are continuously • Ingress protection (IP) rating with
+5/6
+working to improve the quality and lid closed: IP64
+performance of our products. The technical • Ingress protection (IP) rating with 7/8
+specifications may be changed without prior
+lid open: IP60
+notice.
+
+• Enclosure material: PolypropyleneAll specifications are maximum ratings. We
+1/2
+Performance specifications are continuously working to improve the
+
+• CPU: Intel Gen4 Core i5-4010U quality and performance of our products. 3/4The technical specifications may be changed
+1.7GHz 5/6
+without prior notice.
+
+• Storage: Samsung 850 Pro SSD7/8
+series 256GB
+
+• Memory: 8GB DDR3L-1600SO-DIMM
+(CD019513_004_001)
+
+• Graphics: Intel HD5000
+• Display resolution: 1024 x 600
+• Display size: 7”
+• Number of USB Ports: 2
+• Frequency range: 30 – 500 kHz
+• Pulse duration: 64 – 2048 µs
+• Pulse forms: CW + FM (Linearup-sweep)
+
+• Maximum transmit power: 1000 W@ 55 Ω
+
+• Number of channels: 4 (Withmultiplexer: 8)
+
+• Transducer options: Single beam/Split beam
+Weight and outline
+dimensions
+
+• Outline dimensions:Depth: 221 mm
+Width: 417 mm
+Height: 334 mm
+
+• Weight: 8.6 kgPower requirements
+
+• Voltage requirement: 12 – 16 VDC
+• Power consumption:Active: 38 / 120 / 333 kHz: 22 / 19
+/ 19 W(*)
+Passive: 18 W
+
+• Maximum current: 5 A (Peak)(* @ Maximum tx power, 1 ms pulse duration,
+and 2 ping/second)
+Simrad EK80 Portable
+External connectors
+The EK80 Portable has one power connector and two transducer connectors
+
+• The top transducer connector is main connector.
+• The lower transducer connector is for multiplexing.Power Transducer 8-pin
+Connector type: Conxall 4 pin male Mini-Con-X Connector type: MacArtney female MCBH8F
+1 +12-16 VDC 1 Channel 1+ (Black)
+1
+1 4 2 Ground 2 Channel 1– (White)
+2 8
+3 Ground 3 Channel 2+ (Red)
+4 +12-16 VDC 4 Channel 2– (Green)
+2 3
+3 7 5 Channel 3+ (Orange)
+6 Channel 3– (Blue)
+7* Channel 4+ (White/Black)
+4 6
+8* Channel 4– (Red/Black)
+5
+Seen towards the connector Seen towards the connector
+System drawing with internal components
+429641/ Rev. B / December 2019
+Simrad
+",,,
 https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/es_scientific/sci_es_transceivers/ek80-portable-entry/,EK80 Portable entry,https://www.simrad.online/ek80/sales/ek80p_flyer.pdf,"Simrad EK80 Portable
 The Entry: A complete solution for scientific echo sounding
 The Simrad EK80 Portable
@@ -345,4 +1084,5 @@ T E C H N O L O G Y F O R S U S T A I N A B L E F I S H E R I E S
 483824 / Rev. B / August 2021
 Simrad
 KongsbergMaritimeAS Telephone:+4733034000
-"
+Strandpromenaden50 Telefax:+4733042987
+",,,

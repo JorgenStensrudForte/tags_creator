@@ -39,13 +39,15 @@ st.title("Filter View")
 # update tags list
 
 
-df2_gpt4 = pd.read_csv("data/df_tags_splitted_30_11.csv")
+# df2_gpt4 = pd.read_csv("data/df_tags_splitted_30_11.csv")
+df2_gpt4 = pd.read_csv("data/12_07/splitted_tags_12_07_0929.csv")
 runar_tags = pd.read_csv("data/tags_runar_01_12_splitted.csv")
 
 filter_30_11 = pd.read_csv("filter_tags.csv")
 filter_runar = pd.read_csv("data/filter_tags - RAO.csv")
 
-grouped_df = pd.read_csv("data/tags_30_11.csv")
+# grouped_df = pd.read_csv("data/tags_30_11.csv")
+grouped_df = pd.read_csv("data/12_07/grouped_tags_12_07_0929.csv")
 grouped_df_runar = pd.read_csv("data/tags_runar_01_12_grouped.csv")
 # splitted_tags_runar = pd.read_csv("data/df_tags_splitted_runar.csv")
 

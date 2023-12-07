@@ -1,0 +1,1446 @@
+url,Product_Name,Data sheets,Scraped Text,General text,Features,Technical Specifications
+https://www.kongsberg.com/maritime/products/onshore/onshore-systems/ais-network-infrastructure-shorebased/ais-service-management-system/,AIS service management system,,"
+AIS Central Monitor (AIS CM)
+
+
+
+Monitoring of all AIS vessels and AIS AtoN within range
+
+The AIS CM is a utility developed in order to operate an AIS Base Station network including monitoring of all AIS vessels and AIS AtoN (Aid to Navigation) within range. The User Interface can utilize different types of electronic charts.
+The AIS CM is receiving a data stream of VDM messages (vessel data) received by AIS Base Stations connected to the network.
+Main functions
+
+AIS Base Station management incl. status monitoring, alarm monitoring and configuration.
+Geographical displaying of AIS targets (Vessels, AIS Base Stations and AIS AtoN) as an electronic map overlay
+A tabular listing of AIS targets incl. sorting and filtering functionality
+AIS target detail window (Vessels, AIS Base Stations, AIS AtoNs)
+
+The User Interface will provide a seamless entry to other modules like data storage, data replay, addressed and broadcast message transmission, area definition tool etc.
+","Monitoring of all AIS vessels and AIS AtoN within range is the central focus of the AIS CM utility. Developed for operation in an AIS Base Station network, the AIS CM facilitates the monitoring of all AIS vessels and AIS AtoN (Aid to Navigation) within range. The User Interface has the capability to utilize different types of electronic charts. The AIS CM receives a data stream of VDM messages (vessel data) from AIS Base Stations connected to the network. Key functions include AIS Base Station management, status monitoring, alarm monitoring, configuration, geographical displaying of AIS targets, tabular listing of AIS targets with sorting and filtering functionality, and AIS target detail windows for Vessels, AIS Base Stations, and AIS AtoNs. The User Interface offers a seamless entry to other modules such as data storage, data replay, addressed and broadcast message transmission, and area definition tool."," - Monitoring of all AIS vessels and AIS AtoN within range
+ - Utilizes different types of electronic charts
+ - Receives a data stream of VDM messages from AIS Base Stations
+ - AIS Base Station management
+ - Geographical displaying of AIS targets
+ - Tabular listing of AIS targets with sorting and filtering functionality
+ - AIS target detail windows for Vessels, AIS Base Stations, and AIS AtoNs
+ - Seamless entry to other modules such as data storage, data replay, addressed and broadcast message transmission, and area definition tool",I don't know
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/acoustic-positioning-systems/hipap-models/apos-survey---surveyors-independent-operator-station-for-hipap/,APOS Survey - Surveyor's independent Operator Station for HiPAP,,"APOS Survey offers full LBL and SSBL, quicker mobilisation times and is designed for both permanent and temporary installation on vessels. The software communicates directly with the HiPAP transceiver, enabling the surveyor to operate independently of the bridge. The software safely integrates into the vessels HiPAP system through a high speed, optically-isolated, serial connection to maintain independence from the vessel's Dynamic Positioning (DP) network, and removes restrictions normally associated with operating a HiPAP system for subsea survey purposes.
+The surveyor can interface local survey grade sensors, IMU, GYRO and GNNS, set up lever arms and load velocity profiles independently of the vessel, unlocking the full potential of HiPAP. The cPAP LBL transceiver for ROV positioning and portable HiPAP transceivers are easily interfaced, providing flexibility for a full range of operations. Both the vessels APOS and APOS Survey can compute position off the same SSBL transponders with independent calculation. HiPAP transducer alignment for both the vessel and APOS Survey system can be run simultaneously.
+Features
+
+APOS Survey OS version 6 or later
+Select which of the vessels HiPAP transducers are available for survey
+Opto isolated serial interface allows a secure connection to the vessel’s HiPAP
+Use vessels or local survey sensors (GNSS MRU, Gyro)
+Configuration of lever arms and offsets independent of the vessel
+Cymbal digital acoustics (500+ channels)
+Positioning modes: SSBL Fast Track, LBL & Sparse LBL
+SSBL Alignment and LBL boxin calibration
+Blue Marble Geodetic Library
+Interfaces to Subsea HAIN and cPAP LBL ROV Transceiver
+Interface ROV pressure and sound velocity sensors
+Industry standard and propriety NMEA telegrams to HiPAP
+
+echnical specification
+MP8300 computer
+
+Type-approved by ABS, BV, CCS, DNV, GL, KR, LR, NKK, PRS and RINA
+Tested against IACS Unified Requirements E10 and IEC 60945
+8 Port serial card; 4 x RS-232 and 4 x RS-422/485
+4 Gigabit Ethernet ports
+128 GB SSD drive, DVD-RW
+
+Power
+
+110 - 240 V AC
+
+Connecting to vessel's apos computer
+
+MOXA NPort 5450I Ethernet to Serial Converter
+
+ASI program
+
+Delivered separately to be loaded into the vessel's APOS computer
+
+
+RELATED INFORMATION
+
+HiPAP operating principles
+HiPAP applications and features
+
+","APOS Survey offers full LBL and SSBL, quicker mobilisation times and is designed for both permanent and temporary installation on vessels. The software communicates directly with the HiPAP transceiver, enabling the surveyor to operate independently of the bridge. The software safely integrates into the vessels HiPAP system through a high speed, optically-isolated, serial connection to maintain independence from the vessel's Dynamic Positioning (DP) network, and removes restrictions normally associated with operating a HiPAP system for subsea survey purposes. The surveyor can interface local survey grade sensors, IMU, GYRO and GNNS, set up lever arms and load velocity profiles independently of the vessel, unlocking the full potential of HiPAP. The cPAP LBL transceiver for ROV positioning and portable HiPAP transceivers are easily interfaced, providing flexibility for a full range of operations. Both the vessels APOS and APOS Survey can compute position off the same SSBL transponders with independent calculation. HiPAP transducer alignment for both the vessel and APOS Survey system can be run simultaneously. APOS Survey OS version 6 or later, select which of the vessels HiPAP transducers are available for survey, opto isolated serial interface allows a secure connection to the vessel’s HiPAP, use vessels or local survey sensors (GNSS MRU, Gyro), configuration of lever arms and offsets independent of the vessel, cymbal digital acoustics (500+ channels), positioning modes: SSBL Fast Track, LBL & Sparse LBL, SSBL Alignment and LBL boxin calibration, blue marble geodetic library, interfaces to subsea HAIN and cPAP LBL ROV transceiver, interface ROV pressure and sound velocity sensors, industry standard and propriety NMEA telegrams to HiPAP.","APOS Survey offers: 
+- Full LBL and SSBL 
+- Quicker mobilisation times 
+- Designed for both permanent and temporary installation on vessels 
+- Direct communication with the HiPAP transceiver 
+- Independence from the vessel's Dynamic Positioning (DP) network 
+- Interface with local survey grade sensors, IMU, GYRO and GNNS 
+- Support for cPAP LBL transceiver for ROV positioning and portable HiPAP transceivers 
+- Simultaneous HiPAP transducer alignment for both vessel and APOS Survey system 
+- APOS Survey OS version 6 or later 
+- Opto isolated serial interface for secure connection to the vessel’s HiPAP 
+- Integration with vessels or local survey sensors (GNSS MRU, Gyro) 
+- Configuration of lever arms and offsets independent of the vessel 
+- Cymbal digital acoustics (500+ channels) 
+- Multiple positioning modes: SSBL Fast Track, LBL & Sparse LBL 
+- SSBL Alignment and LBL boxin calibration 
+- Blue Marble Geodetic Library 
+- Interfaces to Subsea HAIN and cPAP LBL ROV Transceiver 
+- Interface for ROV pressure and sound velocity sensors 
+- Support for industry standard and proprietary NMEA telegrams to HiPAP","MP8300 computer: Type-approved by ABS, BV, CCS, DNV, GL, KR, LR, NKK, PRS and RINA, tested against IACS Unified Requirements E10 and IEC 60945, 8 Port serial card; 4 x RS-232 and 4 x RS-422/485, 4 Gigabit Ethernet ports, 128 GB SSD drive, DVD-RW, Power: 110 - 240 V AC, Connecting to vessel's APOS computer: MOXA NPort 5450I Ethernet to Serial Converter, ASI program: Delivered separately to be loaded into the vessel's APOS computer"
+https://www.kongsberg.com/maritime/products/marine-robotics/underwater-vehicle-instruments/single-beam-scanning-sonars/domed-scanning-sonar/,Domed Scanning Sonar,,"Domed Sonar Background
+In the 1990s, designers enclosed the transducer in an oil-filled dome to provide mechanical protection and eliminate flooding due to O-ring failure on the traditional exposed transducer shaft. While the oil-filled dome solved the O-ring flooding failures, it introduced beam defocusing in two conditions, warm & shallow and cold & deep. The beam defocusing effect becomes more extreme in warm shallow water as temperature increases and cold deep water as depth increases. Until now, there has been no solution to this problem, aside from using a high-resolution scanning sonar head.
+Our engineers solved this problem by designing a patented acoustic lens that maintains beam focus through operational temperature and depth changes, significantly improving sonar performance and resulting in images that are much sharper. The Clariscan acoustic lens behaves like an optical contact lens, correcting the refraction caused by the oil in the dome.
+Clariscan is currently available in a 4000M depth-rated version.
+Applications
+
+Obstacle avoidance
+Pipeline survey
+Target detection
+Underwater construction support
+
+Data Comparison
+Clariscan Sonar vs. Standard Sonar with Composite Transducer
+Deep water testing in the Gulf of Mexico clearly showed the difference in image quality between the Clariscan sonar head and the standard domed sonar with composite transducer. The two sonar heads were mounted side by side on an ROV and thus exposed to the same temperature, pressure and salinity conditions, and were operated simultaneously during image capture.
+The three images below clearly show the image quality of the Clariscan sonar (left image) is superior and rivals that of a high-resolution scanning sonar head.
+
+
+Data Comparison 1: Clariscan (left) – Standard sonar with composite transducer (right).
+
+
+
+Data Comparison 2: Clariscan (left) – Standard sonar with composite transducer (right).
+
+
+
+Data Comparison 3: Clariscan (left) – Standard sonar with composite transducer (right).
+
+","Domed Sonar Background: In the 1990s, designers enclosed the transducer in an oil-filled dome to provide mechanical protection and eliminate flooding due to O-ring failure on the traditional exposed transducer shaft. While the oil-filled dome solved the O-ring flooding failures, it introduced beam defocusing in two conditions, warm & shallow and cold & deep. Our engineers solved this problem by designing a patented acoustic lens that maintains beam focus through operational temperature and depth changes, significantly improving sonar performance and resulting in images that are much sharper. Clariscan is currently available in a 4000M depth-rated version. Applications: Clariscan is suitable for obstacle avoidance, pipeline survey, target detection, and underwater construction support. Data Comparison: Deep water testing in the Gulf of Mexico clearly showed the difference in image quality between the Clariscan sonar head and the standard domed sonar with composite transducer.",Key Features: - Patented acoustic lens design - Maintains beam focus through operational temperature and depth changes - Significantly improves sonar performance - Available in a 4000M depth-rated version,I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/ekmp/,EK Mission Planner,,"This EK mission planner is a planning and programming tool for autonomous echo sounders such as Simrad WBAT and Simrad WBT Mini. You can set up all necessary parameters related to ""wakeup"" and ""sleep"" times for the echo sounder, as well as transmission modes, intervals, and other parameters.
+After you have planned the deployment carefully, all settings are uploaded to the transceiver.
+
+
+In addition to running a predefine schedule, you can first use the EK Mission Planner to define the ping configurations and send these to the instrument. Then you can use the ""interactive mode"" (or ""command mode"" if you like) to control the transmissions from an external source such as an onboard controller. ""Interactive mode"" also enables the reading of key information such as mean volume backscattering strength in layers in real-time.
+
+
+Key Features
+
+Control of all necessary parameters needed to  program a mission plan
+The mission plan is set by programming in Ping Groups, Ping Group Libraries, Phases, and Ensembles
+License-free software 
+
+Typical applications
+
+Ocean observatories
+Fish migration studies
+Long-term biological studies
+Improved fish stock assessment
+Water column profiling
+
+When making a mission plan you start by selecting the transducer(s) you will use for the deployment. The next step is to define ping groups, i.e. all parameters for a ping, such as CW (Continuous Wave) versus FM (Frequency Modulated), pulse duration, transmit power, and so on. The third step is to define the duration of the deployment which can be divided into several phases. Usually, it's sufficient to use only one single phase. The last step in the mission planning is to put the ping groups you defined into ensembles. You can choose if the ensembles shall be repeated for a fixed number of iterations or for as many times as possible within the time span you choose. After planning the mission, you can set the environmental parameters. After completing these steps, you are ready to connect to the transceiver, send the mission plan to the transceiver and deploy.
+
+","The EK mission planner is designed to be a planning and programming tool for autonomous echo sounders like Simrad WBAT and Simrad WBT Mini. It allows you to set up all necessary parameters related to 'wakeup' and 'sleep' times, transmission modes, intervals, and other parameters. The planner enables you to upload all the carefully planned settings to the transceiver. In addition to running a predefine schedule, the EK Mission Planner allows defining ping configurations and control transmissions from an external source using the 'interactive mode'. This mode also enables real-time reading of key information. When making a mission plan, the process involves selecting the transducers, defining ping groups, configuring deployment duration, and setting ensembles. After completing the planning steps, you can connect to the transceiver, send the mission plan, and deploy.","Control of all necessary parameters needed to program a mission plan, The mission plan is set by programming in Ping Groups, Ping Group Libraries, Phases, and Ensembles, License-free software",I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/es_scientific/ek80software/,EK80 software,,"Based on more than 60 years of research and development in close collaboration with leading marine scientists, this wide band echo sounder system has succeeded the famous EK60, which became an international standard for fish stock assessment. The EK80 is now a wideband system with an operational range from 10 kHz to 500 kHz. The extreme range resolution and improved target characterization allow for a wide range of oceanographic applications.
+
+
+A wide selection of high-quality accurate surface- and depth transceivers and transducers are available for a flexible system, capable of integration on sensor platforms from small to large.
+Real-time echo integration and target strength analysis in an unlimited number of layers are provided as well as storage of raw data for replay or analysis in one of several post-processing software packages. 
+The Ocean Science product EK80 has a defined and publicly available output format which is specified in the product’s interface description. For post-processing of the output data we refer you to this documentation, or use commercially available software applications like for example Echoview.
+
+(A) Top bar gives you fast access to key functionality and navigational information.(B) Replay bar allows you to retrieve saved files and control the playback.(C) Echogram views(D) Information panes provide additional and detailed data from the EK80 presentation.(E) Main menu system(F) Secondary menus(G) Bottom bar
+
+
+Key Features
+
+High dynamic range
+Raw data recording
+High ping rate
+Multifrequency application for species identification
+Simultaneous transmission of all frequencies
+Several frequencies covering the same sampling volume
+Wideband frequency sweep (""chirp"") in combination with advanced signal processing gives an exceptionally good signal to noise ratio and range resolution
+Echo sounder calibration module included
+Remote control via web interface
+Store and reload personal settings
+Network interface for raw data recording
+Acoustic Doppler Current Profiler (ADCP) functionality
+License-free software for replay purposes
+
+Typical applications
+
+Ocean Observatories
+Fish migration studies
+Long-term biological studies
+Improved fish stock assessment
+Oceanographical studies
+Water column profiling
+
+Example data
+A set of data files in the EK80 .raw format can be downloaded for tests and training. The files are provided in ZIP format, and each contains a selection of example files. Note that each file is rather big.
+
+","Ocean Science has developed the EK80, a wideband echo sounder system that has replaced the EK60, which was previously an international standard for fish stock assessment. The EK80 operates in a wide frequency range from 10 kHz to 500 kHz, offering enhanced range resolution and target characterization for various oceanographic applications. It provides real-time echo integration, target strength analysis, and storage of raw data for post-processing. The system also offers a selection of high-quality transceivers and transducers for integration on sensor platforms of different sizes. Additionally, it features a defined output format and can be controlled remotely via a web interface, making it suitable for applications such as ocean observatories, fish migration studies, and long-term biological studies.","• High dynamic range
+• Raw data recording
+• High ping rate
+• Multifrequency application for species identification
+• Simultaneous transmission of all frequencies
+• Several frequencies covering the same sampling volume
+• Wideband frequency sweep (""chirp"") with advanced signal processing
+• Echo sounder calibration module included
+• Remote control via web interface
+• Store and reload personal settings
+• Network interface for raw data recording
+• Acoustic Doppler Current Profiler (ADCP) functionality
+• License-free software for replay purposes",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysounder/td_fishfinding/,Fish-finding transducers,,"The transducer is the subsea element of the echo sounder. Our transducers are characterised by high quality, precision and accuracy. The frequencies cover from extreme shallow water to full ocean depth.
+
+
+
+
+
+
+
+
+
+
+
+","Our transducers are characterized by high quality, precision, and accuracy. The frequencies cover from extreme shallow water to full ocean depth.",I don't know,I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/scientific-multibeam-systems/me70/,ME70 multibeam echo sounder,,"The ME70 is designed for fishery research applications. It operates in the frequency range of 70 to 120 kHz using 800 transmitting and receiving channels. By adding bathymetry functionality to the standard system, the ME70 also provides high resolution seabed mapping.
+
+
+
+
+
+
+(A) Top bar gives you fast access to key functionality and navigational information. (B) Replay bar allows you to retrieve saved files, and to control the playback. (C) Echogram views (D) Information fields provide additional and detailed data from the ME70 presentation. (E) Swath view (F) Main menu (G) Secondary menus (H) Bottom bar
+The ME70 Multibeam scientific echo sounder is designed for high operating flexibility. The system includes a wide fan of stabilized beams for fish behaviour studies, fish school characterization, and other purposes. A sector of these beams can be set up as split beams providing data for single target analysis such as target strength measurements and target tracking. The sector of calibrated narrow split beams with low sidelobe levels and short pulse lengths allows for accurate biomass estimation very close to the bottom.
+
+
+Key facts
+
+Simrad ME70 operates in the 70 to 120 kHz frequency range.
+Simrad ME70 provides an adjustable acoustic fan containing 3 to 45 stabilized beams.
+All beams can be configured as split beams.
+The calibration software is included.
+The minimum beam opening is 2 degrees depending on the operational frequency and steering.
+The total swath width is 140 degrees.
+The athwartship center angle of the fan can be adjusted from +45 to -45 degrees.
+The minimum acquisition depth is less than 1 m below the transducer, this depends on the beam mode configuration.
+Sidelobe levels and beam interleakage are adjustable from -35 to -70 dB depending on the beamwidth and the frequency configuration.
+
+Options
+Two systems are available to expand the utility value of the ME70 multibeam scientific echo sounder system:
+
+Bathymetric processor system for high-resolution seabed mapping
+Element Data Logger for collection of high-volume element data
+
+The bathymetry option provided for the ME70 allows you to use the system not only as a scientific multibeam echo sounder for fishery research applications but also as a multibeam echo sounder for seabed mapping. Additional hardware items are added to the basic ME70 system to provide this functionality.
+The Ocean Science product ME70 has a defined and publicly available output format which is specified in the product’s interface description. For post-processing of the output data we refer you to this documentation, or use commercially available software applications like for example Echoview.
+
+
+Key functionality
+
+Transceiver input control
+Sensor input control
+Information display
+Raw data recording with network interface
+Replay previously recorded echo data
+Low self-noise
+Remote control
+Data subscription functionality
+Define and save your own user settings
+Easy operation within an intuitive user interface
+Clear and easily comprehensive echo data
+25 transceiver boards provide 800 individual channels
+
+
+
+
+
+","The ME70 is a multibeam scientific echo sounder designed specifically for fishery research applications. It operates within the frequency range of 70 to 120 kHz and utilizes 800 transmitting and receiving channels. With the inclusion of bathymetry functionality, the ME70 also offers high resolution seabed mapping capabilities. The system provides high operating flexibility with a wide fan of stabilized beams, which can be configured for fish behavior studies, fish school characterization, and single target analysis. Additionally, the ME70 offers adjustable acoustic fan containing 3 to 45 stabilized beams and all beams can be configured as split beams. The system also features a calibration software, minimum beam opening of 2 degrees, total swath width of 140 degrees, and adjustable athwartship center angle of the fan of +45 to -45 degrees.","Key features and benefits of the ME70 include: 
+- Operates in the 70 to 120 kHz frequency range 
+- Provides an adjustable acoustic fan containing 3 to 45 stabilized beams 
+- All beams can be configured as split beams 
+- Calibration software is included 
+- Offers a minimum beam opening of 2 degrees 
+- Total swath width of 140 degrees 
+- Adjustable athwartship center angle of the fan from +45 to -45 degrees 
+- Offers adjustable sidelobe levels and beam interleakage from -35 to -70 dB depending on the beamwidth and the frequency configuration","The technical specifications of the ME70 echo sounder system include: 
+- Frequency range: 70 to 120 kHz 
+- Transmitting and receiving channels: 800 
+- Sidelobe levels and beam interleakage: adjustable from -35 to -70 dB 
+- Number of stabilized beams: 3 to 45 
+- Minimum beam opening: 2 degrees 
+- Total swath width: 140 degrees 
+- Athwartship center angle of the fan: adjustable from +45 to -45 degrees 
+- Minimum acquisition depth: less than 1 m below the transducer 
+- Output options: Bathymetric processor system, Element Data Logger"
+https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/scientific-multibeam-systems/ms70/,MS70 Multibeam sonar,,"The MS70 offers a new dimension to fishery research. As a school of fish changes shape and density constantly, the MS70 is the best possible tool to understand these dynamics with remote sensing. The MS70 was the world's first quantitative multibeam sonar for fishery research applications.
+
+
+The MS70 operates in the frequency range of 70 to 120 kHz using 800 transmitting and receiving channels. The transducer is mounted on a drop keel, which allows it to look horizontally. Advanced beamforming software is used to form 500 beams, these are spread out 60° horizontally by 45° vertically.
+The MS70 Multibeam scientific sonar is designed for high operating flexibility. It provides an acoustic matrix of stabilized and calibrated beams for biomass estimation, fish school characterization andbehaviour studies.
+Within the bandwidth of the transducer, the limits for beam steering, and the minimum achievable beam opening, you can selectthe directions, frequencies, and opening angles for the beams. You can set up the system to fit your requirements, and it will provide you with a real-time display for quality control ofthe current data acquisition. The system configuration can be tailored to any requirements, allowing for choice of beamwidths as well as transmission modes.
+The MS70 allows characterization and volume estimation of a school of fish using only one single transmission. Schools of fish can be tracked, followed, and studied using multiple consecutive transmissions.
+As a consequence of the horizontal transmission using narrow beams, the MS70 allows you to detect and characterize schools of fish even very close to the sea surface.
+Screen capture
+A typical screen capture is provided. A school of herring is shown in both horizontal and vertical views. An echogram view is provided on the left side of the presentation. The borderlines between the views can easily be moved to adjust the size of each view.
+
+
+Key facts
+It offers unique features for modern research vessels and environmental monitoring installations that require high quality scientific data.
+
+The frequency range is 70 to 120 kHz.
+Provides an acoustic matrix containing 500 beams (25 horizontal and 20 vertical). Each beam is 3° to 4° wide depending on its position in the matrix.
+60° horizontal operating sector
+45° vertical operating sector
+-25 dB horizontal side lobe levels
+-35 dB vertical side lobe levels and beam interleakage
+Transceiver operation control
+Sensor input control
+Information display
+Raw data recording with network interface
+Replay of previously recorded data
+Low self-noise
+Remote control
+Data subscription functionality
+Define and save your own user settings
+Easy operation with an intuitive user interface
+Clear and easily comprehensive echo data
+25 transceiver boards provide 800 individual channels
+
+The Ocean Science product MS70 has a defined and publicly available output format which is specified in the product’s interface description. For post-processing of the output data, we refer you to this documentation or use commercially available software applications like for example Echoview.
+
+","The MS70 offers a new dimension to fishery research. As a school of fish changes shape and density constantly, the MS70 is the best possible tool to understand these dynamics with remote sensing. The MS70 was the world's first quantitative multibeam sonar for fishery research applications. The MS70 operates in the frequency range of 70 to 120 kHz using 800 transmitting and receiving channels. The transducer is mounted on a drop keel, which allows it to look horizontally. Advanced beamforming software is used to form 500 beams, these are spread out 60° horizontally by 45° vertically. The MS70 Multibeam scientific sonar is designed for high operating flexibility. It provides an acoustic matrix of stabilized and calibrated beams for biomass estimation, fish school characterization and behaviour studies. Within the bandwidth of the transducer, the limits for beam steering, and the minimum achievable beam opening, you can select the directions, frequencies, and opening angles for the beams. You can set up the system to fit your requirements, and it will provide you with a real-time display for quality control of the current data acquisition. The system configuration can be tailored to any requirements, allowing for choice of beamwidths as well as transmission modes. The MS70 allows characterization and volume estimation of a school of fish using only one single transmission. Schools of fish can be tracked, followed, and studied using multiple consecutive transmissions. As a consequence of the horizontal transmission using narrow beams, the MS70 allows you to detect and characterize schools of fish even very close to the sea surface. A typical screen capture is provided. A school of herring is shown in both horizontal and vertical views. An echogram view is provided on the left side of the presentation. The borderlines between the views can easily be moved to adjust the size of each view. It offers unique features for modern research vessels and environmental monitoring installations that require high quality scientific data. The Ocean Science product MS70 has a defined and publicly available output format which is specified in the product’s interface description. For post-processing of the output data, we refer you to this documentation or use commercially available software applications like for example Echoview."," - Frequency range of 70 to 120 kHz- 800 transmitting and receiving channels- Transducer mounted on a drop keel- 500 beams formed using advanced beamforming software- 60° horizontal by 45° vertical spread- High operating flexibility for biomass estimation, fish school characterization and behavior studies- Real-time display for quality control of the current data acquisition- Characterization and volume estimation of a school of fish using only one single transmission- Track, follow, and study schools of fish using multiple consecutive transmissions- Detection and characterization of schools of fish even very close to the sea surface- Unique features for modern research vessels and environmental monitoring installations- Defined and publicly available output format",I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/sonars/sonars-for-marine-site-inspection/flexview/,"Multibeam Sonar, Flexview",,"
+Delivering superior image quality and coverage, the Flexview multibeam sonar provides high-quality distortion-free images over a 140° sector, reducing the time it takes to search for and locate targets. Two versions of the Flexview are available.
+The Flexview's removable transducer is the first of its kind, offering field replacement of a damaged transducer in the unlikely event of a catastrophic impact. It also allows for potential new transducer configurations to be exchanged in the future, depending on the job being performed.
+
+
+Mosaic image merged from 7 passes.
+
+Features
+Flexview – FLEXVIEW HF (High Frequency) version:
+
+70 m coverage over 140⁰ sector
+Higher resolution images at short range
+
+Flexview – 500 kHz version:
+
+200 m coverage over 140⁰ sector
+High-resolution images at long range
+
+Both versions:
+
+Ideally suited for small observation class ROVs
+Distortion-free images at a high update rate
+Removable transducer for rapid field replacement
+User-friendly interface
+Low-profile wet mateable connector
+CHIRP and Doppler modes of operation
+Significant time savings
+
+Applications
+
+Search and recovery
+Marine engineering
+Site inspection
+Environmental monitoring
+Site clearance
+Underwater science
+
+
+","The Flexview multibeam sonar provides high-quality distortion-free images over a 140° sector, reducing the time it takes to search for and locate targets. The removable transducer of the Flexview allows for potential new transducer configurations to be exchanged in the future, depending on the job being performed. Two versions of the Flexview are available: FLEXVIEW HF (High Frequency) version with 70m coverage over a 140⁰ sector and higher resolution images at short range, and 500 kHz version with 200m coverage over 140⁰ sector and high-resolution images at long range. Both versions are ideally suited for small observation class ROVs, offering distortion-free images at a high update rate, and featuring a user-friendly interface, low-profile wet mateable connector, CHIRP and Doppler modes of operation, along with significant time savings. The Flexview is suitable for applications such as search and recovery, marine engineering, site inspection, environmental monitoring, site clearance, and underwater science.",Flexview multibeam sonar offers the following key features: - High-quality distortion-free images over a 140° sector - Removable transducer for rapid field replacement - Two versions available: FLEXVIEW HF (High Frequency) version and 500 kHz version - Ideally suited for small observation class ROVs - User-friendly interface - Low-profile wet mateable connector - CHIRP and Doppler modes of operation - Significant time savings,I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/sonars/sonars-for-marine-site-inspection/m3/,"Multibeam sonar, M3 Sonar¬Æ",,"
+Features
+
+Up to 500m and up to 4000m water depth
+Portable, cost effective and light weight sonar
+Generates imaging and bathymetric datasets from one sonar head
+Produces single-beam image quality with the speed of multibeam
+Provides GeoTIFF output and creates real-time mosaic using third party software
+Compliant to IHO Special Order & 1A
+Uses Linear FM, CW and Doppler pulses
+
+The innovative design of the M3 Sonar® uses two sets of complementary transducers which allow it to generate both imaging and bathymetric data with the same head. Unique to the M3 Sonar® is the patented eIQ (enhanced image quality) mode of operation that generates multibeam images with unprecedented clarity.
+The M3 Sonar has the ability to configure applications using complex pulses. The system allows the operator to interleave active pings and passive listening modes, Doppler, multiple true-zoom windows (up to 4) with linear FM and CW imaging modes of operation.
+Data outputs are compatible with various third party software such as Caris, EIVA, Hypack and QINSy. The M3 Sonar® has the ability to produce real-time 3D point clouds enabling fast target or object detection. Ideal for shallow water surveys on USV/ASV/ROV and dual head deployment.
+Benefits
+
+High update rate
+Significant time savings during operations
+Uniform large coverage area
+MultiMode capability
+Low power consumption
+User friendly
+
+Applications
+
+Hull Inspection
+Pier Inspection and Berth Clearance
+Underwater Search and Recovery
+Underwater Security
+Underwater Vehicle Instrumentation
+
+Installation options
+
+Pole mount on a surface vessel
+Suitable for a wide range of vehicles from large work-class ROVs to small observation class ROVs
+Tripod mounted
+
+IHO compliance
+
+Vertical Accuracy compliance can be met over the full ±60° sector for Order 1 surveys and to at least ±55° for Special Order
+Special Order target detection (1m cube) is met to 20m and Order 1A target detection (2m cube) is maintained to 40m
+
+M3 Sonar Applications
+Marine Engineering & Site Inspection (MESI)
+
+Structure inspection in ports and harbours
+Dam and water intake inspections
+Bridge pier and dock inspections
+Shallow water surveys
+Outfalls and pipe inspections
+Pipeline surveys
+Dredge monitoring
+
+Search & Recovery (SAR) / Security
+
+Berth clearance
+Hull inspection
+Piling inspection
+Unexploded Ordinance (UEXO) / IED detection
+Body and evidence detection/recovery
+Diver direction and supervision
+
+Underwater Vehicle Instrumentation (UVI)
+
+ROV - Navigation, obstacle avoidance, rapid mosaicking - Bathymetric survey, pipeline survey
+Trencher/Plough - Navigation, obstacle avoidance - Trench profiling
+
+Environmental Monitoring
+
+Mammal behaviour monitoring
+Fish monitoring
+Geological studies (bedforms and gas bubble/seeps)
+Wastewater ponds & lagoons
+Archeological sites & ship wrecks detection
+Coral reefs monitoring
+
+Installation Options
+
+Suitable for a wide range of vehicles from large work-class ROVs to small observation-class ROVs
+Pole mount on surface vessel
+Tripod mounted
+
+System components
+
+
+M3 sonar package.
+
+The system is made up of three main components:
+
+Sonar head – transmits and receives acoustic pulses
+Operations cable and power supply – supplies power to the sonar head
+Computer  – operates the M3 software that manages communication with the sonar head and presents the sonar imagery for the operator
+
+M3 Sonar Software
+The M3 software was developed specifically for the M3 system to manage communications with the sonar head and operate all beam-forming and imaging processing.
+Four Pre-Defined Modes
+
+Imaging: Long range navigation with high speed update
+Enhanced Image Quality (eIQ): Greatest image quality (0.95° angular resolution) from a short range with a slower update
+ROV Navigation: Selects eIQ or imaging based on range
+Profiling: Narrow 3° beam used to generate a 3D point cloud
+
+Supported data acquisition software
+
+Hypack Hysweep
+QPS QINSy
+EIVA NaviSuite
+OIC SAMM
+Forum VisualSoft Suite
+
+Supported post processing software
+
+CARIS HIPs & SIPs
+Hypack
+QPS QINSy
+EIVA NaviSuite
+Forum VisualSoft Suite
+Echoview
+
+","The M3 Sonar® offers a range of valuable features and benefits, making it an essential tool for various marine applications. With the ability to produce both imaging and bathymetric data from a single head, the M3 Sonar® provides exceptional versatility and efficiency. Its innovative design utilizes complex pulses and various modes of operation to generate high-quality images and point clouds in real-time. Additionally, the M3 Sonar® is compliant with IHO Special Order & 1A, ensuring accurate and reliable data for surveys. Furthermore, the system is user-friendly and offers significant time savings during operations, along with low power consumption."," - Up to 500m and up to 4000m water depth
+ - Portable, cost effective and light weight sonar
+ - Generates imaging and bathymetric datasets from one sonar head
+ - Produces single-beam image quality with the speed of multibeam
+ - Provides GeoTIFF output and creates real-time mosaic using third party software
+ - Compliant to IHO Special Order & 1A
+ - Uses Linear FM, CW and Doppler pulses
+ - High update rate
+ - Significant time savings during operations
+ - Uniform large coverage area
+ - MultiMode capability
+ - Low power consumption
+ - User friendly",I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherycatch/hydrophones/portable-hydrophone/,PI Portable hydrophone,,"The portable hydrophone is if you wish to use your catch monitoring system right away without docking for hydrophone installation.
+
+
+
+You can connect the hydrophone directly into the connector on the receiver, and lower the hydrophone over the rail.
+The hydrophone has an omnidirectional beam and a 50 meter integrated cable.
+The cable is sheathed in polyurethane providing robust external protection to complement its 150 kg tensile strength. The cable is supplied on a reel for convenient retrieval and storage.
+
+
+
+
+
+
+
+","Portable Hydrophone: Ideal for immediate catch monitoring, the portable hydrophone allows for quick setup without the need for hydrophone installation. You can easily connect the hydrophone directly into the connector on the receiver and lower it over the rail. The hydrophone features an omnidirectional beam and a 50 meter integrated cable. The cable is sheathed in polyurethane, providing robust external protection with a 150 kg tensile strength. Moreover, the cable is supplied on a reel, allowing for convenient retrieval and storage.",I don`t know,I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherycatch/hydrophones/purse-seine-hydrophone/,PI Purse seine hydrophone,,"The purpose of the hydrophone is to provide the best possible communication with the wireless sensors located on your purse or danish seine.
+
+You can use one or two hydrophones pointing towards the net. Both are hull-mounted.
+The hydrophone has a 90 degrees horizontal beam and a 30 degrees vertical beam. This provides the catch monitoring system with optimal reception from the wireless sensors on a purse seine.
+The beam pattern is especially suited for purse seining. The wide coverage area reduces the need for careful alignment.
+
+",The purpose of the hydrophone is to provide the best possible communication with the wireless sensors located on your purse or danish seine. You can use one or two hydrophones pointing towards the net. Both are hull-mounted. The hydrophone has a 90 degrees horizontal beam and a 30 degrees vertical beam. This provides the catch monitoring system with optimal reception from the wireless sensors on a purse seine. The beam pattern is especially suited for purse seining. The wide coverage area reduces the need for careful alignment.,,
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherycatch/hydrophones/Trawl-hydrophone/,PI Trawl hydrophone,,"The Simrad PI Trawl hydrophone is designed to provide the best possible communication with the wireless sensors located on your pelagic or bottom trawls.
+
+You can use one or two hydrophones pointing towards the aft of the vessel, but pay attention to the noise generated by the propellers. Each hydrophone is hull-mounted.
+The Trawl hydrophone has a 50 degrees horizontal beam and a 30 degrees vertical beam to provide the catch monitoring system with optimal reception from the sensors on a bottom or pelagic trawl.
+This specific beam pattern is especially suited for trawling and the wide coverage area reduces the need for careful alignment.
+
+","The Simrad PI Trawl hydrophone is designed to provide the best possible communication with the wireless sensors located on your pelagic or bottom trawls. You can use one or two hydrophones pointing towards the aft of the vessel, but pay attention to the noise generated by the propellers. Each hydrophone is hull-mounted. The Trawl hydrophone has a 50 degrees horizontal beam and a 30 degrees vertical beam to provide the catch monitoring system with optimal reception from the sensors on a bottom or pelagic trawl. This specific beam pattern is especially suited for trawling and the wide coverage area reduces the need for careful alignment.",I don't know,I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pxcharger/,PX MultiSensor Charger,,"The PX MultiSensor Charger must be used to charge all PX family sensors.
+The catch monitoring sensors must be charged between operations. The charger is provided with a special plug that prevents shortcuts or incorrect connections. Charging is fully automatic. When the sensor is fully charged, the charging current is limited to ensure long battery life.
+Recommended charging temperature is between +5 and +45°C (+41 to +113°F).
+Note!
+The battery charger is designed especially for charging this sensor battery, and it must only be used for this purpose
+The sensor must never be charged at temperatures below 0°C (32°F). A built-in safety mechanism will protect the sensor if you attempt to charge it in sub-zero temperatures.
+Documents
+
+Simrad PX MultiSensor Charger
+
+","The PX MultiSensor Charger must be used to charge all PX family sensors. The catch monitoring sensors must be charged between operations. The charger is provided with a special plug that prevents shortcuts or incorrect connections. Charging is fully automatic. When the sensor is fully charged, the charging current is limited to ensure long battery life. Recommended charging temperature is between +5 and +45°C (+41 to +113°F). Note! The battery charger is designed especially for charging this sensor battery, and it must only be used for this purpose. The sensor must never be charged at temperatures below 0°C (32°F). A built-in safety mechanism will protect the sensor if you attempt to charge it in sub-zero temperatures. Documents: Simrad PX MultiSensor Charger",I don't know,I don't know
+https://www.kongsberg.com/maritime/products/Acoustics-Positioning-and-Communication/acoustic-positioning-systems/hipap-models/remote-services-for-hipap-systems/,Remote Services for HiPAP systems,,"
+KONGSBERG Remote Services is a tool for KONGSBERG certified engineers worldwide when requested to connect to a HiPAP system and provide remote support. It can reduce the need for onboard visits by KONGSBERG Service personnel, saving both time and cost while reducing downtime due to shorter response time on support requests.
+Kongsberg Remote Services are built on a common technology platform for KONGSBERG products. When installed on board Remote Services can support several KONGSBERG products on the same platform. The system is designed to address the challenges of establishing a secure and reliable remote session to the vessel HiPAP system via satellite communications. KONGSBERG's global secure network is developed in-house and all communications are authenticated and encrypted by a Kongsberg Maritime controlled PKI (Public Key Infrastructure) regime.
+If a user requires support, the operator simply needs to request to press the 'Remote support' button on the HiPAP Operator Station (APOS). The request will then be handled by a KONGSBERG certified engineer in a KONGSBERG Support center. The engineer can view the operator's screen and assist via telephone or text chat through remote services.
+Initially, the on board user cannot operate the system during the support session, only view the screen onboard. The next level in the process is to enable the KONGSBERG support engineer to operate the system, check parameters and other status information. Execution of specific tasks can be carried out.
+If remote operation of the system shall be carried out, risk assessment and remote safe job analysis will have been completed by the customer and KONGSBERG in advance. Remote operation is only done by a certified KONGSBERG engineer after onboard personnel have initiated and approved the session and the time duration is agreed.
+Key features
+Typical tasks than can be executed by Remote Services include:
+
+Transducer alignment
+Transducer alignment analysis
+LBL Array calibration
+LBL Array runtime calibration
+Software Upgrade (cNODE)
+Configure new options
+HAIN alignment
+Post processing of DVL calibration
+Troubleshooting in general
+Configure outputs/inputs
+General System Check
+
+The onboard installation consists of a Kongsberg Remote Service kit that contains a pre-programmed router, malware protection computer and software for the operator stations. The HiPAP APOS system may require a software upgrade to use this new feature.
+","KONGSBERG Remote Services is a tool for KONGSBERG certified engineers worldwide when requested to connect to a HiPAP system and provide remote support. It can reduce the need for onboard visits by KONGSBERG Service personnel, saving both time and cost while reducing downtime due to shorter response time on support requests. Kongsberg Remote Services are built on a common technology platform for KONGSBERG products. When installed on board Remote Services can support several KONGSBERG products on the same platform. The system is designed to address the challenges of establishing a secure and reliable remote session to the vessel HiPAP system via satellite communications. KONGSBERG's global secure network is developed in-house and all communications are authenticated and encrypted by a Kongsberg Maritime controlled PKI (Public Key Infrastructure) regime. If a user requires support, the operator simply needs to request to press the 'Remote support' button on the HiPAP Operator Station (APOS). The request will then be handled by a KONGSBERG certified engineer in a KONGSBERG Support center. The engineer can view the operator's screen and assist via telephone or text chat through remote services. Initially, the on board user cannot operate the system during the support session, only view the screen onboard. The next level in the process is to enable the KONGSBERG support engineer to operate the system, check parameters and other status information. Execution of specific tasks can be carried out. If remote operation of the system shall be carried out, risk assessment and remote safe job analysis will have been completed by the customer and KONGSBERG in advance. Remote operation is only done by a certified KONGSBERG engineer after onboard personnel have initiated and approved the session and the time duration is agreed.","Typical tasks than can be executed by Remote Services include:
+- Transducer alignment
+- Transducer alignment analysis
+- LBL Array calibration
+- LBL Array runtime calibration
+- Software Upgrade (cNODE)
+- Configure new options
+- HAIN alignment
+- Post processing of DVL calibration
+- Troubleshooting in general
+- Configure outputs/inputs
+- General System Check",I don't know
+https://www.kongsberg.com/maritime/products/bridge-systems-and-control-centres/broadband-radios/br90/,Simrad BR90,,"Completely enclosed with integrated antennas the Simrad BR90 is designed for installations on small manned and unmanned vessels.
+
+
+The Simrad BR90 is best choice if you need to connect equipment between vessels up to 15 km distance between them, and you need a data rate up to 5 Mb/s (depending on distance and Sea conditions). The unit has an integrated bracket for easy installation. With its neat and slim design, and only one cable to connect, the BR90 is easy to deploy on the vessel.
+Each BR90 works in a network with two or more radio units. A radio site is one or several radio units connected together on one location. A radio network is a network of radio sites.
+The BR90 gives you high speed, high capacity and extremely robust data, voice and video transfer between multiple vessels and other assets. It has demonstrated stable, high capacity communication in a maritime environment.
+
+","Completely enclosed with integrated antennas the Simrad BR90 is designed for installations on small manned and unmanned vessels. The Simrad BR90 is the best choice if you need to connect equipment between vessels up to 15 km distance between them, and you need a data rate up to 5 Mb/s (depending on distance and Sea conditions). The unit has an integrated bracket for easy installation. With its neat and slim design, and only one cable to connect, the BR90 is easy to deploy on the vessel. Each BR90 works in a network with two or more radio units. A radio site is one or several radio units connected together on one location. A radio network is a network of radio sites. The BR90 gives you high speed, high capacity and extremely robust data, voice and video transfer between multiple vessels and other assets. It has demonstrated stable, high capacity communication in a maritime environment.","Integrated antennas
+Easy installation with integrated bracket
+High-speed data transfer
+High capacity communication
+Robust data, voice, and video transfer",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/td/200-khz/cp200-5c/,Simrad CP200-5C,,"The Simrad CP200-5C transducer housing contains three separate transducers set up to measure water velocity, and one single-beam transducer for traditional fish-finding. Due to its high operating frequency the CP200-5C provides accurate measurements and detailed echograms.
+
+
+The transducer is normally mounted flush with the hull plating. A clamping frame isused to secure the transducer body to a mounting frame. The mounting frame is welded to the bottom plate. The transducer cable penetrates the hull using a cable gland. The cable gland consists of a bushing, rubber gasket, washers and a packing nipple. The transducer can also be flush mounted at the bottom of a blister or a drop keel. 
+The CP200-5C transducer is connected to a echo sounder system. For maximummeasurement accuray we strongly recommend that you connect a motion reference unit (MRU) to the echo sounder system. If a motion reference unit (MRU) is not available, use a motion sensor to measure roll and pitch. As a minimum solution a global positioning system (GPS) can be used.
+To obtain precision data that are both detailed and correct, it is necessary to align the transducer and measure its location and offset in relation to the vessel’s  coordinate system. We recommend that the echo sounder system with the CP200-5C transducer is calibrated prior to use.
+Key specifications
+
+Frequency: 200 kHz
+Beamwidth, ADCP elements: 5 degrees
+Beamwidth, fish-finding element: 30 degrees
+Cable length: 20 metres
+Weight (in air, with cable): 13.3 kg
+
+","The Simrad CP200-5C transducer housing contains three separate transducers set up to measure water velocity, and one single-beam transducer for traditional fish-finding. Due to its high operating frequency the CP200-5C provides accurate measurements and detailed echograms. The transducer is normally mounted flush with the hull plating. A clamping frame is used to secure the transducer body to a mounting frame. The mounting frame is welded to the bottom plate. The transducer cable penetrates the hull using a cable gland. The cable gland consists of a bushing, rubber gasket, washers and a packing nipple. The transducer can also be flush mounted at the bottom of a blister or a drop keel. The CP200-5C transducer is connected to an echo sounder system. For maximum measurement accuracy, we strongly recommend that you connect a motion reference unit (MRU) to the echo sounder system. If a motion reference unit (MRU) is not available, use a motion sensor to measure roll and pitch. As a minimum solution, a global positioning system (GPS) can be used. To obtain precision data that are both detailed and correct, it is necessary to align the transducer and measure its location and offset in relation to the vessel's coordinate system. We recommend that the echo sounder system with the CP200-5C transducer is calibrated prior to use.","Frequency: 200 kHz
+Beamwidth, ADCP elements: 5 degrees
+Beamwidth, fish-finding element: 30 degrees
+Cable length: 20 metres
+Weight (in air, with cable): 13.3 kg",I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisheryadcp/cp60/,Simrad CP60,,"
+
+
+
+
+
+
+The Simrad CP60 can measure up to five individual layers of water current. The transducer operates on 200 kHz. This frequency offers a range that is deep enough for most purse seines. The measurements provided are the speed of the water current and geographical or relative direction. The CP60 also provides a backscatter display for each channel.
+
+The CP60 can export the measured water current data to other systems on your vessel. Providing this information to a Simrad sonar is specifically useful. However, the CP60 uses a standard NMEA datagram, which means that any system on your vessel can benefit from the data.
+
+Besides the water current measurements, the CP60 offers a built-in single-beam echo sounder. The beam opening on this transducer element is 27 degrees. This beam opening angle makes it ideal for fish detection higher up in the water column.
+
+The CP60 uses the CP200-5C transducer. For maximum measurement accuracy, we strongly recommend connecting a motion reference unit (MRU) to the CP60. If a motion reference unit is unavailable, use a motion sensor to measure roll and pitch. Use a global positioning system (GPS) as a minimum solution.
+
+To obtain precision data that are both detailed and correct, it is necessary to align the transducer and measure its location and offset relative to the vessel’s coordinate system. You must calibrate the CP60 system with the CP200-5C transducer before you use it.
+
+","Simrad CP60 Water Current Profiler offers the ability to measure up to five individual layers of water current. The transducer operates on 200 kHz, providing a range deep enough for most purse seines. It delivers measurements for the speed of the water current and geographical or relative direction, along with a backscatter display for each channel. The CP60 can export the measured water current data to other systems on your vessel, making it particularly useful when integrated with a Simrad sonar. It uses a standard NMEA datagram, allowing any system on the vessel to benefit from the data. Additionally, it features a built-in single-beam echo sounder with a 27-degree beam opening angle, suitable for fish detection higher up in the water column. To enhance measurement accuracy, connecting a motion reference unit (MRU) to the CP60 is recommended. In the absence of an MRU, a motion sensor for roll and pitch measurement and a GPS for minimum solution can be used. Calibration of the CP60 system with the CP200-5C transducer is essential to obtain precise and correct detailed data."," - Measures up to five individual layers of water current
+ - Operates on 200 kHz frequency
+ - Provides water current speed and geographical or relative direction
+ - Offers a backscatter display for each channel
+ - Enables export of measured water current data to other systems
+ - Features a built-in single-beam echo sounder with a 27-degree beam opening angle
+ - Recommend connecting a motion reference unit (MRU) for maximum measurement accuracy
+ - Calibration with CP200-5C transducer required for precise and correct detailed data",I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysonar/cs90/,Simrad CS90,,"The Simrad CS90 is the first omnidirectional broadband sonar on the market. The world's first composite transducer makes it possible to transmit and receive in a wide frequency range. This makes it possible to achieve high resolution on longer ranges. You can also adjust the operating frequency for better detection, or to avoid a noise source such as another echo sounder or hydroacoustic system.
+
+
+The CS90 is designed for fishing vessels of all sizes, both purse seiners and trawlers. The centre operational frequency is 85 kHz, but you can select any operational frequency from 70 to 90 kHz in steps of 1 kHz. The cylindrical multi-element transducer permits the omnidirectional sonar beams to be tilted electronically from -10 to +84 degrees. With this functionality you can automatically track schools of fish, even at close range, and observe the whole water volume around the vessel. A stabilizing system is included for electronic pitch and roll compensation.
+The CS90 offers the same user interface and operating software as our other sonars, echo sounders and catch monitoring systems. This enables easier and faster training of new users.
+
+
+
+","The Simrad CS90 is the first omnidirectional broadband sonar on the market. The world's first composite transducer makes it possible to transmit and receive in a wide frequency range. This makes it possible to achieve high resolution on longer ranges. You can also adjust the operating frequency for better detection, or to avoid a noise source such as another echo sounder or hydroacoustic system. The CS90 is designed for fishing vessels of all sizes, both purse seiners and trawlers. The centre operational frequency is 85 kHz, but you can select any operational frequency from 70 to 90 kHz in steps of 1 kHz. The cylindrical multi-element transducer permits the omnidirectional sonar beams to be tilted electronically from -10 to +84 degrees. With this functionality you can automatically track schools of fish, even at close range, and observe the whole water volume around the vessel.  A stabilizing system is included for electronic pitch and roll compensation. The CS90 offers the same user interface and operating software as our other sonars, echo sounders and catch monitoring systems. This enables easier and faster training of new users.","Omnidirectional broadband sonar
+Wide frequency range for high resolution
+Adjustable operating frequency
+Cylindrical multi-element transducer
+Electronic tilt functionality
+Stabilizing system for pitch and roll compensation
+Same user interface and operating software as other sonars","category: Sonar
+operational frequency range: 70 to 90 kHz
+transducer tilt range: -10 to +84 degrees
+stabilizing system: included
+user interface: same as other sonars"
+https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/es_scientific/simrad-ek15/,Simrad EK15,,"All can be opened and/or downloaded using the link below. The manuals are provided on several formats; PDF, EPUB and/or CHM. Selected manuals are also provided as separate websites.
+Available documents
+
+End user documentation
+Software release notes
+Sales documents
+Installation documents
+Installation drawings
+
+Shortcuts to online reference manuals
+
+
+Simrad EK15 Reference Manual (English)
+Simrad EK15 Manual de Referencia (Español)
+
+
+
+","All can be opened and/or downloaded using the link below. The manuals are provided on several formats; PDF, EPUB and/or CHM. Selected manuals are also provided as separate websites. Available documents include end user documentation, software release notes, sales documents, installation documents, installation drawings, and shortcuts to online reference manuals such as the Simrad EK15 Reference Manual (English) and the Simrad EK15 Manual de Referencia (Español).",I don`t know,I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysounder/es70/,Simrad ES70,,"Key facts
+
+State of the art echo sounder for professional and semi-professional users
+High resolution - high accuracy
+Zoom function with biomass information
+Bottom hardness
+Innovative display gain functionality
+Seamless automatic range
+Automatic pulse length adjustment
+Unlimited number of personal settings
+Fast and easy operation
+Improved bottom detection functionality
+24 hours “on-screen” history
+Menu system in multiple languages
+Up to six frequencies shown simultaneously
+Optimized for wide screen displays (16:9)
+
+Product description
+The Simrad ES70 is a high accuracy professional single- and split-beam multi purpose fish finder. It is designed for the professional fishery community. The latest innovations in computer technology have been used to satisfy the increasing needs from our demanding customers: ""Top performance at any depth, and easy to operate!""
+
+The ES70 screen capture shows the echogram provided by a Simrad ES38 split-beam transducer. An area of the echogram has been zoomed in. Additional information panes are used to reveal fish position and size distribution.
+The Simrad ES70 is a modular system, the basic configuration consists of a computer, a transceiver and a transducer. Using this basic configuration you can start with a simple single frequency single beam system. Later, you can expand the system to a multi-frequency echo sounder using single and/or split-beam transducers. You can choose from a wide variety of advanced software functions, transducers, and transceivers.
+Multiple frequencies are available for the Simrad ES70. This is because different frequencies and transducers are used for different fisheries. Mackerel, Tuna, Anchovies, Herring and other schooled fish are best measured using a high frequency system, typically 120 or 200 kHz depending on the depth. Cod, Pollock, Seith and other bottom fish can be measured using 70 or 38 kHz systems, while 18 kHz is used for deep water species. Any two of the available frequencies can be assembled in the same transceiver cabinet. Each frequency is operated separately as with individual echo sounders, orsimultaneously to see the frequency response from the fish on two different frequencies. You can add up to a total of six frequencies on the screen at the same time, or on separate monitors, using available software, computer technology and display monitors.
+With the Simrad ES70, Simrad introduces a new way to present optional information. We call them information panes. With a click on the requested icon on the top bar, the information you wish to add to the echogram is presented in a dedicated frame. You can place the frame wherever you want, and you can change it to any size and shape. It is even transparent, so you will not loose any information from the echogram behind it.
+The new zoom function provided by the Simrad ES70 is innovative, efficient and very easy to use. Using the trackball you can establish an area on the echogram. The information within this area is displayed in the Zoom pane, and the fish biomass is calculated and displayed. The zoomed area can be used to investigate a school of pelagic fish, or an area close to bottom.
+
+","The Simrad ES70 is a high accuracy professional single- and split-beam multi purpose fish finder, designed for professional and semi-professional users. It offers high resolution and high accuracy, along with a zoom function providing biomass information and bottom hardness. The echo sounder features an innovative display gain functionality, seamless automatic range, automatic pulse length adjustment, and an unlimited number of personal settings for fast and easy operation. It also boasts improved bottom detection functionality and a 24-hour 'on-screen' history. The menu system is available in multiple languages, and it can display up to six frequencies simultaneously, optimized for wide screen displays (16:9).","Key Features: 
+- High resolution - high accuracy 
+- Zoom function with biomass information 
+- Bottom hardness 
+- Innovative display gain functionality 
+- Seamless automatic range 
+- Automatic pulse length adjustment 
+- Unlimited number of personal settings 
+- Fast and easy operation 
+- Improved bottom detection functionality 
+- 24 hours 'on-screen' history 
+- Menu system in multiple languages 
+- Up to six frequencies shown simultaneously 
+- Optimized for wide screen displays (16:9)",I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysounder/es80/,Simrad ES80,,"The latest computer and signal processing innovations are used to create a sophisticated and intuitive echo sounder. It can operate with operational frequencies ranging from 10 to 500 kHz. With a suitable transducer, the ES80 can use frequency sweeps (""chirps"") across a range of frequencies.
+
+
+
+
+With the CP200-5C transducer, the ES80 offers accurate current velocity measurements in up to five individually defined layers. The speed and direction of the currents throughout the water column are measured and presented as a function of the depth. The transducer operates on 200 kHz. This frequency offers a range that is deep enough for most purse seines.
+Important: To use the ADCP functionality, your system must have a CP200-5C transducer and software version 21.15 or later.
+
+
+
+This screen capture shows the Simrad ES80 set up for a close inspection of fish close to the bottom. A small school is placed in the zoom window. Aegean Electronics, Greece, kindly provide the capture.
+
+Key features
+
+Split beam operation
+FM (linear) and CW pulse forms
+Large dynamic range
+Low self-noise
+High ping rate
+Simultaneous transmission of all frequencies
+Several transceivers can run simultaneously.
+Wideband frequency sweep (""chirp""), in combination with advanced signal processing, gives an excellent echo quality.
+Acoustic Doppler current profiler (ADCP) functionality provided (requires special transducer)
+Define and save your own user settings
+Easy operation with an intuitive user interface
+Clear and easily comprehensive echo data
+
+System description
+The Simrad ES80 is the most modern “high-end” split beam echo sounder in the professional fishery market. Based on more than 60 years of research and development in close collaboration with fishermen and leading marine scientists, this wideband echo sounder system has succeeded the famous ES60 and ES70 systems.
+Simrad has manufactured fish finders for over 65 years, and we have more than 25 years of experience with split-beam technology. Our first split-beam fish finder, operating on 38 kHz, came on the market in 1984. A 70 kHz system quickly followed it. Today, we can offer a wide range of operational frequencies from 18 kHz, used for detecting deep water species, up to 333 kHz, used for finding and measuring plankton.
+The Simrad ES80 is the fifth-generation professional split beam fish finder for the worldwide fishing community. We have designed it to satisfy the increasing need of our demanding customers: ""Top performance at any depth and easy to operate”. The latest innovations in computer and signal processing techniques are used to create a sophisticated but also intuitive echo sounder.
+The Simrad ES80 is a wideband echo sounder. It can operate with operational frequencies ranging from 10 to 500 kHz. With a suitable transducer, the ES80 can use frequency sweeps (""chirps"") across a range of frequencies. This functionality gives you an increased resolution on the longer ranges.
+Initially designed for our scientific sounders, the ES80 can also offer the ""target response"" (TS) curve. This function makes it easier to determine which species you are looking at.
+The echo sounder system is modular, and you can assemble any combination of transceivers and transducers to fit your purposes. In a typical configuration, the ES80 comprises:
+
+Display
+One Processor Unit (computer)
+One or more transceiver units
+An Ethernet switch (if you use more than one transceiver)
+One or more single- or split-beam transducers
+
+The ES80 can work with the General Purpose Transceiver (GPT), the Wide Band Transceiver (WBT) and the EK15 Transceiver.
+
+
+
+
+
+
+","The Simrad ES80 is a wideband echo sounder that utilizes the latest computer and signal processing innovations to deliver a sophisticated and intuitive system. With operational frequencies ranging from 10 to 500 kHz, the ES80 can use frequency sweeps ('chirps') across a range of frequencies, providing increased resolution on longer ranges. The system offers accurate current velocity measurements in up to five individually defined layers when using the CP200-5C transducer. It can measure the speed and direction of currents throughout the water column as a function of the depth. The ES80 is equipped with Split beam operation, FM (linear) and CW pulse forms, large dynamic range, low self-noise, high ping rate, simultaneous transmission of all frequencies, the Acoustic Doppler current profiler (ADCP) functionality provided (requires special transducer), and the ability to define and save user settings. Backed by over 60 years of research and development, the ES80 has succeeded the famous ES60 and ES70 systems, incorporating wideband technology and collaborating with leading marine scientists to provide top performance at any depth and ease of operation."," - Split beam operation
+ - FM (linear) and CW pulse forms
+ - Large dynamic range
+ - Low self-noise
+ - High ping rate
+ - Simultaneous transmission of all frequencies
+ - Acoustic Doppler current profiler (ADCP) functionality provided (requires special transducer)
+ - Define and save your own user settings
+ - Easy operation with an intuitive user interface
+ - Clear and easily comprehensive echo data",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/simrad-trawl-sonars/fm90/,Simrad FM90,,"With a class-leading real-time image refresh rate, the FM90 provides a detailed live representation of the trawl. This fast refresh rate allows better trawl positioning so that you can maximise your catch and reduce the potential for expensive damage.
+Key features
+
+Real-time net picture
+Superior bottom picture
+Simplified software with automatic adjustments
+Trawl and PI/PX sensor export to Serial Port or Ethernet Port
+No dongle required to operate software
+Convenient lift handles on Deployment Pack
+High-visibility confirmation of Deployment Pack orientation during net launch
+Easy access to third-wire connector
+Fast flooding and draining of the Deployment Pack
+No moving parts means less maintenance
+Compatible with Simrad PI/PX catch monitoring sensors
+
+Check out the features provided with our latest software release
+
+The following screen capture shows a typical catch situation with the FM90 in use. In the largest window of the display you can clearly see the trawl opening and the bottom. The view on the left side shows the echogram from one of the built-in echo sounders. On the right-hand side, you can see information from the catch monitoring sensors in use.
+
+
+
+System description
+The FM90 has a fast refresh rate that allows you to view the sonar images in real time. The FM90 enables use of your existing PI/PX catch monitoring sensors. It operates equally well in the water column and close to the bottom.
+The FM90 Multibeam Trawl Sonar offers many advantages over conventional mechanically-scanning trawl sonars in most applications. However, it is not a complete replacement in some applications. We recommend the FM90 mainly for surface, pelagic, and semi-pelagic trawling on soft bottom. For bottom trawling and trawling on hard bottom we recommend the FS70 Trawl Sonar.
+The FM90 Sonar communicates with the vessel by means of a third-wire system using very high bit-rate digital subscriber line (VDSL2) communication, transmitting real-time images of the net opening at rapid refresh rates. In addition, an echo sounder looking up (""up sounder"") monitors fish escaping over the net, while another echo sounder shows the foot-rope, the sea bottom, and the fish entering the net.
+By means of the submerged Trawl Unit, the FM90 communicates with a number of Simrad PI/PX 40 kHz catch monitoring sensors by means of hydroacoustic links. Up to six measurements can be made simultaneously. Standard pitch, roll, depth, and temperature sensors are also built in to the Trawl Unit.
+The FM90 is a solid-state sonar system. This design eliminates moving parts, and increases reliability and availability during fishing operations. The FM90 is backed by the product warranty and global service network offered by Simrad.
+The FM90 is a unique sonar, both in design and functionality. When the FM90 sonar pings, it sends out sound energy in a 240-degree sector. This energy is reflected from the net, from fish, and from other targets in the water column. The reflected energy is received by the transducer, processed, and shown on the display. Because the FM90 pings across a wide area in one ping, the refresh rate to generate a picture of the net opening is almost instantaneous. This gives you real-time images, allowing you to adjust to very fast movements of fish schools.
+The FM90 uses an updated version of Kongsberg Mesotech's tried and tested M3 Sonar® multibeam processing software, successfully deployed world-wide for many years. The software uses innovative processing algorithms to automatically optimize the image quality specifically for fishing applications. It includes FM transmissions (also known as ""Chirp"") to ensure a clutter-free picture with a very high resolution in range.
+The FM90 Processor Unit is controlled by the Microsoft® Windows® operating system. This allows for a flexible choice of presentation modes, and for a large range of user applications.
+System diagram
+The system diagram identifies the main components of a basic FM90 system, as well as the connections between the units. Interface capabilities and power cables are not shown. The display is not a standard part of the FM90 delivery. This is a commercial item that can be purchased locally.
+
+(A) Processor Unit(B) Ethernet cable(C) Power/VDSL Unit(D) Third-wire or test cable(E) Trawl Unit(F) Aft-looking catch hydrophone(G) Forward-looking hydrophone (Optional)(H) 40 kHz PI/PX Sensors
+
+System Units
+Processor Unit
+A dedicated maritime computer is provided with the FM90 Multibeam Trawl Sonar. The Processor Unit is normally mounted on the bridge.
+The FM90 Processor Unit is a rugged and powerful computer. It is designed for long life in a demanding maritime environment. It contains the operational software, and offers the user interface that allows you to control the FM90. It also controls the interface to peripheral devices.
+The Processor Unit is based on the Microsoft® 64-bit Windows 7 operating system.
+
+Power/VDSL Unit
+The Power/VDSL Unit includes both the power supply and the modem required to communicate with the Sonar Head in one box.
+This unit provides power to the Sonar Head and aids communication between the Sonar Head and the Processor Unit. The Power/VDSL Unit connects to the Processor Unit and the Sonar Head with an Ethernet cable. The Power/VDSL Unit must be mounted on top of the bridge console or recessed and flush mounted into the bridge console.
+
+Trawl Unit
+The Trawl Unit is made up of several components, including the Sonar Head, enclosed in a Deployment Pack.
+In addition to the FM90 Sonar Head, the Trawl Unit includes the third-wire extension whip and hydrophone(s). Mounting shackles on the Deployment Pack aid in attaching the Trawl Unit to the net. An access panel provides easy access to the third-wire whip and strain-relief block, minimizing the need to open the Deployment Pack.
+The Trawl Unit contains an aft-looking catch hydrophone to communicate with your catch monitoring sensors. An optional forward-looking PI hydrophone communicates with sensors mounted on the trawl door, if you have any. The Trawl Unit is attached to the third wire, which carries sonar data to the Processor Unit.
+
+
+Current software version
+We recommend that you always keep your Simrad FM90 system upgraded with the latest software version.
+The current software version is v1.2.1 (2018-06-07). All applicable information related to this software release can be found in the Software Release Note.
+
+Simrad FM90 Software Release Note
+
+We always recommend that you keep your products upgraded with the latest software version.
+Contact your local dealer for assistance. He/she can provide the software update and relevant licenses and will install the software for you. Your dealer can also provide other advice related to the use and maintenance of your echo sounder system.
+
+End-user documentation
+All public documents related to the Simrad FM90 can be accessed using the links below. The documents are provided in several formats including PDF, HTML, EPUB and/or CHM. When applicable, certain publications are available as interactive electronic technical manuals (IETM) on separate websites.
+Available documents
+
+End user documentation
+Software release notes
+Sales documents
+Installation documents
+Installation drawings
+Certificates and declarations
+
+Shortcuts to online IETM publications
+
+Simrad FM90 Reference Manual (English)
+Simrad FM90 Manuel de référence (Français)
+Simrad FM90 Installation Manual (English)
+
+
+
+","The Simrad FM90 is a cutting-edge multibeam trawl sonar system that offers a detailed live representation of the trawl with a class-leading real-time image refresh rate. The fast refresh rate enables better trawl positioning, maximizing the catch and reducing the potential for expensive damage. Its unique design and functionality provide many advantages over conventional mechanically-scanning trawl sonars, particularly for surface, pelagic, and semi-pelagic trawling on soft bottom. The system communicates with the vessel using a third-wire system via VDSL2 communication, transmitting real-time images of the net opening at rapid refresh rates. The FM90 is a solid-state sonar system, eliminating moving parts and increasing reliability during fishing operations. It also uses an updated version of Kongsberg Mesotech's M3 Sonar® multibeam processing software, optimized with innovative processing algorithms for fishing applications, ensuring high-resolution and clutter-free images. The system diagram identifies the main components and connections of a basic FM90 system. With its dedicated maritime computer, rugged and powerful Processor Unit, and Trawl Unit comprised of several components, including the Sonar Head, the FM90 offers a comprehensive solution for trawl sonar imaging. Regular software updates are recommended, and all relevant end-user documentation and technical manuals are readily accessible for user convenience."," - Real-time net picture
+ - Superior bottom picture
+ - Simplified software with automatic adjustments
+ - Trawl and PI/PX sensor export to Serial Port or Ethernet Port
+ - No dongle required to operate software
+ - Convenient lift handles on Deployment Pack
+ - High-visibility confirmation of Deployment Pack orientation during net launch
+ - Easy access to third-wire connector
+ - Fast flooding and draining of the Deployment Pack
+ - No moving parts means less maintenance
+ - Compatible with Simrad PI/PX catch monitoring sensors",I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/simrad-trawl-sonars/Simrad-FS70/,Simrad FS70,,"Our FS70 trawl sonar platform combines ""the best of two worlds"". It communicates with the vessel by means of a third wire system, and with wireless sensors mounted on the trawl by means of hydroacoustic links.
+
+
+The Simrad FS70 trawl sonar provides the ""full picture"". It uses the well proven and reliable FS third wire system to establish communication between the submerged sonar head located behind the headrope and the vessel. Simultanously, the submerged unit communicates with a number of PX, PI, PS or FA sensors by means of hydroacoustic links. The unit even includes a 200 kHz echo sounder.
+
+The visual presentation provided to you on the bridge gives you a clear picture of the trawl opening, as well as information from the sensors. This sophisticated solution allows you full control of any type of fishery, and by means of the information, you will be able to increase the quality of the catch and your efficiency at sea.
+
+","The Simrad FS70 trawl sonar platform combines ""the best of two worlds"". It communicates with the vessel by means of a third wire system, and with wireless sensors mounted on the trawl by means of hydroacoustic links. The visual presentation provided on the bridge gives a clear picture of the trawl opening, as well as information from the sensors. This sophisticated solution allows full control of any type of fishery. By means of the information, one will be able to increase the quality of the catch and efficiency at sea. The unit even includes a 200 kHz echo sounder.","Third wire system communication with vessel, Wireless sensors via hydroacoustic links, 200 kHz echo sounder, Visual presentation for clear picture of trawl opening and sensor information, Improved control over fishery, Enhanced catch quality and efficiency at sea.",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherycatch/iti/,Simrad ITI,,"The Simrad ITI is a complete wireless trawl positioning and monitoring system designed to improve control and efficiency in pelagic and bottom trawling.
+
+When requested by the system, the robust battery powered sensors mounted on the trawl transmit important information to the vessel. Simrad ITI allows you to monitor the exact position of the gear and what is happening in and around the trawl, providing crucial information for effective, profitable and responsible fishing.
+
+","The Simrad ITI is a complete wireless trawl positioning and monitoring system designed to improve control and efficiency in pelagic and bottom trawling. When requested by the system, the robust battery powered sensors mounted on the trawl transmit important information to the vessel. Simrad ITI allows you to monitor the exact position of the gear and what is happening in and around the trawl, providing crucial information for effective, profitable and responsible fishing.",,
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pi-configurator/,Simrad PI Configurator,,"The purpose of the PI Configurator software utility is to be able to set up sensors to transmit on different communication channels.
+
+Several PI equipped vessels may then operate simultaneously in the same area without interference. The PI Configurator software utility also allows you to change the update rate on each sensor. This is the time elapsed between each data transmission from the sensor to the host PI system.
+
+The PI Configurator software utility runs on a standard computer. A special interface cable - PI CIC - is required to communicate with the sensor.
+
+",Setting Up Sensors with PI Configurator Software Utility: The purpose of the PI Configurator software utility is to be able to set up sensors to transmit on different communication channels. Several PI equipped vessels may then operate simultaneously in the same area without interference. The PI Configurator software utility also allows you to change the update rate on each sensor. This is the time elapsed between each data transmission from the sensor to the host PI system. The PI Configurator software utility runs on a standard computer. A special interface cable - PI CIC - is required to communicate with the sensor.,I don't know,I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherycatch/simrad-pi50/,Simrad PI50,,"
+New user interface
+Menu system in all languages
+New PI50 Receiver unit
+Innovative technology
+Software runs on personal computer
+Works with standard colour displays
+Prepared for wide screens (16:9)
+
+In order to fish efficient, it is important to know how your gear behaves in the sea.
+The Simrad PI50 system provides you with essential information. This can for example be the stability of the trawl doors, the amount and quality of your catch, the behaviour of your bottom or pelagic trawl, or the correct timing of a purse seine.
+A large selection of wireless sensors is available for the Simrad PI50. Placed on the trawl, purse seine or danish seine they will provide you with valuable and accurate information about the gear, its behaviour and the environment.
+
+Catch monitoring sensors
+
+This screen capture (from a simulated environment) shows the Simrad PI50 set up to work with a set of sensors: Depth, Spread, Height, Temperature and a Geometry set. Large and clear digits provide you with an instant feedback from the gear. As an additional feature, you can open any number of graphs to view the recent movements of selected sensors.
+
+
+
+
+","New user interface
+Menu system in all languages
+New PI50 Receiver unit
+Innovative technology
+Software runs on personal computer
+Works with standard colour displays
+Prepared for wide screens (16:9)
+
+In order to fish efficient, it is important to know how your gear behaves in the sea. The Simrad PI50 system provides you with essential information. This can for example be the stability of the trawl doors, the amount and quality of your catch, the behaviour of your bottom or pelagic trawl, or the correct timing of a purse seine. A large selection of wireless sensors is available for the Simrad PI50. Placed on the trawl, purse seine or danish seine they will provide you with valuable and accurate information about the gear, its behaviour and the environment. Catch monitoring sensors. This screen capture (from a simulated environment) shows the Simrad PI50 set up to work with a set of sensors: Depth, Spread, Height, Temperature and a Geometry set. Large and clear digits provide you with an instant feedback from the gear. As an additional feature, you can open any number of graphs to view the recent movements of selected sensors.","New user interface
+Menu system in all languages
+New PI50 Receiver unit
+Innovative technology
+Software runs on personal computer
+Works with standard colour displays
+Prepared for wide screens (16:9)",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pxc/,Simrad PX Configurator,,"
+The PX Configurator is a tool developed mainly to configure the catch monitoring sensors that are going to be read by a software different from the TV80 Software, for example the PI50 Software. The PX Configurator can also be used to calibrate the trawl doors on a remote place where there is no other calibration utility available, like for example the TV80.
+
+Catch monitoring sensors are delivered from Simrad readily set up with common default settings. In some cases, you may find that the default parameters do not suit your operational needs. This is for example if you have more than one sensor of any given type. The decision to configure a sensor is one you must make depending on how many sensors you use, and how many of these are identical. Dedicated dialog boxes are provided to configure the new sensor.
+Note: The PX Configurator only allows you to configure PX sensors. If you wish to use older sensors (not PX family), these must be configured using their dedicated applications before putting them to use.
+With the PX Configurator, you can configure and change the parameters of the following catch monitoring sensors:
+
+PX Flow
+PX TrawlEye
+PX Universal
+PX MultiCatch
+PX MultiSensor Mk1
+PX MultiSensor Mk2
+PxPos
+
+The user interface comprises several “stand-alone” dialog boxes. Depending on the type of sensor connected, different dialog boxes with dedicated parameters will be used to perform the configuration itself. The configurator parameters allow you to set up which measurements the sensor shall make and which communication channels it shall use for these measurements.
+Who can program catch monitoring sensors
+Sensor configuration is normally performed by authorized Simrad technicians. However, individual with basic computer skills and access to the necessary equipment should not find it difficult.
+Necessary tools and equipment
+If you purchase a computer locally, make sure that the chosen model meets the functional and technical requirements. The computer must be able to facilitate the various interface requirements made by the PX Configurator, and you may need to add extra Ethernet and serial adapters. The minimum technical requirements are:
+
+PX Configurator software
+A PC with minimum one COM or USB port available
+Sensor programming cable. The programming cable is included in the PX catch monitoring sensors standard delivery.
+
+The following operating systems are supported:
+
+Microsoft Windows® 7®
+Microsoft Windows® 10®
+
+
+","The PX Configurator is a tool developed mainly to configure the catch monitoring sensors that are going to be read by a software different from the TV80 Software, for example the PI50 Software. The PX Configurator can also be used to calibrate the trawl doors on a remote place where there is no other calibration utility available, like for example the TV80. Catch monitoring sensors are delivered from Simrad readily set up with common default settings. In some cases, you may find that the default parameters do not suit your operational needs. This is for example if you have more than one sensor of any given type. The decision to configure a sensor is one you must make depending on how many sensors you use, and how many of these are identical. Dedicated dialog boxes are provided to configure the new sensor. Note: The PX Configurator only allows you to configure PX sensors. If you wish to use older sensors (not PX family), these must be configured using their dedicated applications before putting them to use. With the PX Configurator, you can configure and change the parameters of the following catch monitoring sensors: PX Flow, PX TrawlEye, PX Universal, PX MultiCatch, PX MultiSensor Mk1, PX MultiSensor Mk2, and PxPos. The user interface comprises several “stand-alone” dialog boxes. Depending on the type of sensor connected, different dialog boxes with dedicated parameters will be used to perform the configuration itself. The configurator parameters allow you to set up which measurements the sensor shall make and which communication channels it shall use for these measurements. Who can program catch monitoring sensors: Sensor configuration is normally performed by authorized Simrad technicians. However, individuals with basic computer skills and access to the necessary equipment should not find it difficult. Necessary tools and equipment: If you purchase a computer locally, make sure that the chosen model meets the functional and technical requirements. The computer must be able to facilitate the various interface requirements made by the PX Configurator, and you may need to add extra Ethernet and serial adapters. The minimum technical requirements are: PX Configurator software, a PC with minimum one COM or USB port available, Sensor programming cable. The programming cable is included in the PX catch monitoring sensors standard delivery. The following operating systems are supported: Microsoft Windows® 7®, Microsoft Windows® 10®."," - The PX Configurator allows configuration of catch monitoring sensors for use with software other than TV80, and can also be used for trawl door calibration - It provides the ability to change parameters of various catch monitoring sensors, including PX Flow, PX TrawlEye, PX Universal, PX MultiCatch, PX MultiSensor Mk1, PX MultiSensor Mk2, and PxPos - The user interface comprises several “stand-alone” dialog boxes allowing the configuration of different types of sensors",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pxmulticatch/,Simrad PX MultiCatch,,"
+The Simrad PX MultiCatch is provided in different versions:
+
+PX MultiCatch Depth/Temperature (D/T)
+PX MultiCatch Catch/Temperature (C/T)
+
+The version is defined by the type of sensor lid.
+When equipped with a Depth/Temperature lid and configured for an SR receiver, the PX MultiCatch sensor can make the following measurements:
+
+Depth
+Temperature
+Roll
+Pitch
+Battery status
+
+When equipped with a Catch/Temperature lid and configured for an SR receiver, the PX MultiCatch sensor can make the following measurements:
+
+Catch
+Temperature
+Roll
+Pitch
+Battery status
+
+By default, the sensor can make two measurements. To add additional measurements you must buy a dedicated license. The license allows you to make up to five measurements simultaneously.
+To receive the information from the sensor you need a suitable receiver (PI or SR Series), one or more hydrophones, as well as a computer running the Simrad TV80 or Simrad PI50 programs.
+You can use all our PI Hydrophones. You can even use non-Simrad types, provided that the communication frequency match.
+
+","The Simrad PX MultiCatch is provided in different versions with PX MultiCatch Depth/Temperature (D/T) and PX MultiCatch Catch/Temperature (C/T). The version is defined by the type of sensor lid. When equipped with a Depth/Temperature lid and configured for an SR receiver, the PX MultiCatch sensor can make measurements for Depth, Temperature, Roll, Pitch, and Battery status. Similarly, when equipped with a Catch/Temperature lid and configured for an SR receiver, the PX MultiCatch sensor can make measurements for Catch, Temperature, Roll, Pitch, and Battery status. By default, the sensor can make two measurements, and additional measurements can be added by purchasing a dedicated license, which allows for up to five measurements simultaneously. To receive information from the sensor, a suitable receiver (PI or SR Series), one or more hydrophones, and a computer running the Simrad TV80 or Simrad PI50 programs are required. Additionally, all PI Hydrophones can be used, including non-Simrad types as long as the communication frequency matches.","Different versions available: PX MultiCatch Depth/Temperature (D/T) and PX MultiCatch Catch/Temperature (C/T), Measurements include Depth, Temperature, Roll, Pitch, Catch, and Battery status, Additional measurements available with a dedicated license, Allows up to five measurements simultaneously, Compatible with PI or SR Series receivers, Uses Simrad TV80 or Simrad PI50 programs, Supports all PI Hydrophones including non-Simrad types.",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pxmultisensor/,Simrad PX MultiSensor,,"
+The Simrad PX MultiSensor is provided in several different versions.
+
+PX MultiSensor
+PX MultiSensor Catch/Temperature (C/T)
+PX MultiSensor Depth/Temperature (D/T)
+PX MultiSensor with Geometry transponder
+
+The version is defined by the type of sensor lid. The basic version of the sensor has a neutral lid. It can make the following measurements:
+
+Spread and Twin Spread
+Roll and Pitch
+Height
+Geometry and Geometry differential
+Battery status
+
+Other sensor functions are:
+
+Remote for geometry measurements
+Remote for spread measurements
+
+These functions are not counted as measurements, and will not use any of the two (maximum five) measurements that the sensor can do. However, the battery capacity will be reduced.
+In order to receive the information from the sensor you need a suitable receiver (PI or SR Series), one or more hydrophones, as well as a computer running the Simrad TV80 or Simrad PI50 programs.
+You can use all our PI Hydrophones. You can even use non-Simrad types, provided that the communication frequency match.
+By default, the sensor can make two measurements. To add additional measurements you must buy a dedicated license. The license allows you to make up to five measurements simultaneously.
+Note that the PX MultiSensor is available in two versions.
+
+Mk1 is discontinued.
+Mk2 is the current version.
+
+Old Mk1 sensors may be updated to Mk2 functionality. Contact your dealer for advice.
+
+
+
+
+
+
+
+","The Simrad PX MultiSensor is available in several different versions, each defined by the type of sensor lid. The basic version comes with a neutral lid and can perform measurements such as Spread, Twin Spread, Roll, Pitch, Height, Geometry, Geometry differential, and Battery status. Additionally, it offers sensor functions like Remote for geometry measurements and Remote for spread measurements. Note that these functions do not count as measurements but may reduce the battery capacity. To receive information from the sensor, a suitable receiver (PI or SR Series), one or more hydrophones, and a computer running the Simrad TV80 or Simrad PI50 programs are required. It is compatible with all PI Hydrophones, including non-Simrad types with matching communication frequency. By default, the sensor can make two measurements, but a dedicated license can be purchased to enable up to five simultaneous measurements. The PX MultiSensor is available in two versions: Mk1 (discontinued) and Mk2 (current version), with the option to update old Mk1 sensors to Mk2 functionality. Customers are advised to contact their dealer for guidance on this update.","Key Features: 
+- Available in multiple versions i.e., PX MultiSensor, PX MultiSensor Catch/Temperature (C/T), PX MultiSensor Depth/Temperature (D/T), and PX MultiSensor with Geometry transponder. 
+- Basic version includes measurements such as Spread, Twin Spread, Roll, Pitch, Height, Geometry, Geometry differential, and Battery status. 
+- Additional sensor functions for Remote geometry and spread measurements. 
+- Compatibility with all PI Hydrophones, including non-Simrad types with matching communication frequency. 
+- Option to purchase a dedicated license for up to five simultaneous measurements. 
+- Available in Mk1 (discontinued) and Mk2 (current version) versions with the capability to update old Mk1 sensors to Mk2 functionality.",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pxtrawleye/,Simrad PX TrawlEye,,"
+Place the Simrad PX TrawlEye on the headrope of your bottom trawl, or in the intermediate section of your pelagic trawl, to provide a crisp and detailed presentation of the fish in the trawl, the bottom conditions and the status of your gear.
+The sensor is provided in three different versions:
+
+PX TrawlEye
+PX TrawlEye Depth/Temperature (D/T)
+PX TrawlEye Catch/Temperature (C/T)
+
+The version is defined by the type of sensor lid. The basic version of the sensor has a neutral lid. It can make the following measurements:
+
+Echogram
+Roll and Pitch
+Height
+Geometry differential
+Battery status
+
+The Simrad PX TrawlEye provides a real-time echogram from the trawl using the wireless link. The sensor is equipped with a composite echo sounder transducer enabling advanced LFM pulses (Linear Frequency Modulation, also known as ""Chirp”). The echo sounder can be configured to suit various fisheries. You can change pulse length, pulse type, sounder gain, echo range, communication power and other operational parameters.
+In order to receive the information from the sensor you need a suitable receiver. The PX TrawlEye data can not be received by the PI50 or PI60 receivers, you need a dedicated receiver; the SR70. You also need one or more hydrophones, as well as a computer running the Simrad TV80program.
+You can use all our PI Hydrophones. You can even use non-Simrad types, provided that the communication frequency match.
+By default, the sensor can make two measurements. To add additional measurements you must buy a dedicated license. The license allows you to make up to five measurements simultaneously.
+
+","Overview of the Simrad PX TrawlEye: The Simrad PX TrawlEye is a sensor designed to be placed on the headrope of a bottom trawl or in the intermediate section of a pelagic trawl. It provides detailed information about the fish in the trawl, the bottom conditions, and the gear status. The sensor comes in three versions: PX TrawlEye, PX TrawlEye Depth/Temperature (D/T), and PX TrawlEye Catch/Temperature (C/T), with each version defined by the type of sensor lid. The basic version of the sensor with a neutral lid can measure echogram, roll and pitch, height, geometry differential, and battery status. It provides real-time echogram using a wireless link and is equipped with a composite echo sounder transducer enabling advanced LFM pulses. The configuration of the echo sounder can be adjusted to suit various fisheries. However, in order to receive the information from the sensor, a dedicated receiver SR70 and one or more hydrophones, along with a computer running the Simrad TV80 program, are required. Additionally, the sensor can make two measurements by default, but a dedicated license is needed to add additional measurements, allowing for up to five measurements to be made simultaneously.","Key Features of Simrad PX TrawlEye: - Provides detailed presentation of fish in the trawl, bottom conditions, and gear status - Comes in three versions: PX TrawlEye, PX TrawlEye Depth/Temperature (D/T), PX TrawlEye Catch/Temperature (C/T) - Basic version can measure echogram, roll and pitch, height, geometry differential, and battery status - Provides real-time echogram using a wireless link and is equipped with a composite echo sounder transducer enabling advanced LFM pulses - Configurable echo sounder to suit various fisheries - Requires dedicated receiver SR70, one or more hydrophones, and a computer running the Simrad TV80 program - Requires dedicated license for additional measurements",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/simrad-px-universal/,Simrad PX Universal,,"
+The Simrad PX Universal is provided in three different versions:
+
+PX Universal
+PX Universal Depth/Temperature (D/T)
+PX Universal Catch/Temperature (C/T)
+
+The version is defined by the type of sensor lid. The basic version of the sensor has a neutral lid. It can make the following measurements:
+
+Roll and Pitch
+Height
+Battery status
+
+The most common version is PX Universal D/T. It is used on seine nets. For this application, the sensor measures the depth and sink rate on the net, as well as the height from the sea bottom to lead line.
+In order to receive the information from the sensor you need a suitable receiver (PI or SR Series), one or more hydrophones, as well as a computer running the Simrad TV80 or Simrad PI50 programs.
+You can use all our PI Hydrophones. You can even use non-Simrad types, provided that the communication frequency match.
+By default, the sensor can make two measurements. To add additional measurements you must buy a dedicated license. The license allows you to make up to five measurements simultaneously.
+
+","The Simrad PX Universal is provided in three different versions: PX Universal, PX Universal Depth/Temperature (D/T), PX Universal Catch/Temperature (C/T). The version is defined by the type of sensor lid. The basic version of the sensor has a neutral lid and can make the following measurements: Roll and Pitch, Height, Battery status. The most common version is PX Universal D/T, used on seine nets. For this application, the sensor measures the depth and sink rate on the net, as well as the height from the sea bottom to lead line. To receive information from the sensor, a suitable receiver (PI or SR Series), one or more hydrophones, and a computer running the Simrad TV80 or Simrad PI50 programs are required. All PI Hydrophones can be used, and non-Simrad types can also be used if the communication frequency matches. By default, the sensor can make two measurements. Additional measurements require the purchase of a dedicated license, allowing up to five measurements simultaneously.","Three different versions available: PX Universal, PX Universal Depth/Temperature (D/T), PX Universal Catch/Temperature (C/T). Basic version measures Roll and Pitch, Height, and Battery status. Most common version (PX Universal D/T) measures depth and sink rate on the net, as well as height from sea bottom to lead line. Compatible with PI or SR Series receiver and Simrad TV80 or Simrad PI50 programs. Allows use of PI Hydrophones and non-Simrad types with matching communication frequency. Additional measurements possible with dedicated license, up to five measurements simultaneously.",I don`t know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/cm-sensors/pxpos/,Simrad PxPos,,"
+Stay in touch...!
+
+
+
+
+
+
+
+",Stay in touch...!,,
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysonar/sh90/,Simrad SH90,,"
+
+
+360° Omnidirectional sonar
+90° Vertical tip
+114 kHz operational frequency
+Narrow beams
+Chirp FM transmission
+Large dynamic range
+High definition
+Stabilized beams
+Dual beam operation
+Easy operation
+Store and recall sonar data
+Define your own user settings
+Clear and easily comprehensible sonar images
+
+In this screen capture from the North Sea you can see that a 10 ton school of tuna has been detected, and that tracking has started. The tracking functionality is vital for the success of the catch. The Simrad SH90 allows you to track the school all the way to the vessel without losing any information. Then, when the seine is set, the skipper has full control, and he is able to maximize the catch.
+Note the noise and clutter-free screen. This enables the skipper to focus on the targets, without acting as a ""human filter"". The Simrad SH90 provides detailed information about school density, speed, depth, heading and size. The high frequency Simrad SH90 is the natural choice as a companion to the Simrad SX90 low frequency sonar.
+
+
+
+
+
+","Simrad SH90 offers a 360° Omnidirectional sonar with a 90° Vertical tip and operates at 114 kHz operational frequency. The device features Narrow beams and utilizes Chirp FM transmission, providing large dynamic range, high definition, and stabilized beams. With dual beam operation, Simrad SH90 ensures easy operation and the ability to store and recall sonar data. Users can define their own user settings, leading to clear and easily comprehensible sonar images. In a screen capture from the North Sea, a 10 ton school of tuna was detected, and tracking started. The tracking functionality is crucial for successful catch, enabling tracking of the school all the way to the vessel without losing any information. When the seine is set, the skipper gains full control to maximize the catch. The Simrad SH90 also ensures a noise and clutter-free screen, enabling the skipper to focus on the targets without acting as a 'human filter'. Additionally, detailed information about school density, speed, depth, heading, and size is provided. The high frequency Simrad SH90 is an ideal companion to the Simrad SX90 low frequency sonar."," - 360° Omnidirectional sonar
+ - 90° Vertical tip
+ - 114 kHz operational frequency
+ - Narrow beams
+ - Chirp FM transmission
+ - Large dynamic range
+ - High definition
+ - Stabilized beams
+ - Dual beam operation
+ - Easy operation
+ - Store and recall sonar data
+ - Define your own user settings
+ - Clear and easily comprehensible sonar images",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysonar/sn90/,Simrad SN90,,"Some have called the SN90 ""five echo sounders in one"" after experiencing the information from the five individually controlled inspection beams.
+We have created an online simulator so you can experience these yourself. Try it here!
+
+
+Trawler
+On a trawler, the forward-looking transducer is mounted on the vessel’s bow, well protected against acoustic noise from the hull, machinery and propellers. The high resolution and long range allow you to detect and investigate single fish and schools - even those close to the bottom - from a distance of several hundred meters. The sonar beams point forward in a 120 degrees swath.
+Purse seiner
+On a purse seiner, the side-looking transducer gives you full control over the setting of the seine. It is installed on the side of the hull facing the purse seine. There is no need to retract the transducer using a large hull unit. A large horizontal coverage area provides you with a full overview. The 256 individual beams have a horizontal coverage area of 160 degrees and the vertical beam width is typically 5 to 8 degrees (varies with the frequency).
+Key facts
+
+Up to 160 degrees of horizontal coverage
+Up to 60 degrees vertical coverage
+Five separate inspection beams
+0 to 60 degrees tilt
+Operational frequency band from 75 to 95 kHz
+Narrow vertical beam
+Hyperbolic FM transmissions (“Chirp”)
+Wide bandwidth
+Large dynamic range
+High resolution
+Stabilized beams
+Easy operation
+Store and replay raw sonar data
+Define and save your own user settings
+Cost-efficient solution
+
+Online simulator
+Our online simulator allows you to experiment with the powerful features offered by the SN90 inspection beams. Each inspection beam can be controlled individually.
+
+Try the simulator here
+
+
+
+
+","The SN90 has been dubbed as ""five echo sounders in one"" due to the information provided by the five separately controlled inspection beams. This innovative device offers an online simulator for users to firsthand experience the capabilities of the inspection beams. It allows users to control each inspection beam individually, providing a comprehensive understanding of the product's features. The SN90 serves various purposes, such as being mounted on trawlers and purse seiners, with specific installations designed for different functionalities. The forward-looking transducer on trawlers offers high resolution and long-range capabilities, enabling the detection and investigation of single fish and schools, even those near the bottom. On the other hand, the side-looking transducer on purse seiners provides full control over the seine setting, without the need for retraction using a large hull unit. With a wide coverage area and multiple beams, the SN90 ensures an extensive and detailed sonar inspection."," - Up to 160 degrees of horizontal coverage
+ - Up to 60 degrees vertical coverage
+ - Five separate inspection beams
+ - 0 to 60 degrees tilt
+ - Operational frequency band from 75 to 95 kHz
+ - Narrow vertical beam
+ - Hyperbolic FM transmissions (""Chirp"")
+ - Wide bandwidth
+ - Large dynamic range
+ - High resolution
+ - Stabilized beams
+ - Easy operation
+ - Store and replay raw sonar data
+ - Define and save your own user settings
+ - Cost-efficient solution
+ - Online simulator for hands-on experience",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysonar/simrad-st90/,Simrad ST90,,"If high performance is your number 1 criterion when choosing a sonar, such as long range, high resolution, narrow beams and high source levels, the Simrad ST90 is your natural choice. We made no compromises during the design of the ST90. Our goal was to make the ultimate high-performance fish-finding sonar. With the Simrad ST90, we use lower frequencies than the SX90 and SU90 sonars.
+
+
+
+
+
+
+To achieve this, a completely new transducer was designed. Each transducer element is larger than the SX90 and SU90 elements, but the number of elements is the same as the SU90. This high number of elements allows for the same narrow beam and a longer range. The ST90 has been designed to search with very long ranges in all weather and sea conditions. Whether it is heavy weather, hard bottom, open waters, weak targets - all echoes are handled by the sonar due to the fully stabilized and very narrow beams combined with the cutting edge signal processing.
+The centre operational frequency is 19 kHz, but you can select any operational frequency from 14 to 24 kHz in steps of 1 kHz. The cylindrical multi-element transducer allows the omnidirectional sonar beams to be tilted electronically from -10 to +84 degrees. These features allow you to track schools of fish automatically and to observe the whole water volume around the vessel.
+The narrow beam opening angle (6.5° @ 17 kHz) and the high source level makes the ST90 a very powerful and high resolution low frequency sonar. The narrow beams provided by the ST90 give you several advantages.
+
+They increase the range and resolution and offer a vertical view with additional details and a clearer picture.
+They make the ST90 even more ideal when you need to search for fish close to the sea bottom, or close to the surface, at long ranges.
+They provide a far better vertical view with less ""bottom climbing"" than what is seen on sonars with a wider beam.
+The narrow beams also decrease the noise level.
+
+It is common for sonars to require many pings to build the various views in the echo presentation. These sonars may, for example, need one ping to build the 360 degrees omni view and then several other pings to fetch the echoes for the vertical views. On the ST90, all the sonar views in the presentation are built using the echoes from one single ping. This feature dramatically improves the update rate and provides better real-time information.
+
+
+
+
+
+","The Simrad ST90 is a high-performance fish-finding sonar that offers long range, high resolution, narrow beams, and high source levels. It uses lower frequencies than the SX90 and SU90 sonars, with a completely new transducer designed to achieve this. The center operational frequency is 19 kHz, with the option to select any operational frequency from 14 to 24 kHz in steps of 1 kHz. The cylindrical multi-element transducer allows the omnidirectional sonar beams to be tilted electronically from -10 to +84 degrees. The narrow beam opening angle and high source level make the ST90 a powerful and high-resolution low-frequency sonar. It provides a far better vertical view with less 'bottom climbing' than wider beam sonars, and all sonar views in the presentation are built using the echoes from a single ping, improving the update rate and providing better real-time information."," - Long range
+ - High resolution
+ - Narrow beams
+ - High source levels
+ - Lower frequencies
+ - Tilted electronically transducer beams
+ - Wide operational frequency selection
+ - Single ping for all sonar views","Sonar, Operational Frequency, 19 kHz
+Transducer Elements, Larger than SX90 and SU90, same number as SU90
+Transducer Tilt Angle, -10 to +84 degrees
+Beam Opening Angle, 6.5° @ 17 kHz
+Update Rate, Improved with single ping"
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherysonar/simrad-su90-fish-finding-omni-sonar/,Simrad SU90,,"If long range, high resolution, narrow beams and high source levels are essential criteria for you, the Simrad SU90 is the sonar you need. We made no compromises during the design of this sonar. Our goal was to make the ultimate performance sonar.
+
+
+
+
+The SU90 allows you to choose an operational frequency between 20 to 30 kHz (in 1 kHz steps). The cylindrical multi-element transducer allows the omnidirectional sonar beams to be tilted electronically from +10 to –60 degrees. This allows you to automatically track schools of fish and observe the whole water volume around the vessel. A stabilizing system is included for electronic pitch and roll compensation.
+
+
+
+Compared to the Simrad SX90, the number of channels is increased by 50%, giving the sonar an even better performance in selectivity and range.
+The narrow opening angle (4,9 degrees at 30 kHz) and the increased source level (3 dB) make the SU90 a powerful, high-resolution, low-frequency sonar. The narrow beam makes the SU90 even more ideal for searching for fish near the bottom or the surface at long ranges. It also provides a far better vertical view with less ""bottom climbing"" that is seen on sonars with a wider beam.
+
+
+
+
+The SU90 Processor Unit is controlled by the Microsoft® Windows® operating system, resulting in a flexible choice of presentation modes for many user applications.
+
+Key features
+
+360 degrees omnidirectional
+90 degrees vertical tip
+Operational frequency adjustable from 20 to 30 kHz
+Narrow beams (opening angle 4,9 degrees at 30 kHz)
+Increased source level (3 dB higher than SX90)
+Hyperbolic FM transmissions (""Chirp"")
+Large dynamic range
+High definition
+Stabilized beams
+Dual-beam operation
+Easy operation
+Store and recall sonar data
+Define and save your own user settings
+Clear and easily comprehensive sonar data
+
+The narrow beams provided by the SU90 sonar give you several advantages. They will increase the sonar's range and resolution and offer a vertical view with additional details and a clearer picture. The narrow beams will also decrease the noise level.
+
+
+
+
+
+","The Simrad SU90 is a sonar that prioritizes long range, high resolution, narrow beams, and high source levels. It offers the flexibility to choose an operational frequency between 20 to 30 kHz in 1 kHz steps. With a cylindrical multi-element transducer, the sonar beams can be tilted electronically from +10 to –60 degrees, allowing for automatic tracking of fish schools and observation of the water volume around the vessel. The increased number of channels compared to the Simrad SX90 results in improved performance in selectivity and range. The SU90 Processor Unit, controlled by the Microsoft® Windows® operating system, provides a flexible choice of presentation modes for various user applications. The narrow beams provided by the SU90 sonar offer several advantages, including increased range and resolution, a clearer vertical view, and decreased noise levels.",,
+https://www.kongsberg.com/maritime/products/commercial-fisheries/trigger-systems/tu40/,Simrad TU40,,"The Simrad TU40 is developed for fishing vessels as a small and intuitive system for synchronization purposes.
+
+
+On research vessels, the hydroacoustic system are the main scientific tools. Nothing can disturb the received echoes, as this will make the echo data unusable for the scientists. For this reason, the K-Sync was developed. It controls the transmission for all the hydroacoustic systems onboard the vessel, synchronizing them in groups by the transmission rate.
+However, the K-Sync is too powerful for fishing vessels. That is why we developed a similar concept for fishing, the Simrad TU40 Trigger System. This system is dedicated for fishing vessels. You specify a chosen system as ""master"", and the TU40 distributes the transmission control to all other hydroacoustic systems on board.
+What THE SIMRAD TU40 does
+In this example from a Simrad ES80 echo sounder, compare area (A) with area (D) to see what the Simrad TU40 does.
+
+(A) All the hydroacoustic systems on the vessel are synchronized. The echogram is clean and you can identify small fish.
+(B) Two echo sounders are in operation, but they are not synchronized. You can see that the interference disrupts the echogram, as the number of short pulses increase.
+(C) Four sonars have been started, but these are not synchronized. The interference is stronger, and it is very difficult to see any targets.
+(D) All the hydroacoustic systems on the vessel have been turned on. The echogram is completely disrupted with interference, making the echo sounder useless.
+Basic facts
+The TU40 has twelve independent channels. All the channels are isolated, and the unit is compatible with most commercial hydroacoustic equipment, not only with Simrad equipment.
+The Trigger Unit runs autonomously. It is set up from a commercial computer running the TU40 program. This application provides the user interface, which allows you to monitor status, settings, and transmit trigger schedules. Once setup is completed, the TU40 program can be closed. The computer can be disconnected from the Trigger Unit, and even put to other use.
+Operational principles
+Whenever more than one hydroacoustic system is installed on a vessel, interference may occur. To avoid interference, you can either set up one of the hydroacoustic systems as ""master"", or connect all the sonars and/orecho sounders to a common synchronization system. By means of trigger signals, a common synchronization system will provide individual control of each sonar and/or echo soundertransmission (""ping"") sequence.
+""In physics, interference is the phenomenon in which two waves superpose each other to form a resultant wave of greater orlower amplitude. Interference usually refers to the interaction of waves that are correlated or coherent with each other,either because they come from the same source or because they have the same or nearly the same frequency. Interference effectscan be observed with all types of waves, for example, light, radio, acoustic, surface water waves or matter waves.""https://en.wikipedia.org/wiki/Interference_(wave_propagation), April 2016
+The TU40 permits each hydroacoustic system to transmit (""ping"") according to a logic trigger pattern established to avoid interference. This pattern is made by defining one or more hydroacoustic reference systems, and give these transmit priority. Systems operating in the same frequency range are permitted to transmit simultaneously.
+The Trigger Unit consists of a programmable logic controller (PLC) and other electronic circuitry that provide the synchronized trigger signals. The standard Trigger Unit can control up to 12 hydroacoustic systems.
+
+
+
+
+
+
+","The Simrad TU40 is developed for fishing vessels as a small and intuitive system for synchronization purposes. On research vessels, the hydroacoustic systems are the main scientific tools ensuring that nothing can disturb the received echoes, as this will make the echo data unusable for the scientists. However, the K-Sync was developed for research vessels and is too powerful for fishing vessels. To address this, a similar concept for fishing vessels, the Simrad TU40 Trigger System, was developed. This system is dedicated for fishing vessels and allows you to specify a chosen system as ""master"", so the TU40 distributes the transmission control to all other hydroacoustic systems on board. The TU40 has twelve independent channels, all of which are isolated and compatible with most commercial hydroacoustic equipment. It runs autonomously and is set up from a commercial computer running the TU40 program. The operational principles of the TU40 involve avoiding interference by setting up one of the hydroacoustic systems as ""master"" or connecting all the sonars and/or echo sounders to a common synchronization system. The TU40 permits each hydroacoustic system to transmit (""ping"") according to a logic trigger pattern established to avoid interference, providing individual control of each system's transmission sequence. It consists of a programmable logic controller (PLC) and other electronic circuitry that provide the synchronized trigger signals, allowing it to control up to 12 hydroacoustic systems.","• Small and intuitive system for synchronization purposes
+• Twelve independent channels, all isolated
+• Compatible with most commercial hydroacoustic equipment
+• Runs autonomously and is set up from a commercial computer running the TU40 program
+• Avoids interference by setting up one of the hydroacoustic systems as ""master"" or connecting all the sonars and/or echo sounders to a common synchronization system
+• Permits each hydroacoustic system to transmit (""ping"") according to a logic trigger pattern established to avoid interference
+• Consists of a programmable logic controller (PLC) and other electronic circuitry that provide the synchronized trigger signals",I don't know
+https://www.kongsberg.com/maritime/products/commercial-fisheries/fisherycatch/simrad-tv80/,Simrad TV80,,"Its flexible and intuitive design allows you to detect any changes or trends in the relevant data from the fishing gear and catch monitoring sensors. A quick look at the screen is enough.
+
+
+
+
+Key functionality
+
+Easy operation with an intuitive user interface
+Flexible screen presentation
+Up to four simultaneous views
+Dual screen configuration
+Define and save your own user settings
+Telemetry data recording every 60 seconds
+Built-in spectrum analyser
+Stable data readings
+
+
+
+User-configurable presentation of data
+Several different presentation modes are available for data presentation. With a large display, you can bring them all up simultaneously. You can also work with a dual-screen configuration, this allows you to handle more information without saturating the screen.
+In the TV80, the presentation of sensor data is organized in different views. The views provide you with the information you need to control the functionality and the operational parameters. You can use a maximum of four views simultaneously. If you use less than four views, choose their layout according to your operational requirements or personal preferences.
+
+Built-in frequency spectrum
+The quality of the acoustic communication link between the sensors and the receiver can be challenged by noise. When noise appears in the same frequency range as the sensors are using for their communication, the resulting information may be unstable or unreadable. The TV80 offers a spectrum analyser that shows you the signals from each hydrophone. The graph in the Spectrum dialogue box provides you with information about the background noise and the signal strength in the selected frequency band. With this information, you can identify noise and find the ""cleanest"" frequencies.
+
+Simulators
+Use our simulators to investigate the practical use of the Simrad TV80 with different trawl configurations. Each simulator opens in a new tab or window in your browser.
+
+
+
+Current software version
+The current TV80 software version is v21.11.
+All applicable information related to this software release can be found in the software release note (PDF).
+
+
+Contact your local dealer for assistance. He/she can provide the software update and will install the software for you. Your dealer can also provide other advice related to the use and maintenance of your gear monitoring system.
+
+Software license
+The Simrad TV80 will only provide full functionality if a valid software license has been obtained and installed on your computer. A dedicated form has been provided to apply for such a license. You can use this form if you are one of our registered dealers or distributors.
+
+
+
+End-user documentation
+All public documents related to the Simrad TV80 can be accessed using the links below. The documents are provided in several formats including PDF, HTML, EPUB and/or CHM. When applicable, certain publications are available as interactive electronic technical manuals (IETM) on separate websites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","The Simrad TV80 is designed to efficiently and effectively monitor data from fishing gear and catch monitoring sensors. Its flexible and intuitive design enables the user to easily detect changes or trends in the relevant data with a quick look at the screen. With several built-in features, the TV80 provides stable data readings and offers user-configurable presentation of data. Additionally, the TV80 includes a spectrum analyzer to identify and mitigate noise interference, as well as simulators for practical investigation with different trawl configurations. Users can access the current software version and related documentation, as well as obtain a software license to ensure full functionality."," - Easy operation with an intuitive user interface
+ - Flexible screen presentation
+ - Up to four simultaneous views
+ - Dual screen configuration
+ - User-configurable presentation of data
+ - Telemetry data recording every 60 seconds
+ - Built-in spectrum analyzer
+ - Simulators for practical use investigation
+ - Current software version v21.11",I don`t know
+https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/sub-bottom-profilers2/SBP-120-300/,"Sub-bottom profiler, SBP 120/300",,"Option to the EM 124 multibeam echo sounder
+The operating principle of this SBP is to the same as that of a multibeam echo sounder, but the signal frequency is lower in order to penetrate the sea floor. Transmission is made by a dedicated projector array, normally of the same length as the multibeam projector and mounted parallel to this. The SBP 120/300 shares receiver array with the EM.
+Deeper penetration
+The SBP 120/300 Sub bottom profiler has a much narrower beam width than a conventional sub bottom profiler with correspondingly lesser smearing. It thus provides deeper penetration into the bottom, and higher angular resolution. Compared to the other class of narrow beam SBPs: the parametric sediment profilers, a significantly higher source level can be produced by the large transmitter array of the SBP 120. This enables better penetration into the sediments.
+Stabilised for ships attidude
+The transmit beam and the receiver beams are stabilised for pitch and roll, respectively.
+Several simultaneous beams
+The receiver beam former have access to the digitized individual hydrophone signals of the receiver array. This is utilized to generate several beams per ping providing the SBP 120 with the unique feature of being a true multibeam sub bottom profiler.
+Integration with EM 124/304
+The sub bottom profiler is tightly integrated with the EM 124/304 multibeam echo sounder:
+
+It makes use of the same receiver array and preamplifier as the EM. The EMs preamplifier is filtering the received signals into a high frequency channel used by the EM and a low frequency (2-8 kHz) channel that is used by the SBP.
+It uses the water depth measured by the EM for automatic setting of the observation window.
+If the bottom is sloping, the EM can estimate the local slope angles and inform the SBP 120, so that the beams can be directed perpendicularly to the bottom, in order to get the best resolution and contrast
+Pinging can be synchronized so that interference is minimized. For deeper waters SBP 120/300 can transmit several pings for each multibeam ping, without affecting the operation or ping rate of the EM.
+
+","The SBP 120/300 Sub bottom profiler operates on the same principle as a multibeam echo sounder, utilizing a lower signal frequency for deeper sea floor penetration. It features a dedicated projector array and shares a receiver array with the EM system. With a narrower beam width, it offers deeper penetration and higher angular resolution compared to conventional sub bottom profilers. Stabilized for ships' attitude, it also provides several simultaneous beams and is tightly integrated with the EM 124/304 multibeam echo sounder. The integration includes sharing the receiver array and preamplifier, utilizing the EM's water depth measurement for observation window setting, and synchronizing pinging to minimize interference.",Key Features: - Deeper penetration with a narrower beam width - Higher angular resolution - Stabilization for ships' attitude - Generation of several beams per ping - Tight integration with the EM 124/304 multibeam echo sounder,I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/mapping-systems/sonars/SAS/,Synthetic Aperture Sonar,,"Much higher resolution
+Synthetic aperture sonars combine a number of acoustic pings to form an image with much higher resolution than conventional sonars, typically 10 times higher. HISAS is a wideband SAS sonar with frequency range of 70-100kHz, capable of producing ultra high resolution acoustic images as well as co-registered bathymetry. The sonar is tightly integrated with the INS navigation and motion sensing platform of the HUGIN AUV, and makes use of modern signal processing such as DPCA (Displaced Phase Centre Analysis) to process the raw data into images.
+4 cm resolution
+The synthetic aperture sonar prototype has recently been tested with success at sea outside Horten, Norway, with signal processing done by Norwegian Defence Research Establishment (FFI). The image above is from this test and shows a sunken wreck standing upright on the bottom. It has a resolution of about 4 cm both along track and across, each acoustic beam being processed from 40 consecutive pings. If the reproduction of the image is good, one can observe details such as the wire running from the bow to the top of the mast.
+Basic concepts
+The azimuth (along-track) resolution of a sonar can be computed as the ratio between the acoustic wavelength and the length of the array. For typical side scan sonars, this ratio is of the order 1:60-1:400 (meaning a resolution of 1 m at 60 and 400 m range, respectively). A longer array will increase this ratio, but fitting such a long array is not always possible or practical on most underwater vehicles. Operation at a higher frequency will increase the ratio, but will at the same time limit the achievable range due to higher absorption. The Synthetic Aperture Sonar principle overcomes these limitations by utilising data from several consecutive pings to synthesize a longer sonar array. A fundamental limitation of SAS systems is that the platform cannot travel further than half the length of the receive array per ping interval (which in turn determines the range). For SAS systems, the maximum range is proportional to the receive array length, and inversely proportional to the platform speed. The theoretical azimuth resolution in SAS is half the length of each element in the receive array, at all ranges. In general, this resolution is not practically achievable, and the practical resolution will be 1.5 – 2 times lower. The range resolution is, as in regular side scan sonars, a function of the bandwidth.
+Reverberation suppression
+The multi-element transmit array and the programmable transmit waveform generator allows both beam direction and beam coverage to be varied to reduce influence of seabed and sea surface reverberation. Waveform, pulse length and transmit power are fully programmable.
+Multi-aspect imaging
+The small (in wavelengths) element size gives this sensor a wide field of view, facilitating the use of multi-aspect imaging. The principle is illustrated in the illustration below. In practice, the operator can view a continuous ""movie"" of an object seen from different aspect angles. This feature effectively adds another dimension to the data set, and greatly increases the probability of both manual and computerized classification of mine-like objects in cluttered areas.
+
+Bathymetry
+HISAS 1030 has two full-length receive arrays on each side of the AUV. They are used to form two SAS images of the same scene with slightly different geometry. This adds considerable robustness to the system, but it also allows very high resolution interferometric processing from SAS data. The specification is for relative bathymetry resolution better than 50x50 cm to full range, but in practice the resolution may be considerably better which will allow 3D imaging of mines and mine-like objects.
+High resolution velocity measurement
+
+
+SAS image of a barge of size 10 x 3 m. The small rectangular hole, which measures about 30 x 40 cm, is at 60 m range.
+
+HISAS can optionally provide a highly accurate measurement of an AUV's displacement (or velocity) in all three dimensions. This measurement can be utilised by an aided inertial navigation system, and will significantly reduce position error growth when absolute position.
+FOCUS Synthetic Aperture Sonar
+Signal Processing Toolbox FOCUS is a complete SAS post-processing toolbox, delivered with HISAS 1030. The figure on the last page shows the main building blocks in FOCUS.
+The output products can be divided into four categories:
+
+Navigation
+Rapid result - dynamically focused multibeam side scan images, low resolution bathymetry
+High resolution - streaming SAS imagery and relative bathymetry of configurable resolution
+Classification - very high resolution imagery, bathymetry and other advanced products.
+
+The toolbox includes integrated SAS micronavigation and inertial navigation, time and wavenumber domain beamforming, phase gradient autofocus (PGA) and seafloor height estimation by cross-correlation and interferometry. Data is made available in standard file formats (XTF sonar files, Kongsberg .ALL bathymetry data, GeoTIFF mosaic, etc). Depending on the required processing speed, a range of hardware options are available. Typical processing speed is 2-5 times faster than real-time for high resolution SAS imagery. Solutions are available for integrating FOCUS with third party post-mission analysis and display software. Parts or all of the FOCUS processing can also be applied in real time inside the underwater vehicle at the expense of added volume, weight and power consumption.
+","Synthetic aperture sonars combine a number of acoustic pings to form an image with much higher resolution than conventional sonars, typically 10 times higher. HISAS is a wideband SAS sonar with frequency range of 70-100kHz, capable of producing ultra high resolution acoustic images as well as co-registered bathymetry. The sonar is tightly integrated with the INS navigation and motion sensing platform of the HUGIN AUV, and makes use of modern signal processing such as DPCA (Displaced Phase Centre Analysis) to process the raw data into images. The synthetic aperture sonar prototype has recently been tested with success at sea outside Horten, Norway, with signal processing done by Norwegian Defence Research Establishment (FFI). The image above is from this test and shows a sunken wreck standing upright on the bottom. It has a resolution of about 4 cm both along track and across, each acoustic beam being processed from 40 consecutive pings. The azimuth (along-track) resolution of a sonar can be computed as the ratio between the acoustic wavelength and the length of the array. For typical side scan sonars, this ratio is of the order 1:60-1:400 (meaning a resolution of 1 m at 60 and 400 m range, respectively). A longer array will increase this ratio, but fitting such a long array is not always possible or practical on most underwater vehicles. Operation at a higher frequency will increase the ratio, but will at the same time limit the achievable range due to higher absorption. The multi-element transmit array and the programmable transmit waveform generator allows both beam direction and beam coverage to be varied to reduce influence of seabed and sea surface reverberation. The small (in wavelengths) element size gives this sensor a wide field of view, facilitating the use of multi-aspect imaging. HISAS 1030 has two full-length receive arrays on each side of the AUV. They are used to form two SAS images of the same scene with slightly different geometry. This adds considerable robustness to the system, but it also allows very high resolution interferometric processing from SAS data. HISAS can optionally provide a highly accurate measurement of an AUV's displacement (or velocity) in all three dimensions. FOCUS is a complete SAS post-processing toolbox, delivered with HISAS 1030. The output products can be divided into four categories.", -Much higher resolution compared to conventional sonars. -Wideband SAS sonar with frequency range of 70-100kHz. -4 cm resolution along track and across. -Reverberation suppression for reduced influence of seabed and sea surface reverberation. -Multi-aspect imaging facilitated by the small element size. -High resolution interferometric processing from SAS data. -Highly accurate measurement of AUV's displacement (or velocity) in all three dimensions. -FOCUS Synthetic Aperture Sonar: delivered post-processing toolbox.,I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/scientific-multibeam-systems/td50/,TD50 3D Visualization Tool,,"The unique TD50 3D Visualization Software is currently operational with the following products:
+
+ME70 scientific multibeam echo sounder
+MS70 scientific multibeam sonar
+EK80 scientific wideband echo sounder
+
+
+
+The TD50 software reads the incredibly clean raw data from the source systems in real-time, and delivers accurate live visualization of the ocean space beneath the vessel to the scientific lab onboard and/or to the bridge. Previously this data had to be post-processed before the 3D potential of the system was realized. A live feed is now available. Researchers and vessel crews benefit from a new highly effective decision support tool that can enhance vessel efficiency and the effectiveness of scientific surveys in general.
+
+
+
+The TD50 Multibeam 3D Visualization Software is shown presenting sand eels on sand bottom. The raw data is taken from the ME70 Scientific multibeam echo sounder on M/S Simrad Echo.
+Accurate 3D visualization gives you a better understanding of the marine ecosystem. It allows precise measurement of schools of fish rather than estimating size and shapes based on models. Additionally, a 3D view of bottom topography and the related bottom habitats further enhances the understanding of marine ecosystems. When accurate 3D visualization is delivered in real time, the benefits are significant.
+The TD50 is especially relevant to projects using 'adaptive sampling', as the live 3D stream of the survey area enables you to see specific attributes as the vessel passes over them, allowing action for further inspection to be taken immediately.
+The live 3D stream from the source systems can be delivered to multiple locations on board which allows for better interaction between scientists and the vessel operators, which is typically important in demanding operations where the vessel interacts with objects in the water column. Research vessels engaged in an active sampling of biology such as trawling can also improve their capabilities, with the TD50 system effectively providing a 'long range camera' below the surface.
+
+","TD50 3D Visualization Software offers real-time visualization of the ocean space beneath the vessel, eliminating the need for post-processing the raw data from the source systems. It provides accurate live visualization to the scientific lab onboard and/or to the bridge, enhancing vessel efficiency and the effectiveness of scientific surveys. The software presents sand eels on sand bottom, allowing for a better understanding of the marine ecosystem and precise measurement of schools of fish. It also offers a 3D view of bottom topography and related bottom habitats, significantly benefiting projects using 'adaptive sampling'. The live 3D stream from the source systems can be delivered to multiple locations on board, enabling better interaction between scientists and vessel operators and improving capabilities for research vessels engaged in active sampling of biology such as trawling.","The key features of TD50 3D Visualization Software are: 
+- Real-time visualization of the ocean space beneath the vessel 
+- Accurate live visualization to the scientific lab onboard and/or to the bridge 
+- Precise measurement of schools of fish 
+- 3D view of bottom topography and related bottom habitats 
+- Delivery of live 3D stream from the source systems to multiple locations on board",I don't know
+https://www.kongsberg.com/maritime/products/ocean-science/ocean-science/es_scientific/sci_es_transceivers/,transceivers for scientific echo sounders,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/maritime/products/marine-robotics/underwater-vehicle-instruments/1107-series/,Underwater Altimeters - 1107 series,,"The KONGSBERG underwater altimeter product line is designed to operate in stand-alone mode (NMEA output) or connected to the MS1000 processing software.
+Key features
+
+Robust design
+Easily configurable analog / digital outputs
+Operating Depth: 3,000 m, 4,000 m, 6,000 m and 11,000 m
+Range of models and frequencies available to suit different specifications
+
+Applications
+
+ROV / AUV to determine height above seabed
+Obstacle avoidance
+Positioning
+Below surface monitoring
+
+1107 Series Altimeter models
+
+","The KONGSBERG underwater altimeter product line is designed to operate in stand-alone mode (NMEA output) or connected to the MS1000 processing software. The product line offers a robust design and easily configurable analog / digital outputs. It has an operating depth of 3,000 m, 4,000 m, 6,000 m, and 11,000 m. There is a range of models and frequencies available to suit different specifications. The applications of the product include its use in ROV / AUV to determine height above seabed, obstacle avoidance, positioning, and below surface monitoring. The 1107 Series Altimeter models are specifically designed for these purposes.","Robust design, Easily configurable analog / digital outputs, Operating Depth: 3,000 m, 4,000 m, 6,000 m and 11,000 m, Range of models and frequencies available to suit different specifications",I don't know
+https://www.kongsberg.com/contentassets/9c7466e11a8d427bb564104e1a0a9f4a/datasheet_mgc_r2.pdf,Gyro Compass and INS MGC R2,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/9c7466e11a8d427bb564104e1a0a9f4a/110-0029208a_datasheet_mgc_r3gc_jan23.pdf,Gyro Compass for ships / high-speed crafts - MGC R3,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/9c7466e11a8d427bb564104e1a0a9f4a/110-0029200a_datasheet_mgc_r2gc_jan23.pdf,Gyro Compass for ships / high-speed crafts - MGC R2,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/9c7466e11a8d427bb564104e1a0a9f4a/datasheet_mgc_r3.pdf,Gyro Compass and INS MGC R3,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/9c7466e11a8d427bb564104e1a0a9f4a/datasheet_mgc_r4.pdf,Gyro Compass and INS MGC R4,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/9c7466e11a8d427bb564104e1a0a9f4a/datasheet_mgc_r5.pdf,Gyro Compass and INS MGC R5,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/9c7466e11a8d427bb564104e1a0a9f4a/datasheet_mgc_r1gc.pdf,Gyro Compass MGC R1,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144.pdf,MBR 144,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144_oem.pdf,MBR144 OEM,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr189mk2portable.pdf,MBR 189 Portable,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr179mk2fcc_aug22.pdf,MBR 179 MK2 FCC,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144_personal.pdf,MBR 144 Personal,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr179mkii.pdf,MBR 179,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144fcc_sep22.pdf,MBR 144 FCC,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr179mk2fccportable_aug22.pdf,MBR 179 MK2 FCC Portable,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144_submersible.pdf,MBR 144 Submersible,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr179mk2portable.pdf,MBR 179 Portable,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144fcc_submersible_sep22.pdf,MBR 144 FCC Submersible,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr189mk2_fcc_aug22.pdf,MBR 189 MK2 FCC,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144_uav_jun23.pdf,MBR 144 UAV,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr189mk2.pdf,MBR 189,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr144fcc_oem_aug22.pdf,MBR 144 FCC OEM,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/a1b8bf7c95d84236a8089a8a691a0e6d/datasheet_mbr189mk2fccportable_aug22.pdf,MBR 189 MK2 FCC Portable,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/5d74ac17037e48d383900f89d4f9557b/482731a-topas-ps120-datasheet.pdf,TOPAS PS 120 Parametric sub-bottom profiler,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/topas-ps-18-parametric-sub-bottom-profiler.pdf,TOPAS PS 18 Parametric sub-bottom profiler,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/topas-ps-40-parametric-sub-bottom-profiler.pdf,TOPAS PS 40 Parametric sub-bottom profiler,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/c22a596095db4994a5f26ba216b6b968/110-0017978a_datasheet_seapath380_dec22.pdf," Seapath 380 - utilising GPS, GLONASS, Galileo, Beidou and QZSS",,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/c22a596095db4994a5f26ba216b6b968/110-0017979b_datasheet_seapath380-r_series.pdf,Seapath 380-R,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/c22a596095db4994a5f26ba216b6b968/110-0034148a_datasheet_seapath130_apr23.pdf,"Seapath 130 series, compact heading, attitude and positioning sensor",,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/c22a596095db4994a5f26ba216b6b968/110-0034144b_datasheet_seapath_130-r.pdf,"Seapath 130-R series, compact heading, attitude and positioning sensor",,,I don`t know,I don`t know,I don`t know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mru2.pdf,MRU 2,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mrud.pdf,MRU D,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mru3.pdf,MRU 3,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mrue.pdf,MRU E,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mru5.pdf,MRU 5,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mruh.pdf,MRU H,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mru5mkii.pdf,MRU 5+ ,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/contentassets/77678b37b4c94d51bbfd7d8abdf82c73/datasheet_mrus.pdf,MRU S,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/mine-avoidance-and-navigation-sonar-for-submarines-sa9510s/,SA9510S,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/mine-and-obstacle-avoidance-sonar-for-surface-vessels-sa9520/,SA9520,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/anti-submarine-warefare-sonar-ss-2030/,SS2030 ,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/anti-submarine-warfare-sonar-st-2400/,ST2400,,,I don't know,I don't know,I don't know
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/sd9500-dipping-sonar-for-asw-and-volume-survey-in-littoral-waters/,SD9500,,,Value of the Products block,Key Features block,Technical Specifications block

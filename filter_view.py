@@ -36,7 +36,6 @@ st.set_page_config(
 #     # save as csv
 #     df_new.to_csv("data/tags_gpt4.csv", index=False, encoding="utf-8")
 st.title("Filter View")
-# update tags list
 
 
 # df2_gpt4 = pd.read_csv("data/df_tags_splitted_30_11.csv")

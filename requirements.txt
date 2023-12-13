@@ -9,3 +9,4 @@ ipykernel
 openpyxl
 PyPDF2
 pdfreader
+pdfplumber

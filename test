@@ -1,0 +1,329 @@
+4
+120 kHz single-beam transducer
+Seafloor mapping
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/164023_120-25.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Echo sounder', 'Technology': 'Single beam Echo sounder', 'Application': 'Oceanography, Subsea survey, Hydrographic survey, Seafloor mapping'}}
+______________
+5
+120 kHz single-beam transducer
+Geophysical survey
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/164023_120-25.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Sub-bottom profiler', 'Technology': 'Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping'}}
+______________
+6
+18 kHz single-beam transducer
+Seafloor mapping
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/130404ac_18-11_product_specification_english.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Echo sounder', 'Technology': 'Single beam Echo sounder', 'Application': 'Deep sea exploration, Seafloor mapping, Oceanography, Hydrographic survey, Sub-bottom profile survey'}}
+______________
+7
+18 kHz single-beam transducer
+Geophysical survey
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/130404ac_18-11_product_specification_english.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Sub-bottom profiler', 'Technology': 'Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping'}}
+______________
+8
+200 kHz single-beam transducer in robust housing
+Seafloor mapping
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/164022_200-28e.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Sonar', 'Technology': 'Single beam Echo sounder', 'Application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Seafloor mapping'}}
+______________
+9
+200 kHz single-beam transducer in robust housing
+Geophysical survey
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/164022_200-28e.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Multibeam echo sounder software', 'Technology': 'Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping'}}
+______________
+10
+3710 DGNSS RECEIVER
+Navigation & positioning
+https://www.kongsberg.com/contentassets/7162715d5e3941838b97b22c33b57aae/datasheet_dgnss3710.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'GNSS reciever, IALA beacon reciever, Inertial measurement unit (IMU), Echo sounder, Hydroacoustics (HIPAP), Relative reference system, Absolute reference systems, Transponder, Prism', 'technology': 'GNSS infrastructure, Sensor Fusion, Spoofing Mitigation, Augmented Reality, Acoustic Telemetry, Hydroacoustic Positioning, Inertial Measurement Unit, Laser, Microwave', 'application': 'Situational awareness, GNSS, Navigation, Vessel tracking, Asset tracking, Offshore loading, Relative positioning, Absolute positioning, DP reference,'}
+______________
+{'Navigation & positioning': {'Area': 'Underwater, Surface, Offshore, Onshore', 'Product Type': 'GNSS receiver, IALA beacon receiver', 'Technology': 'GNSS infrastructure, Sensor Fusion', 'Application': 'Situational awareness, Navigation, Vessel tracking, Asset tracking, DP reference'}}
+______________
+11
+38 kHz Single-beam transducer
+Seafloor mapping
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/164017_38-7.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Echo sounder', 'Technology': 'Single beam Echo sounder', 'Application': 'Oceanography', 'Hydrographic survey, ': 'Seafloor mapping'}}
+______________
+12
+38 kHz Single-beam transducer
+Geophysical survey
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/164017_38-7.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Multibeam echo sounder software, Sub-bottom profiler', 'Technology': 'Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping'}}
+______________
+13
+50 kHz Single-beam transducer
+Seafloor mapping
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/160965ab.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Echo sounder', 'Technology': 'Single beam Echo sounder', 'Application': 'Subsea survey, Hydrographic survey, Seafloor mapping'}}
+______________
+14
+50 kHz Single-beam transducer
+Geophysical survey
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/160965ab.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Multibeam echo sounder software, Sub-bottom profiler', 'Technology': 'Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping'}}
+______________
+15
+500 KHZ TRANSDUCER
+Seafloor mapping
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/422109-transducer-500khz-data-sheet.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Echo sounder, Sonar', 'Technology': 'High-Resolution Sonar, Single beam Echo sounder, Side-Scan Sonar', 'Application': 'Oceanography, Subsea survey, Hydrographic survey, Seafloor mapping'}}
+______________
+16
+500 KHZ TRANSDUCER
+Geophysical survey
+https://www.kongsberg.com/contentassets/d106c9aa05de423a8b02cf5fae6d6ad1/422109-transducer-500khz-data-sheet.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Sub-bottom profiler', 'Technology': 'Single beam', 'Application': 'Seafloor Mapping, Sediment Layer Mapping'}}
+______________
+17
+ACS500
+Surveillance & monitoring
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/acs500-emergency-acoustic-bop-control-system/
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Underwater, Surface, Offshore', 'Product Type': 'Acoustic Control System', 'Technology': 'Acoustic Telemetry Link', 'Application': 'Subsea monitoring, Underwater Surveillance, Pipeline survey, Underwater construction support'}}
+______________
+18
+AIS 300
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/abc742e411b04f1ab77096bc04194195/datasheet_ais300.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Surface, Onshore, Offshore', 'Product Type': 'AIS infrastructure', 'Technology': 'AIS transponder, GNSS, Radar', 'Application': 'Situational awareness, Ports & harbours, Inland waterways, AIS network'}}
+______________
+19
+Category 'navigation and positioning' not found in filter_dataframe
+20
+AIS 300S
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/abc742e411b04f1ab77096bc04194195/datasheet_ais300s.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Underwater, Offshore', 'Product Type': 'AIS infrastructure', 'Technology': 'AIS transponder, GNSS', 'Application': 'Subsea monitoring, Underwater Surveillance, Situational awareness, Ports & harbours'}}
+______________
+21
+Category 'navigation and positioning' not found in filter_dataframe
+22
+AIS AQ610
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/ce398b77c82a49b78da71cab3dbe06ab/datasheet_aisaq610.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Offshore, Surface', 'Product Type': 'AIS infrastructure', 'Technology': 'AIS transponder, GNSS', 'Application': 'Situational awareness, Ports & harbours, AIS network'}}
+______________
+23
+Category 'navigation and positioning' not found in filter_dataframe
+24
+AIS BS600
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/ce398b77c82a49b78da71cab3dbe06ab/datasheet_aisbs600.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Surface, Onshore, Offshore', 'Product Type': 'AIS infrastructure', 'Technology': 'AIS transponder, GNSS, Acoustic Telemetry Link', 'Application': 'Situational awareness, Ports & harbours, Inland waterways, AIS network'}}
+______________
+25
+AIS BS610
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/ce398b77c82a49b78da71cab3dbe06ab/411069d_ds_aisbs610_dec22.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Offshore, Onshore, Space', 'Product Type': 'AIS infrastructure', 'Technology': 'AIS transponder, GNSS, Radar', 'Application': 'Situational awareness, Ports & harbours, Inland waterways, AIS network'}}
+______________
+26
+AIS RX610
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/ce398b77c82a49b78da71cab3dbe06ab/datasheet_aisrx610.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Surface, Offshore, Onshore', 'Product Type': 'AIS infrastructure', 'Technology': 'AIS transponder, GNSS', 'Application': 'Situational awareness, Ports & harbours, Inland waterways, AIS network'}}
+______________
+27
+AIS service management system
+Surveillance & monitoring
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Onshore, Offshore', 'Product Type': 'AIS infrastructure', 'Technology': 'AIS transponder, GNSS', 'Application': 'Ports & harbours, Inland waterways, AIS network, Situational awareness'}}
+______________
+28
+Analytics
+Navigation & positioning
+https://www.kongsberg.com/contentassets/90db5b261a15439e8c200bfc2969308f/datasheet_blueinsight.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'GNSS reciever, IALA beacon reciever, Inertial measurement unit (IMU), Echo sounder, Hydroacoustics (HIPAP), Relative reference system, Absolute reference systems, Transponder, Prism', 'technology': 'GNSS infrastructure, Sensor Fusion, Spoofing Mitigation, Augmented Reality, Acoustic Telemetry, Hydroacoustic Positioning, Inertial Measurement Unit, Laser, Microwave', 'application': 'Situational awareness, GNSS, Navigation, Vessel tracking, Asset tracking, Offshore loading, Relative positioning, Absolute positioning, DP reference,'}
+______________
+{'Navigation & positioning': {'Area': 'Underwater, Surface, Offshore, Onshore', 'Product Type': 'Inertial measurement unit (IMU)', 'Technology': 'Sensor Fusion, GNSS infrastructure, Acoustic Telemetry, Inertial Measurement Unit, Hydroacoustic Positioning', 'Application': 'Situational awareness, Navigation, Vessel tracking, Asset tracking, Absolute positioning, DP reference'}}
+______________
+29
+APOS - Operating station for HiPAP and HPR Acoustic positioning systems
+Surveillance & monitoring
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/apos-survey---surveyors-independent-operator-station-for-hipap/
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Underwater, Offshore', 'Product Type': 'Acoustic Control System', 'Technology': '3D sonar technology, Acoustic Telemetry Link, Autonomous Navigation', 'Application': 'Subsea monitoring, Underwater Surveillance, Situational awareness'}}
+______________
+30
+APOS Survey - Surveyor's independent Operator Station for HiPAP
+Communication solutions
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'Modem, Broadband radio, Transceiver', 'technology': 'Acoustic Modem, VDES technology,', 'application': 'Maritime Communication, Subsea Communication, Portable, Rapid deployment kit, UAV, Submersible, customer specific integration (OEM), Surface, Space'}
+______________
+{'Communication solutions': {'Area': 'Underwater, Offshore', 'Product Type': 'Transceiver', 'Technology': 'Acoustic Modem', 'Application': 'Subsea Communication, Portable, Rapid deployment kit, Submersible, Maritime Communication'}}
+______________
+31
+Aquaculture monitoring system
+Navigation & positioning
+https://www.kongsberg.com/contentassets/520f6e01da10469ea53f0398a179973e/km_datsheeta4_aquaculture-monitoring-system_210512.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'GNSS reciever, IALA beacon reciever, Inertial measurement unit (IMU), Echo sounder, Hydroacoustics (HIPAP), Relative reference system, Absolute reference systems, Transponder, Prism', 'technology': 'GNSS infrastructure, Sensor Fusion, Spoofing Mitigation, Augmented Reality, Acoustic Telemetry, Hydroacoustic Positioning, Inertial Measurement Unit, Laser, Microwave', 'application': 'Situational awareness, GNSS, Navigation, Vessel tracking, Asset tracking, Offshore loading, Relative positioning, Absolute positioning, DP reference,'}
+______________
+{'Navigation & positioning': {'Area': 'Underwater, Offshore', 'Product Type': 'Echo sounder, Hydroacoustics (HIPAP)', 'Technology': 'Sensor Fusion, Acoustic Telemetry, Hydroacoustic Positioning', 'Application': 'Situational awareness, Environmental monitoring, Data analytics'}}
+______________
+32
+AIS ASR x50
+Communication solutions
+https://www.kongsberg.com/contentassets/6a9f1eb8cd5647959847f9d32783b09a/datasheet_asrx50.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'Modem, Broadband radio, Transceiver', 'technology': 'Acoustic Modem, VDES technology,', 'application': 'Maritime Communication, Subsea Communication, Portable, Rapid deployment kit, UAV, Submersible, customer specific integration (OEM), Surface, Space'}
+______________
+{'Communication solutions': {'Area': 'Surface, Space', 'Product Type': 'Transceiver', 'Technology': 'VDES technology', 'Application': 'Maritime Communication, Space, customer specific integration (OEM)'}}
+______________
+33
+Autonomous Underwater Vehicle, HUGIN Edge
+Seafloor mapping
+https://www.kongsberg.com/contentassets/8cf870df24534451afb5f54d171ba2ba/datasheet_hugin_edge.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Echo sounder, Sub-bottom profiler, Sonar', 'Technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Synthetic aperture sonar, Parametric sub-bottom profiler', 'Application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}}
+______________
+34
+Autonomous Underwater Vehicle, HUGIN Edge
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/8cf870df24534451afb5f54d171ba2ba/datasheet_hugin_edge.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Underwater, Offshore', 'Product Type': 'Autonomous Underwater Vehicle', 'Technology': 'Acoustic Telemetry Link, Autonomous Navigation, Inertial', 'Application': 'Subsea monitoring, Underwater Surveillance, Pipeline survey, Target detection'}}
+______________
+35
+Autonomous Underwater Vehicle, HUGIN Edge
+Naval
+https://www.kongsberg.com/contentassets/8cf870df24534451afb5f54d171ba2ba/datasheet_hugin_edge.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'Autonomous Underwater Vehicle, Sonar, Uncrewed Surface Vehicle,', 'technology': 'Customizable Payload, Remote Vessel Operation, USV hydroacoustic applications, Mine avoidance, Maritime mine counter measures (MMCM), MBR, Blue force AIS,', 'application': nan}
+______________
+{'Naval': {'Area': 'Underwater, Offshore', 'Product Type': 'Autonomous Underwater Vehicle, Sonar, Uncrewed Surface Vehicle', 'Technology': 'Customizable Payload, Remote Vessel Operation, USV hydroacoustic applications, Maritime mine counter measures (MMCM), Artificial Intelligence', 'Application': 'Mine avoidance, Sub-sea Mapping, Geological Surveys, Autonomous Navigation, Maritime Surveillance'}}
+______________
+36
+Autonomous Underwater Vehicle, HUGIN Edge
+Geophysical survey
+https://www.kongsberg.com/contentassets/8cf870df24534451afb5f54d171ba2ba/datasheet_hugin_edge.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software', 'Technology': 'Positioning & attitude, Multibeam, Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}}
+______________
+37
+Autonomous Underwater Vehicle, HUGIN Edge
+Autonomous and uncrewed solutions
+https://www.kongsberg.com/contentassets/8cf870df24534451afb5f54d171ba2ba/datasheet_hugin_edge.pdf
+{'Area': 'Underwater, Surface, Offshore', 'product type': 'AUV (aut) products, USV(und) products, Hugin AUV, Sounder USV', 'technology': 'Navigation, 3000 meter, 4500 meter, 6000 meter, Multibeam Echo sounder, Single beam echo sounder, Sub-bottom profiler, Situational awareness', 'application': 'Environmental Monitoring, Marine Survey, Maritime Surveillance, Infrastructure Monitoring, '}
+______________
+{'Autonomous and uncrewed solutions': {'Area': 'Underwater, Offshore', 'Product Type': 'AUV (aut) products, Hugin AUV', 'Technology': 'Navigation, Multibeam Echo sounder, Sub-bottom profiler, Situational awareness', 'Application': 'Environmental Monitoring, Marine Survey, Maritime Surveillance, Infrastructure Monitoring'}}
+______________
+38
+Autonomous Underwater Vehicle, HUGIN Endurance
+Seafloor mapping
+https://www.kongsberg.com/contentassets/3a18a176bcca41e98b7f08eedf64e4e8/473631a_hugin_endurance_datasheet.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Sonar', 'Technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Synthetic aperture sonar', 'Application': 'Seafloor mapping, Subsea survey, Hydrographic survey, Site inspection'}}
+______________
+39
+Autonomous Underwater Vehicle, HUGIN Endurance
+Surveillance & monitoring
+https://www.kongsberg.com/contentassets/3a18a176bcca41e98b7f08eedf64e4e8/473631a_hugin_endurance_datasheet.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Underwater, Surface, Offshore, Onshore', 'Product Type': 'Autonomous Underwater Vehicle', 'Technology': '3D sonar technology, Autonomous Navigation, Inertial', 'Application': 'Subsea monitoring, Underwater Surveillance, Pipeline survey, Situational awareness'}}
+______________
+40
+Autonomous Underwater Vehicle, HUGIN Endurance
+Naval
+https://www.kongsberg.com/contentassets/3a18a176bcca41e98b7f08eedf64e4e8/473631a_hugin_endurance_datasheet.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'Autonomous Underwater Vehicle, Sonar, Uncrewed Surface Vehicle,', 'technology': 'Customizable Payload, Remote Vessel Operation, USV hydroacoustic applications, Mine avoidance, Maritime mine counter measures (MMCM), MBR, Blue force AIS,', 'application': nan}
+______________
+{'Naval': {'Area': 'Underwater, Surface, Offshore, Onshore', 'Product Type': 'Autonomous Underwater Vehicle, Sonar', 'Technology': 'Customizable Payload, Remote Vessel Operation, Maritime mine counter measures (MMCM)', 'Application': 'Seabed Mapping, Inspection, Shore-to-Shore Operations, Autonomy, Data Integration, Navigation'}}
+______________
+41
+Autonomous Underwater Vehicle, HUGIN Endurance
+Geophysical survey
+https://www.kongsberg.com/contentassets/3a18a176bcca41e98b7f08eedf64e4e8/473631a_hugin_endurance_datasheet.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Autonomous Underwater Vehicle', 'Technology': 'Positioning & attitude, Multibeam, Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}}
+______________
+42
+Autonomous Underwater Vehicle, HUGIN Endurance
+Autonomous and uncrewed solutions
+https://www.kongsberg.com/contentassets/3a18a176bcca41e98b7f08eedf64e4e8/473631a_hugin_endurance_datasheet.pdf
+{'Area': 'Underwater, Surface, Offshore', 'product type': 'AUV (aut) products, USV(und) products, Hugin AUV, Sounder USV', 'technology': 'Navigation, 3000 meter, 4500 meter, 6000 meter, Multibeam Echo sounder, Single beam echo sounder, Sub-bottom profiler, Situational awareness', 'application': 'Environmental Monitoring, Marine Survey, Maritime Surveillance, Infrastructure Monitoring, '}
+______________
+{'Autonomous and uncrewed solutions': {'Area': 'Underwater, Surface, Offshore', 'Product Type': 'AUV (aut) products, Hugin AUV', 'Technology': 'Navigation, Multibeam Echo sounder, Situational awareness', 'Application': 'Environmental Monitoring, Marine Survey, Maritime Surveillance, Infrastructure Monitoring'}}
+______________
+43
+Autonomous Underwater Vehicle, HUGIN Superior
+Seafloor mapping
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/hugin-superior.pdf
+{'Area': 'Underwater', 'product type': 'Echo sounder, Sub-bottom profiler, Sonar', 'technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Single beam Echo sounder, Side-Scan Sonar, Syntethic aperture sonar, Parametric sub-bottom profiler', 'application': 'Deep sea exploration, Oceanography, Subsea survey, Hydrographic survey, Site inspection, Sub-bottom profile survey, Seabed mapping, Seafloor mapping'}
+______________
+{'Seafloor mapping': {'Area': 'Underwater', 'Product Type': 'Echo sounder, Sonar, Sub-bottom profiler', 'Technology': 'High-Resolution Sonar, Multibeam Echo Sounder, Synthetic aperture sonar', 'Application': 'Seafloor mapping, Hydrographic survey, Oceanography, Environmental monitoring, Marine archaeology, Defence'}}
+______________
+44
+Autonomous Underwater Vehicle, HUGIN Superior
+Surveillance & monitoring
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/hugin-superior.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore, Space', 'product type': 'Acoustic Control System, Autonomous Underwater Vehicle, Leak Detection System, AIS infrastructure', 'technology': '3D sonar technology, Acoustic Telemetry Link, AIS transponder, Autonomous Navigation, Inertial, Radar, GNSS', 'application': 'Subsea monitoring, Underwater Surveillance, Obstacle avoidance, Pipeline survey, Target detection, Underwater construction support, Situational awareness, Ports & harbours, Inland waterways, AIS network'}
+______________
+{'Surveillance & monitoring': {'Area': 'Underwater, Offshore', 'Product Type': 'Autonomous Underwater Vehicle', 'Technology': 'Autonomous Navigation, Acoustic Telemetry Link, GNSS, 3D sonar technology, Inertial', 'Application': 'Subsea monitoring, Underwater Surveillance, Pipeline survey, Target detection'}}
+______________
+45
+Autonomous Underwater Vehicle, HUGIN Superior
+Naval
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/hugin-superior.pdf
+{'Area': 'Underwater, Surface, Offshore, Onshore', 'product type': 'Autonomous Underwater Vehicle, Sonar, Uncrewed Surface Vehicle,', 'technology': 'Customizable Payload, Remote Vessel Operation, USV hydroacoustic applications, Mine avoidance, Maritime mine counter measures (MMCM), MBR, Blue force AIS,', 'application': nan}
+______________
+{'Naval': {'Area': 'Underwater, Offshore', 'Product Type': 'Autonomous Underwater Vehicle, Sonar', 'Technology': 'Customizable Payload, Remote Vessel Operation, Mine avoidance', 'Application': 'Geophysical Survey, Hydrography, Marine Archaeology, Environmental Monitoring, Defence, Maritime mine counter measures (MMCM)'}}
+______________
+46
+Autonomous Underwater Vehicle, HUGIN Superior
+Geophysical survey
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/hugin-superior.pdf
+{'Area': 'Underwater', 'product type': 'Autonomous Underwater Vehicle, Multibeam echo sounder software, Sub-bottom profiler', 'technology': 'Positioning & attitude, Multibeam, Single beam', 'application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}
+______________
+{'Geophysical survey': {'Area': 'Underwater', 'Product Type': 'Autonomous Underwater Vehicle, Multibeam echo sounder, Sub-bottom profiler', 'Technology': 'Positioning & attitude, Multibeam, Single beam', 'Application': 'Deep-Sea Exploration, Seafloor Mapping, Sediment Layer Mapping'}}
+______________
+47
+Autonomous Underwater Vehicle, HUGIN Superior
+Autonomous and uncrewed solutions
+https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/hugin-superior.pdf
+{'Area': 'Underwater, Surface, Offshore', 'product type': 'AUV (aut) products, USV(und) products, Hugin AUV, Sounder USV', 'technology': 'Navigation, 3000 meter, 4500 meter, 6000 meter, Multibeam Echo sounder, Single beam echo sounder, Sub-bottom profiler, Situational awareness', 'application': 'Environmental Monitoring, Marine Survey, Maritime Surveillance, Infrastructure Monitoring, '}
